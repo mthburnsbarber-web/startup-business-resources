@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T01",
+    "name": "Project Utah",
+    "category": "Security",
+    "url": "https://aithatsee.com/utah/",
+    "notes": "The directory owner's choice for security work.",
+    "source": "Owner task assignments, 2026-10-29"
+  },
+  {
+    "id": "T02",
+    "name": "Claude",
+    "category": "Building",
+    "url": "https://claude.ai/",
+    "notes": "The directory owner's choice for building.",
+    "source": "Owner task assignments, 2026-10-29"
+  },
+  {
+    "id": "T03",
+    "name": "ChatGPT",
+    "category": "Debugging",
+    "url": "https://chatgpt.com/",
+    "notes": "The directory owner's choice for debugging.",
+    "source": "Owner task assignments, 2026-10-29"
+  }
+]
