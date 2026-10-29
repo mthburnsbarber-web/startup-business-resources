@@ -1,0 +1,18 @@
+[
+  {
+    "id": "W01",
+    "name": "MotionSites",
+    "category": "Web design",
+    "url": "https://motionsites.ai/",
+    "notes": "Website design examples and prompts.",
+    "source": "https://motionsites.ai/"
+  },
+  {
+    "id": "W02",
+    "name": "MotionSites Web Builder skill",
+    "category": "Web-building skill",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "notes": "Exact upstream repository for the installed motionsites-web-builder skill.",
+    "source": "https://github.com/Motionsites-AI/claude-skill"
+  }
+]

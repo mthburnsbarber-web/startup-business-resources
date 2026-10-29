@@ -1,0 +1,3 @@
+id,name,category,url,notes,source
+W01,MotionSites,Web design,https://motionsites.ai/,Website design examples and prompts.,https://motionsites.ai/
+W02,MotionSites Web Builder skill,Web-building skill,https://github.com/Motionsites-AI/claude-skill,Exact upstream repository for the installed motionsites-web-builder skill.,https://github.com/Motionsites-AI/claude-skill

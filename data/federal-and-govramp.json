@@ -1,0 +1,290 @@
+[
+  {
+    "id": "F01",
+    "name": "SAM.gov entity registration",
+    "category": "Federal registration",
+    "url": "https://sam.gov/entity-registration",
+    "notes": "Entity registration and Unique Entity ID resources.",
+    "source": "https://sam.gov/entity-registration"
+  },
+  {
+    "id": "F02",
+    "name": "SAM.gov contract opportunities",
+    "category": "Federal procurement",
+    "url": "https://sam.gov/opportunities",
+    "notes": "Search public contracting opportunities.",
+    "source": "https://sam.gov/opportunities"
+  },
+  {
+    "id": "F03",
+    "name": "Login.gov",
+    "category": "Federal registration",
+    "url": "https://login.gov/",
+    "notes": "Identity sign-in service used by government portals.",
+    "source": "https://login.gov/"
+  },
+  {
+    "id": "F04",
+    "name": "Grants.gov",
+    "category": "Federal grants",
+    "url": "https://www.grants.gov/",
+    "notes": "Federal funding opportunities and applicant resources.",
+    "source": "https://www.grants.gov/"
+  },
+  {
+    "id": "F05",
+    "name": "Research.gov",
+    "category": "Federal grants",
+    "url": "https://www.research.gov/",
+    "notes": "NSF proposal and award-management portal.",
+    "source": "https://www.research.gov/"
+  },
+  {
+    "id": "F06",
+    "name": "SBIR.gov",
+    "category": "Federal grants",
+    "url": "https://www.sbir.gov/",
+    "notes": "Cross-agency SBIR/STTR program information.",
+    "source": "https://www.sbir.gov/"
+  },
+  {
+    "id": "F07",
+    "name": "NSF Seed Fund",
+    "category": "Federal grants",
+    "url": "https://seedfund.nsf.gov/",
+    "notes": "NSF small-business research funding.",
+    "source": "https://seedfund.nsf.gov/"
+  },
+  {
+    "id": "F08",
+    "name": "NIH SEED",
+    "category": "Federal grants",
+    "url": "https://seed.nih.gov/",
+    "notes": "NIH small-business funding and commercialization resources.",
+    "source": "https://seed.nih.gov/"
+  },
+  {
+    "id": "F09",
+    "name": "eRA Commons",
+    "category": "Federal grants",
+    "url": "https://www.era.nih.gov/",
+    "notes": "NIH electronic research administration.",
+    "source": "https://www.era.nih.gov/"
+  },
+  {
+    "id": "F10",
+    "name": "IES SBIR",
+    "category": "Federal grants",
+    "url": "https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir",
+    "notes": "Education research and technology funding.",
+    "source": "https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir"
+  },
+  {
+    "id": "F11",
+    "name": "Defense SBIR/STTR Innovation Portal",
+    "category": "Federal grants",
+    "url": "https://www.dodsbirsttr.mil/",
+    "notes": "Department of Defense SBIR/STTR solicitations and submission portal.",
+    "source": "https://www.dodsbirsttr.mil/"
+  },
+  {
+    "id": "F12",
+    "name": "AFWERX",
+    "category": "Federal grants",
+    "url": "https://afwerx.com/get-funded/",
+    "notes": "Air Force innovation funding routes.",
+    "source": "https://afwerx.com/get-funded/"
+  },
+  {
+    "id": "F13",
+    "name": "DARPA small-business programs",
+    "category": "Federal grants",
+    "url": "https://www.darpa.mil/work-with-us/communities/small-business",
+    "notes": "DARPA small-business opportunities.",
+    "source": "https://www.darpa.mil/work-with-us/communities/small-business"
+  },
+  {
+    "id": "F14",
+    "name": "DOE SBIR/STTR",
+    "category": "Federal grants",
+    "url": "https://science.osti.gov/sbir",
+    "notes": "Department of Energy small-business research funding.",
+    "source": "https://science.osti.gov/sbir"
+  },
+  {
+    "id": "F15",
+    "name": "NASA SBIR/STTR",
+    "category": "Federal grants",
+    "url": "https://www.nasa.gov/sbir_sttr/",
+    "notes": "NASA small-business research and technology programs.",
+    "source": "https://www.nasa.gov/sbir_sttr/"
+  },
+  {
+    "id": "F16",
+    "name": "Defense Innovation Unit",
+    "category": "Federal procurement",
+    "url": "https://www.diu.mil/work-with-us/open-solicitations",
+    "notes": "Commercial technology solicitations.",
+    "source": "https://www.diu.mil/work-with-us/open-solicitations"
+  },
+  {
+    "id": "F17",
+    "name": "Navy SBIR/STTR",
+    "category": "Federal grants",
+    "url": "https://www.navysbir.com/",
+    "notes": "Navy small-business research topics and resources.",
+    "source": "https://www.navysbir.com/"
+  },
+  {
+    "id": "F18",
+    "name": "DLA CAGE",
+    "category": "Federal registration",
+    "url": "https://cage.dla.mil/",
+    "notes": "Commercial and Government Entity code information.",
+    "source": "https://cage.dla.mil/"
+  },
+  {
+    "id": "F19",
+    "name": "PIEE",
+    "category": "Federal procurement",
+    "url": "https://piee.eb.mil/",
+    "notes": "Procurement Integrated Enterprise Environment.",
+    "source": "https://piee.eb.mil/"
+  },
+  {
+    "id": "F20",
+    "name": "SPRS",
+    "category": "Federal procurement",
+    "url": "https://www.sprs.csd.disa.mil/",
+    "notes": "Supplier Performance Risk System resources.",
+    "source": "https://www.sprs.csd.disa.mil/"
+  },
+  {
+    "id": "F21",
+    "name": "GSA Multiple Award Schedule",
+    "category": "Federal procurement",
+    "url": "https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule",
+    "notes": "Schedule contracting information.",
+    "source": "https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule"
+  },
+  {
+    "id": "F22",
+    "name": "GSA eOffer/eMod",
+    "category": "Federal procurement",
+    "url": "https://eoffer.gsa.gov/",
+    "notes": "Electronic offer and modification portal.",
+    "source": "https://eoffer.gsa.gov/"
+  },
+  {
+    "id": "F23",
+    "name": "GSA eBuy",
+    "category": "Federal procurement",
+    "url": "https://www.ebuy.gsa.gov/",
+    "notes": "RFQ system for eligible contract holders.",
+    "source": "https://www.ebuy.gsa.gov/"
+  },
+  {
+    "id": "F24",
+    "name": "APEX Accelerators",
+    "category": "Business assistance",
+    "url": "https://www.apexaccelerators.us/",
+    "notes": "Government contracting assistance centers.",
+    "source": "https://www.apexaccelerators.us/"
+  },
+  {
+    "id": "F25",
+    "name": "SBA federal contracting guide",
+    "category": "Federal procurement",
+    "url": "https://www.sba.gov/federal-contracting",
+    "notes": "Contracting eligibility, assistance and certification information.",
+    "source": "https://www.sba.gov/federal-contracting"
+  },
+  {
+    "id": "F26",
+    "name": "SBA certifications",
+    "category": "Federal registration",
+    "url": "https://certifications.sba.gov/",
+    "notes": "Official SBA certification portal.",
+    "source": "https://certifications.sba.gov/"
+  },
+  {
+    "id": "F27",
+    "name": "FedRAMP",
+    "category": "Cloud assurance",
+    "url": "https://www.fedramp.gov/",
+    "notes": "Federal cloud security authorization program.",
+    "source": "https://www.fedramp.gov/"
+  },
+  {
+    "id": "F28",
+    "name": "FedRAMP Marketplace",
+    "category": "Cloud assurance",
+    "url": "https://marketplace.fedramp.gov/",
+    "notes": "Public directory of offerings and their reported program status.",
+    "source": "https://marketplace.fedramp.gov/"
+  },
+  {
+    "id": "F29",
+    "name": "GovRAMP",
+    "category": "Cloud assurance",
+    "url": "https://govramp.org/",
+    "notes": "Cloud assurance program used by participating public-sector organizations.",
+    "source": "https://govramp.org/"
+  },
+  {
+    "id": "F30",
+    "name": "GovRAMP service providers",
+    "category": "Cloud assurance",
+    "url": "https://govramp.org/service-providers/",
+    "notes": "Provider membership, program paths and resources.",
+    "source": "https://govramp.org/service-providers/"
+  },
+  {
+    "id": "F31",
+    "name": "GovRAMP getting-started guide",
+    "category": "Cloud assurance",
+    "url": "https://govramp.org/news/getting-started-with-govramp-a-guide-for-service-providers",
+    "notes": "Provider guide to participation and verification.",
+    "source": "https://govramp.org/news/getting-started-with-govramp-a-guide-for-service-providers"
+  },
+  {
+    "id": "F32",
+    "name": "GovRAMP participating governments",
+    "category": "Cloud assurance",
+    "url": "https://govramp.org/participating-government-organizations/",
+    "notes": "Participation directory; participation alone does not establish a universal requirement.",
+    "source": "https://govramp.org/participating-government-organizations/"
+  },
+  {
+    "id": "F33",
+    "name": "NIST Cybersecurity Framework",
+    "category": "Security standards",
+    "url": "https://www.nist.gov/cyberframework",
+    "notes": "Cybersecurity risk-management framework.",
+    "source": "https://www.nist.gov/cyberframework"
+  },
+  {
+    "id": "F34",
+    "name": "NIST SP 800-53",
+    "category": "Security standards",
+    "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "notes": "Security and privacy control catalog.",
+    "source": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final"
+  },
+  {
+    "id": "F35",
+    "name": "NIST SP 800-171",
+    "category": "Security standards",
+    "url": "https://csrc.nist.gov/pubs/sp/800/171/r3/final",
+    "notes": "Protection of controlled unclassified information in nonfederal systems.",
+    "source": "https://csrc.nist.gov/pubs/sp/800/171/r3/final"
+  },
+  {
+    "id": "F36",
+    "name": "CMMC",
+    "category": "Defense assurance",
+    "url": "https://dodcio.defense.gov/CMMC/",
+    "notes": "Defense cybersecurity certification program information.",
+    "source": "https://dodcio.defense.gov/CMMC/"
+  }
+]

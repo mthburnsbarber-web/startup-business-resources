@@ -1,0 +1,234 @@
+[
+  {
+    "id": "O01",
+    "name": "Harvard Business Services / DelawareInc",
+    "category": "Company formation",
+    "url": "https://www.delawareinc.com/",
+    "notes": "Delaware incorporation and registered-agent provider.",
+    "source": "https://www.delawareinc.com/"
+  },
+  {
+    "id": "O02",
+    "name": "Delaware Division of Corporations",
+    "category": "Company formation",
+    "url": "https://corp.delaware.gov/",
+    "notes": "Official formation, franchise-tax and corporate records resources.",
+    "source": "https://corp.delaware.gov/"
+  },
+  {
+    "id": "O03",
+    "name": "Delaware entity search",
+    "category": "Company formation",
+    "url": "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx",
+    "notes": "Public entity-name search.",
+    "source": "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx"
+  },
+  {
+    "id": "O04",
+    "name": "Georgia Secretary of State corporations",
+    "category": "Company formation",
+    "url": "https://sos.ga.gov/corporations-division",
+    "notes": "Georgia business registration and annual-registration resources.",
+    "source": "https://sos.ga.gov/corporations-division"
+  },
+  {
+    "id": "O05",
+    "name": "IRS employer identification numbers",
+    "category": "Tax and registration",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers",
+    "notes": "Official EIN information; use the IRS process directly.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers"
+  },
+  {
+    "id": "O06",
+    "name": "IRS small business center",
+    "category": "Tax and registration",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed",
+    "notes": "Federal small-business tax resources.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed"
+  },
+  {
+    "id": "O07",
+    "name": "FinCEN beneficial ownership information",
+    "category": "Tax and registration",
+    "url": "https://www.fincen.gov/boi",
+    "notes": "Check current official rules and exemptions before determining any filing duty.",
+    "source": "https://www.fincen.gov/boi"
+  },
+  {
+    "id": "O08",
+    "name": "USPTO trademarks",
+    "category": "Intellectual property",
+    "url": "https://www.uspto.gov/trademarks",
+    "notes": "Trademark search, filing and maintenance resources.",
+    "source": "https://www.uspto.gov/trademarks"
+  },
+  {
+    "id": "O09",
+    "name": "USPTO patents",
+    "category": "Intellectual property",
+    "url": "https://www.uspto.gov/patents",
+    "notes": "Patent search and application information.",
+    "source": "https://www.uspto.gov/patents"
+  },
+  {
+    "id": "O10",
+    "name": "US Copyright Office",
+    "category": "Intellectual property",
+    "url": "https://www.copyright.gov/",
+    "notes": "Copyright registration and public guidance.",
+    "source": "https://www.copyright.gov/"
+  },
+  {
+    "id": "O11",
+    "name": "Sequoia Capital",
+    "category": "Investors",
+    "url": "https://sequoiacap.com/",
+    "notes": "Official Sequoia Capital website.",
+    "source": "https://sequoiacap.com/"
+  },
+  {
+    "id": "O12",
+    "name": "Sequoia Arc",
+    "category": "Investors",
+    "url": "https://sequoiacap.com/arc/",
+    "notes": "Official founder intake and company-building program; check the current open call.",
+    "source": "https://sequoiacap.com/arc/"
+  },
+  {
+    "id": "O13",
+    "name": "Carahsoft partner ecosystem",
+    "category": "Distribution",
+    "url": "https://www.carahsoft.com/partners",
+    "notes": "Public-sector technology distribution and partner resources.",
+    "source": "https://www.carahsoft.com/partners"
+  },
+  {
+    "id": "O14",
+    "name": "1EdTech",
+    "category": "Education interoperability",
+    "url": "https://www.1edtech.org/",
+    "notes": "Education interoperability standards, membership and certification resources.",
+    "source": "https://www.1edtech.org/"
+  },
+  {
+    "id": "O15",
+    "name": "Clever application partners",
+    "category": "Education distribution",
+    "url": "https://clever.com/partners",
+    "notes": "School application integration and partner information.",
+    "source": "https://clever.com/partners"
+  },
+  {
+    "id": "O16",
+    "name": "ClassLink partners",
+    "category": "Education distribution",
+    "url": "https://www.classlink.com/partners",
+    "notes": "Education application integration partners.",
+    "source": "https://www.classlink.com/partners"
+  },
+  {
+    "id": "O17",
+    "name": "HECVAT",
+    "category": "Education assurance",
+    "url": "https://www.educause.edu/hecvat",
+    "notes": "Higher Education Community Vendor Assessment Toolkit.",
+    "source": "https://www.educause.edu/hecvat"
+  },
+  {
+    "id": "O18",
+    "name": "Student Privacy Pledge",
+    "category": "Education assurance",
+    "url": "https://studentprivacypledge.org/",
+    "notes": "Voluntary student privacy commitments; signing is a separate decision.",
+    "source": "https://studentprivacypledge.org/"
+  },
+  {
+    "id": "O19",
+    "name": "US Department of Education student privacy",
+    "category": "Education assurance",
+    "url": "https://studentprivacy.ed.gov/",
+    "notes": "Official FERPA and student-data privacy resources.",
+    "source": "https://studentprivacy.ed.gov/"
+  },
+  {
+    "id": "O20",
+    "name": "FTC COPPA guidance",
+    "category": "Privacy",
+    "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions",
+    "notes": "Official children’s privacy compliance information.",
+    "source": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions"
+  },
+  {
+    "id": "O21",
+    "name": "Apple Developer Program",
+    "category": "Software distribution",
+    "url": "https://developer.apple.com/programs/",
+    "notes": "Apple software signing and distribution program.",
+    "source": "https://developer.apple.com/programs/"
+  },
+  {
+    "id": "O22",
+    "name": "App Store Connect",
+    "category": "Software distribution",
+    "url": "https://appstoreconnect.apple.com/",
+    "notes": "Apple app submission and management portal.",
+    "source": "https://appstoreconnect.apple.com/"
+  },
+  {
+    "id": "O23",
+    "name": "Google Play Console",
+    "category": "Software distribution",
+    "url": "https://play.google.com/console/",
+    "notes": "Android app distribution portal.",
+    "source": "https://play.google.com/console/"
+  },
+  {
+    "id": "O24",
+    "name": "Microsoft Partner Center",
+    "category": "Software distribution",
+    "url": "https://partner.microsoft.com/",
+    "notes": "Microsoft partner and software publishing resources.",
+    "source": "https://partner.microsoft.com/"
+  },
+  {
+    "id": "O25",
+    "name": "Stripe",
+    "category": "Payments",
+    "url": "https://stripe.com/",
+    "notes": "Payment processing and billing platform.",
+    "source": "https://stripe.com/"
+  },
+  {
+    "id": "O26",
+    "name": "Cloudflare",
+    "category": "Infrastructure",
+    "url": "https://www.cloudflare.com/",
+    "notes": "Domains, hosting, network and application infrastructure.",
+    "source": "https://www.cloudflare.com/"
+  },
+  {
+    "id": "O27",
+    "name": "Namecheap",
+    "category": "Infrastructure",
+    "url": "https://www.namecheap.com/",
+    "notes": "Domain registration and related services.",
+    "source": "https://www.namecheap.com/"
+  },
+  {
+    "id": "O28",
+    "name": "SCORE",
+    "category": "Business assistance",
+    "url": "https://www.score.org/",
+    "notes": "Small-business mentoring and education.",
+    "source": "https://www.score.org/"
+  },
+  {
+    "id": "O29",
+    "name": "SBA local assistance",
+    "category": "Business assistance",
+    "url": "https://www.sba.gov/local-assistance",
+    "notes": "Find regional small-business assistance.",
+    "source": "https://www.sba.gov/local-assistance"
+  }
+]

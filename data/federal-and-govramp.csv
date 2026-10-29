@@ -1,0 +1,37 @@
+id,name,category,url,notes,source
+F01,SAM.gov entity registration,Federal registration,https://sam.gov/entity-registration,Entity registration and Unique Entity ID resources.,https://sam.gov/entity-registration
+F02,SAM.gov contract opportunities,Federal procurement,https://sam.gov/opportunities,Search public contracting opportunities.,https://sam.gov/opportunities
+F03,Login.gov,Federal registration,https://login.gov/,Identity sign-in service used by government portals.,https://login.gov/
+F04,Grants.gov,Federal grants,https://www.grants.gov/,Federal funding opportunities and applicant resources.,https://www.grants.gov/
+F05,Research.gov,Federal grants,https://www.research.gov/,NSF proposal and award-management portal.,https://www.research.gov/
+F06,SBIR.gov,Federal grants,https://www.sbir.gov/,Cross-agency SBIR/STTR program information.,https://www.sbir.gov/
+F07,NSF Seed Fund,Federal grants,https://seedfund.nsf.gov/,NSF small-business research funding.,https://seedfund.nsf.gov/
+F08,NIH SEED,Federal grants,https://seed.nih.gov/,NIH small-business funding and commercialization resources.,https://seed.nih.gov/
+F09,eRA Commons,Federal grants,https://www.era.nih.gov/,NIH electronic research administration.,https://www.era.nih.gov/
+F10,IES SBIR,Federal grants,https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir,Education research and technology funding.,https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir
+F11,Defense SBIR/STTR Innovation Portal,Federal grants,https://www.dodsbirsttr.mil/,Department of Defense SBIR/STTR solicitations and submission portal.,https://www.dodsbirsttr.mil/
+F12,AFWERX,Federal grants,https://afwerx.com/get-funded/,Air Force innovation funding routes.,https://afwerx.com/get-funded/
+F13,DARPA small-business programs,Federal grants,https://www.darpa.mil/work-with-us/communities/small-business,DARPA small-business opportunities.,https://www.darpa.mil/work-with-us/communities/small-business
+F14,DOE SBIR/STTR,Federal grants,https://science.osti.gov/sbir,Department of Energy small-business research funding.,https://science.osti.gov/sbir
+F15,NASA SBIR/STTR,Federal grants,https://www.nasa.gov/sbir_sttr/,NASA small-business research and technology programs.,https://www.nasa.gov/sbir_sttr/
+F16,Defense Innovation Unit,Federal procurement,https://www.diu.mil/work-with-us/open-solicitations,Commercial technology solicitations.,https://www.diu.mil/work-with-us/open-solicitations
+F17,Navy SBIR/STTR,Federal grants,https://www.navysbir.com/,Navy small-business research topics and resources.,https://www.navysbir.com/
+F18,DLA CAGE,Federal registration,https://cage.dla.mil/,Commercial and Government Entity code information.,https://cage.dla.mil/
+F19,PIEE,Federal procurement,https://piee.eb.mil/,Procurement Integrated Enterprise Environment.,https://piee.eb.mil/
+F20,SPRS,Federal procurement,https://www.sprs.csd.disa.mil/,Supplier Performance Risk System resources.,https://www.sprs.csd.disa.mil/
+F21,GSA Multiple Award Schedule,Federal procurement,https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule,Schedule contracting information.,https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule
+F22,GSA eOffer/eMod,Federal procurement,https://eoffer.gsa.gov/,Electronic offer and modification portal.,https://eoffer.gsa.gov/
+F23,GSA eBuy,Federal procurement,https://www.ebuy.gsa.gov/,RFQ system for eligible contract holders.,https://www.ebuy.gsa.gov/
+F24,APEX Accelerators,Business assistance,https://www.apexaccelerators.us/,Government contracting assistance centers.,https://www.apexaccelerators.us/
+F25,SBA federal contracting guide,Federal procurement,https://www.sba.gov/federal-contracting,"Contracting eligibility, assistance and certification information.",https://www.sba.gov/federal-contracting
+F26,SBA certifications,Federal registration,https://certifications.sba.gov/,Official SBA certification portal.,https://certifications.sba.gov/
+F27,FedRAMP,Cloud assurance,https://www.fedramp.gov/,Federal cloud security authorization program.,https://www.fedramp.gov/
+F28,FedRAMP Marketplace,Cloud assurance,https://marketplace.fedramp.gov/,Public directory of offerings and their reported program status.,https://marketplace.fedramp.gov/
+F29,GovRAMP,Cloud assurance,https://govramp.org/,Cloud assurance program used by participating public-sector organizations.,https://govramp.org/
+F30,GovRAMP service providers,Cloud assurance,https://govramp.org/service-providers/,"Provider membership, program paths and resources.",https://govramp.org/service-providers/
+F31,GovRAMP getting-started guide,Cloud assurance,https://govramp.org/news/getting-started-with-govramp-a-guide-for-service-providers,Provider guide to participation and verification.,https://govramp.org/news/getting-started-with-govramp-a-guide-for-service-providers
+F32,GovRAMP participating governments,Cloud assurance,https://govramp.org/participating-government-organizations/,Participation directory; participation alone does not establish a universal requirement.,https://govramp.org/participating-government-organizations/
+F33,NIST Cybersecurity Framework,Security standards,https://www.nist.gov/cyberframework,Cybersecurity risk-management framework.,https://www.nist.gov/cyberframework
+F34,NIST SP 800-53,Security standards,https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final,Security and privacy control catalog.,https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+F35,NIST SP 800-171,Security standards,https://csrc.nist.gov/pubs/sp/800/171/r3/final,Protection of controlled unclassified information in nonfederal systems.,https://csrc.nist.gov/pubs/sp/800/171/r3/final
+F36,CMMC,Defense assurance,https://dodcio.defense.gov/CMMC/,Defense cybersecurity certification program information.,https://dodcio.defense.gov/CMMC/

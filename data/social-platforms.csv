@@ -1,0 +1,101 @@
+id,name,category,url,notes,source
+S001,Facebook,Social Network,https://www.facebook.com/,"Pages, groups, events, and Meta Ads",https://www.facebook.com/
+S002,Instagram,Visual Social,https://www.instagram.com/,"Posts, Reels, Stories, Shops, and Meta Ads",https://www.instagram.com/
+S003,Threads,Microblogging,https://www.threads.com/,"Posts, replies, and Threads ads",https://www.threads.com/
+S004,YouTube,Video,https://www.youtube.com/,"Video, Shorts, live, and Google Ads",https://www.youtube.com/
+S005,TikTok,Short Video,https://www.tiktok.com/,"Short video, LIVE, and TikTok Ads",https://www.tiktok.com/
+S006,LinkedIn,Professional Network,https://www.linkedin.com/,"Profiles, pages, newsletters, events, and LinkedIn Ads",https://www.linkedin.com/
+S007,X,Microblogging,https://x.com/,"Posts, video, Spaces, Communities, and X Ads",https://x.com/
+S008,Reddit,Community Forum,https://www.reddit.com/,"Profiles, communities, AMAs, and Reddit Ads",https://www.reddit.com/
+S009,Pinterest,Visual Discovery,https://www.pinterest.com/,"Pins, boards, shopping, and Pinterest Ads",https://www.pinterest.com/
+S010,Snapchat,Messaging Short Video,https://www.snapchat.com/,"Public profiles, Stories, Spotlight, and Snap Ads",https://www.snapchat.com/
+S011,WhatsApp,Messaging Business,https://www.whatsapp.com/,"Business profiles, Channels, catalogs, and Meta messaging/Status promotion",https://www.whatsapp.com/
+S012,Messenger,Messaging,https://www.messenger.com/,Business messaging and Meta Messenger ads,https://www.messenger.com/
+S013,Telegram,Messaging Community,https://telegram.org/,"Public channels, groups, stories, and Telegram Ads",https://telegram.org/
+S014,Discord,Community Chat,https://discord.com/,"Servers, discovery, events, and sponsored Quests",https://discord.com/
+S015,Quora,Q And A,https://www.quora.com/,"Profiles, Spaces, answers, and Quora Ads",https://www.quora.com/
+S016,Tumblr,Blogging Social,https://www.tumblr.com/,"Blogs, communities, and Tumblr Blaze",https://www.tumblr.com/
+S017,Nextdoor,Local Social,https://nextdoor.com/,"Business pages, neighborhood posts, and Nextdoor Ads",https://nextdoor.com/
+S018,Bluesky,Decentralized Microblogging,https://bsky.app/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://bsky.app/
+S019,Mastodon,Federated Social,https://joinmastodon.org/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://joinmastodon.org/
+S020,Signal,Private Messaging,https://signal.org/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://signal.org/
+S021,MeWe,Social Network,https://mewe.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://mewe.com/
+S022,Twitch,Live Streaming,https://www.twitch.tv/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.twitch.tv/
+S023,Kick,Live Streaming,https://kick.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://kick.com/
+S024,Spotify,Audio Podcast,https://www.spotify.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.spotify.com/
+S025,SoundCloud,Audio Social,https://soundcloud.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://soundcloud.com/
+S026,Apple Podcasts,Podcast Discovery,https://podcasters.apple.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://podcasters.apple.com/
+S027,Amazon Music,Audio Podcast,https://music.amazon.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://music.amazon.com/
+S028,Dailymotion,Video,https://www.dailymotion.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.dailymotion.com/
+S029,Rumble,Video,https://rumble.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://rumble.com/
+S030,Vimeo,Video Hosting Community,https://vimeo.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://vimeo.com/
+S031,Roblox,Gaming Social,https://www.roblox.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.roblox.com/
+S032,Flickr,Photo Community,https://www.flickr.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.flickr.com/
+S033,Imgur,Image Community,https://imgur.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://imgur.com/
+S034,DeviantArt,Creative Community,https://www.deviantart.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.deviantart.com/
+S035,Behance,Creative Portfolio,https://www.behance.net/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.behance.net/
+S036,Dribbble,Design Community,https://dribbble.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://dribbble.com/
+S037,9GAG,Entertainment Community,https://9gag.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://9gag.com/
+S038,BIGO LIVE,Live Streaming,https://www.bigo.tv/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.bigo.tv/
+S039,Likee,Short Video,https://likee.video/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://likee.video/
+S040,Triller,Short Video,https://triller.co/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://triller.co/
+S041,GitHub,Developer Community,https://github.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://github.com/
+S042,GitLab,Developer Community,https://gitlab.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://gitlab.com/
+S043,Stack Overflow,Developer Q And A,https://stackoverflow.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://stackoverflow.com/
+S044,DEV Community,Developer Publishing,https://dev.to/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://dev.to/
+S045,Hashnode,Developer Publishing,https://hashnode.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://hashnode.com/
+S046,Product Hunt,Product Launch,https://www.producthunt.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.producthunt.com/
+S047,Hacker News,Technology Community,https://news.ycombinator.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://news.ycombinator.com/
+S048,Indie Hackers,Founder Community,https://www.indiehackers.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.indiehackers.com/
+S049,Medium,Publishing Social,https://medium.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://medium.com/
+S050,Substack,Newsletter Social,https://substack.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://substack.com/
+S051,Crunchbase,Company Discovery,https://www.crunchbase.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.crunchbase.com/
+S052,Wellfound,Startup Network,https://wellfound.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://wellfound.com/
+S053,Google Business Profile,Local Business Discovery,https://www.google.com/business/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.google.com/business/
+S054,Yelp,Local Review,https://www.yelp.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.yelp.com/
+S055,Trustpilot,Review Platform,https://www.trustpilot.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.trustpilot.com/
+S056,G2,Software Review,https://www.g2.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.g2.com/
+S057,Capterra,Software Review,https://www.capterra.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.capterra.com/
+S058,Apple Business Connect,Business Discovery,https://businessconnect.apple.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://businessconnect.apple.com/
+S059,Weixin / WeChat,Messaging Social,https://www.wechat.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.wechat.com/
+S060,Sina Weibo,Microblogging,https://weibo.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://weibo.com/
+S061,Douyin,Short Video,https://www.douyin.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.douyin.com/
+S062,RED / Xiaohongshu,Lifestyle Social,https://www.xiaohongshu.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.xiaohongshu.com/
+S063,Kuaishou / Kwai,Short Video,https://www.kuaishou.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.kuaishou.com/
+S064,Bilibili,Video Community,https://www.bilibili.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.bilibili.com/
+S065,Zhihu,Q And A,https://www.zhihu.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.zhihu.com/
+S066,QQ / Qzone,Social Network,https://qzone.qq.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://qzone.qq.com/
+S067,LINE / LINE VOOM,Messaging Social,https://line.me/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://line.me/
+S068,KakaoTalk,Messaging Social,https://www.kakaocorp.com/page/service/service/KakaoTalk,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.kakaocorp.com/page/service/service/KakaoTalk
+S069,KakaoStory,Social Network,https://story.kakao.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://story.kakao.com/
+S070,NAVER BAND,Community Social,https://band.us/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://band.us/
+S071,NAVER Blog,Publishing Social,https://blog.naver.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://blog.naver.com/
+S072,ShareChat,Social Network,https://sharechat.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://sharechat.com/
+S073,Moj,Short Video,https://mojapp.in/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://mojapp.in/
+S074,Josh,Short Video,https://myjosh.in/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://myjosh.in/
+S075,Roposo,Short Video Commerce,https://www.roposo.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.roposo.com/
+S076,Zalo,Messaging Social,https://zalo.me/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://zalo.me/
+S077,VK,Social Network,https://vk.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://vk.com/
+S078,Odnoklassniki,Social Network,https://ok.ru/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://ok.ru/
+S079,Yandex Zen,Publishing Social,https://dzen.ru/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://dzen.ru/
+S080,Viber,Messaging Social,https://www.viber.com/,"Profiles, publishing, community discovery, and available paid or partner promotion",https://www.viber.com/
+S081,Alignable,Business Network,https://www.alignable.com/,"Business profiles, groups, events, referrals, promotions, and managed partner advertising",https://www.alignable.com/
+S082,BiggerPockets,Real Estate Community,https://www.biggerpockets.com/,"Profiles, forums, company pages, marketplace, newsletters, podcasts, and direct advertising",https://www.biggerpockets.com/
+S083,Lemon8,Lifestyle Social,https://www.lemon8-app.com/,"Public profiles, visual posts, discovery, and TikTok-linked cross-posting",https://www.lemon8-app.com/
+S084,BeReal,Photo Social,https://bereal.com/,"Daily dual-camera posts, public discovery, boosted posts, CPC ads, and managed brand placements",https://bereal.com/
+S085,Clubhouse,Live Audio Social,https://www.clubhouse.com/,"Profiles, live audio rooms, houses, and community events",https://www.clubhouse.com/
+S086,Meetup,Events Community,https://www.meetup.com/,"Member profiles, organizer groups, events, announcements, Pro networks, and sponsorships",https://www.meetup.com/
+S087,Eventbrite,Event Discovery,https://www.eventbrite.com/,"Organizer profiles, event listings, email promotion, discovery, and Eventbrite Ads",https://www.eventbrite.com/
+S088,Patreon,Membership Creator,https://www.patreon.com/,"Creator profiles, posts, memberships, community, and shops",https://www.patreon.com/
+S089,Bandcamp,Music Community Commerce,https://bandcamp.com/,"Artist and label profiles, releases, fan messaging, tag discovery, and editorial consideration",https://bandcamp.com/
+S090,ReverbNation,Music Creator Network,https://www.reverbnation.com/,"Artist profiles, releases, fan reach, opportunities, electronic press kits, and Promote It ads",https://www.reverbnation.com/
+S091,Flipboard,Content Curation Social,https://flipboard.com/,"Creator and publisher profiles, magazines, story curation, federation, and promoted posts",https://flipboard.com/
+S092,Clapper,Short Video Creator,https://www.clapperapp.com/,"Short video, live streams, radio rooms, group chats, subscriptions, and creator shops",https://www.clapperapp.com/
+S093,Houzz,Home Services Community,https://www.houzz.com/,"Personal ideabooks, professional business profiles, project portfolios, local discovery, and advertising",https://www.houzz.com/
+S094,Tripadvisor,Travel Review Discovery,https://www.tripadvisor.com/,"Traveler profiles, reviews, business listings, management center, and sponsored placements",https://www.tripadvisor.com/
+S095,Foursquare,Local Business Discovery,https://foursquare.com/,"Business listings, reviews, location data, nearby discovery, and local ads",https://foursquare.com/
+S096,Truth Social,Microblogging,https://truthsocial.com/,"Profiles, posts, follows, groups, and native feed advertising",https://truthsocial.com/
+S097,Gumroad,Creator Commerce Discovery,https://gumroad.com/,"Creator storefront profiles, product posts, Discover recommendations, and affiliate distribution",https://gumroad.com/
+S098,Ko-fi,Creator Membership Commerce,https://ko-fi.com/,"Creator pages, posts, memberships, shop items, services, commissions, and supporter payments",https://ko-fi.com/
+S099,Buy Me a Coffee,Creator Membership Commerce,https://www.buymeacoffee.com/,"Creator pages, supporter posts, memberships, extras, and shops",https://www.buymeacoffee.com/
+S100,Goodreads,Book Community,https://www.goodreads.com/,"Reader profiles, author profiles, blogs, groups, giveaways, and direct advertising",https://www.goodreads.com/

@@ -1,0 +1,658 @@
+[
+  {
+    "id": "L01",
+    "name": "10words",
+    "category": "Launch directories and communities",
+    "url": "https://10words.io",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L02",
+    "name": "AI Collection",
+    "category": "Launch directories and communities",
+    "url": "https://www.thataicollection.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L03",
+    "name": "All My Faves",
+    "category": "Launch directories and communities",
+    "url": "https://www.allmyfaves.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L04",
+    "name": "All Startups",
+    "category": "Launch directories and communities",
+    "url": "https://www.allstartups.info/Startups/Submit",
+    "notes": "Request failed; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L05",
+    "name": "All Top Startups",
+    "category": "Launch directories and communities",
+    "url": "https://alltopstartups.com/submit-startup/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L06",
+    "name": "Alternative To",
+    "category": "Launch directories and communities",
+    "url": "https://alternativeto.net/",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L07",
+    "name": "Alternative.me",
+    "category": "Launch directories and communities",
+    "url": "https://alternative.me/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L08",
+    "name": "AngelList",
+    "category": "Launch directories and communities",
+    "url": "https://angel.co/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28). Legacy address redirects to Wellfound.",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L09",
+    "name": "App Rater",
+    "category": "Launch directories and communities",
+    "url": "https://apprater.net/add/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L10",
+    "name": "Appoid",
+    "category": "Launch directories and communities",
+    "url": "https://appiod.com/submit-app-for-review/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L11",
+    "name": "appPicker",
+    "category": "Launch directories and communities",
+    "url": "https://www.apppicker.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L12",
+    "name": "Apps Listo",
+    "category": "Launch directories and communities",
+    "url": "https://appslisto.com/submit-your-app/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L13",
+    "name": "Apps Mamma",
+    "category": "Launch directories and communities",
+    "url": "https://appsmamma.com/submit-your-app/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L14",
+    "name": "AppsThunder",
+    "category": "Launch directories and communities",
+    "url": "https://appsthunder.com/submit-your-app/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L15",
+    "name": "Appvita",
+    "category": "Launch directories and communities",
+    "url": "https://www.appvita.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28). Audit redirected to a personal site; no current startup directory established.",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L16",
+    "name": "Arctic Startup",
+    "category": "Launch directories and communities",
+    "url": "https://arcticstartup.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L17",
+    "name": "Awesome Indie",
+    "category": "Launch directories and communities",
+    "url": "https://awesomeindie.com",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L18",
+    "name": "Beta Bound",
+    "category": "Launch directories and communities",
+    "url": "https://www.betabound.com/announce/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L19",
+    "name": "Beta Testing",
+    "category": "Launch directories and communities",
+    "url": "https://betatesting.com/beta-testing",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L20",
+    "name": "BuiltInChicago",
+    "category": "Launch directories and communities",
+    "url": "https://www.builtinchicago.org/send-us-tip",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L21",
+    "name": "Capterra",
+    "category": "Launch directories and communities",
+    "url": "https://www.capterra.com/vendors/sign-up",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L22",
+    "name": "Collaborizm",
+    "category": "Launch directories and communities",
+    "url": "https://www.collaborizm.com",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L23",
+    "name": "CrozDesk",
+    "category": "Launch directories and communities",
+    "url": "https://vendor.crozdesk.com/user/signup",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L24",
+    "name": "Crunch Base",
+    "category": "Launch directories and communities",
+    "url": "https://www.crunchbase.com/#/home/index",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L25",
+    "name": "Discover Cloud",
+    "category": "Launch directories and communities",
+    "url": "https://www.discovercloud.com/become-a-vendor",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L26",
+    "name": "eBool",
+    "category": "Launch directories and communities",
+    "url": "https://www.ebool.com/submit",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L27",
+    "name": "F6S",
+    "category": "Launch directories and communities",
+    "url": "https://www.f6s.com/",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L28",
+    "name": "G2 Crowd",
+    "category": "Launch directories and communities",
+    "url": "https://www.g2crowd.com/products/new",
+    "notes": "HTTP access error; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L29",
+    "name": "Geek Wire",
+    "category": "Launch directories and communities",
+    "url": "https://geekwire.com/startup-list/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L30",
+    "name": "Get App",
+    "category": "Launch directories and communities",
+    "url": "https://getapp.com/",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L31",
+    "name": "Getworm",
+    "category": "Launch directories and communities",
+    "url": "https://getworm.com/submit-startup",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L32",
+    "name": "Gust",
+    "category": "Launch directories and communities",
+    "url": "https://www.gust.com",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L33",
+    "name": "Inc 42",
+    "category": "Launch directories and communities",
+    "url": "https://inc42.com/startup-submission/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L34",
+    "name": "Indie Hackers",
+    "category": "Launch directories and communities",
+    "url": "https://www.indiehackers.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L35",
+    "name": "Killer Startups",
+    "category": "Launch directories and communities",
+    "url": "https://killerstartups.com/submit-startup/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L36",
+    "name": "Land-book",
+    "category": "Launch directories and communities",
+    "url": "https://land-book.com/guidelines",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L37",
+    "name": "Launched",
+    "category": "Launch directories and communities",
+    "url": "https://launched.io/SubmitStartup",
+    "notes": "Request failed; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L38",
+    "name": "LaunchIgniter",
+    "category": "Launch directories and communities",
+    "url": "https://launchigniter.com/submit",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L39",
+    "name": "Launching Next",
+    "category": "Launch directories and communities",
+    "url": "https://www.launchingnext.com/submit/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L40",
+    "name": "Loop",
+    "category": "Launch directories and communities",
+    "url": "https://app.loopinput.com/",
+    "notes": "Request failed; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L41",
+    "name": "MakeUseOf",
+    "category": "Launch directories and communities",
+    "url": "https://www.makeuseof.com/about/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L42",
+    "name": "Micro SaaS Examples",
+    "category": "Launch directories and communities",
+    "url": "https://www.microsaasexamples.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L43",
+    "name": "Netted",
+    "category": "Launch directories and communities",
+    "url": "https://www.netted.net/contact-us/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L44",
+    "name": "Next Big What",
+    "category": "Launch directories and communities",
+    "url": "https://nextbigwhat.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L45",
+    "name": "PitchWall",
+    "category": "Launch directories and communities",
+    "url": "https://pitchwall.co/product/submit",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L46",
+    "name": "Postmake",
+    "category": "Launch directories and communities",
+    "url": "https://postmake.io/submit",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L47",
+    "name": "PreApps",
+    "category": "Launch directories and communities",
+    "url": "https://www.preapps.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L48",
+    "name": "Product Hunt",
+    "category": "Launch directories and communities",
+    "url": "https://www.producthunt.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L49",
+    "name": "SaaSHub",
+    "category": "Launch directories and communities",
+    "url": "https://www.saashub.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L50",
+    "name": "SaasRow",
+    "category": "Launch directories and communities",
+    "url": "https://saasrow.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L51",
+    "name": "Saijo's Tools List",
+    "category": "Launch directories and communities",
+    "url": "https://saijogeorge.com/best-marketing-tools/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L52",
+    "name": "Show HN",
+    "category": "Launch directories and communities",
+    "url": "https://news.ycombinator.com/showhn.html",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L53",
+    "name": "Side Projectors",
+    "category": "Launch directories and communities",
+    "url": "https://www.sideprojectors.com",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L54",
+    "name": "Simple Lister",
+    "category": "Launch directories and communities",
+    "url": "https://simplelister.com/",
+    "notes": "Request failed; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L55",
+    "name": "SimilarSiteSearch",
+    "category": "Launch directories and communities",
+    "url": "https://www.similarsitesearch.com/tips.html",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L56",
+    "name": "Slant",
+    "category": "Launch directories and communities",
+    "url": "https://www.slant.co/",
+    "notes": "HTTP access error; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L57",
+    "name": "SnapMunk",
+    "category": "Launch directories and communities",
+    "url": "https://www.snapmunk.com/submit-your-startup/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L58",
+    "name": "Software Advice",
+    "category": "Launch directories and communities",
+    "url": "https://softwareadvice-markets.questionpro.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L59",
+    "name": "Stack Share",
+    "category": "Launch directories and communities",
+    "url": "https://stackshare.io/",
+    "notes": "HTTP access error; availability unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L60",
+    "name": "Starter Story",
+    "category": "Launch directories and communities",
+    "url": "https://starterstory.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L61",
+    "name": "Startup 88",
+    "category": "Launch directories and communities",
+    "url": "https://startup88.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L62",
+    "name": "Startup Base",
+    "category": "Launch directories and communities",
+    "url": "https://startupbase.io/submit",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L63",
+    "name": "Startup Beat",
+    "category": "Launch directories and communities",
+    "url": "https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L64",
+    "name": "Startup Benchmarks",
+    "category": "Launch directories and communities",
+    "url": "https://www.startupbenchmarks.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L65",
+    "name": "Startup Buffer",
+    "category": "Launch directories and communities",
+    "url": "https://startupbuffer.com",
+    "notes": "Access challenge; submission route unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L66",
+    "name": "Startup Inspire",
+    "category": "Launch directories and communities",
+    "url": "https://www.startupinspire.com/submit",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L67",
+    "name": "Startup Ranking",
+    "category": "Launch directories and communities",
+    "url": "https://www.startupranking.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L68",
+    "name": "Startup Stash",
+    "category": "Launch directories and communities",
+    "url": "https://startupstash.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L69",
+    "name": "Startup Tabs",
+    "category": "Launch directories and communities",
+    "url": "https://startuptabs.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L70",
+    "name": "Startup Tracker",
+    "category": "Launch directories and communities",
+    "url": "https://startuptracker.io/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L71",
+    "name": "StartupBlink",
+    "category": "Launch directories and communities",
+    "url": "https://www.startupblink.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L72",
+    "name": "Startups Gallery",
+    "category": "Launch directories and communities",
+    "url": "https://startups.gallery/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L73",
+    "name": "State of Tech",
+    "category": "Launch directories and communities",
+    "url": "https://stateoftech.net/advertise?submit-an-app-for-review",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L74",
+    "name": "Tabscape",
+    "category": "Launch directories and communities",
+    "url": "https://www.tapscape.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L75",
+    "name": "Tech Map",
+    "category": "Launch directories and communities",
+    "url": "https://thetechmap.com/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L76",
+    "name": "Tech Pluto",
+    "category": "Launch directories and communities",
+    "url": "https://www.techpluto.com/submit-a-startup/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L77",
+    "name": "Tiny Launch",
+    "category": "Launch directories and communities",
+    "url": "https://www.tinylaunch.com",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L78",
+    "name": "The Changelog",
+    "category": "Launch directories and communities",
+    "url": "https://github.com/thechangelog/ping",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L79",
+    "name": "Vator",
+    "category": "Launch directories and communities",
+    "url": "https://www.vator.tv/",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L80",
+    "name": "Web App Rater",
+    "category": "Launch directories and communities",
+    "url": "https://webapprater.com/submit-your-web-application-for-review-html",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L81",
+    "name": "Website Hunt",
+    "category": "Launch directories and communities",
+    "url": "https://www.websitehunt.co",
+    "notes": "Page reached; submission eligibility and cost unverified (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  },
+  {
+    "id": "L82",
+    "name": "Ycombinator",
+    "category": "Launch directories and communities",
+    "url": "https://news.ycombinator.com/",
+    "notes": "Page reached; possible submission link found (audit dated 2026-10-28).",
+    "source": "https://github.com/mmccaff/PlacesToPostYourStartup"
+  }
+]

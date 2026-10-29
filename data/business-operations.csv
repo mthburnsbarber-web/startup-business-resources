@@ -1,0 +1,30 @@
+id,name,category,url,notes,source
+O01,Harvard Business Services / DelawareInc,Company formation,https://www.delawareinc.com/,Delaware incorporation and registered-agent provider.,https://www.delawareinc.com/
+O02,Delaware Division of Corporations,Company formation,https://corp.delaware.gov/,"Official formation, franchise-tax and corporate records resources.",https://corp.delaware.gov/
+O03,Delaware entity search,Company formation,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,Public entity-name search.,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx
+O04,Georgia Secretary of State corporations,Company formation,https://sos.ga.gov/corporations-division,Georgia business registration and annual-registration resources.,https://sos.ga.gov/corporations-division
+O05,IRS employer identification numbers,Tax and registration,https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers,Official EIN information; use the IRS process directly.,https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers
+O06,IRS small business center,Tax and registration,https://www.irs.gov/businesses/small-businesses-self-employed,Federal small-business tax resources.,https://www.irs.gov/businesses/small-businesses-self-employed
+O07,FinCEN beneficial ownership information,Tax and registration,https://www.fincen.gov/boi,Check current official rules and exemptions before determining any filing duty.,https://www.fincen.gov/boi
+O08,USPTO trademarks,Intellectual property,https://www.uspto.gov/trademarks,"Trademark search, filing and maintenance resources.",https://www.uspto.gov/trademarks
+O09,USPTO patents,Intellectual property,https://www.uspto.gov/patents,Patent search and application information.,https://www.uspto.gov/patents
+O10,US Copyright Office,Intellectual property,https://www.copyright.gov/,Copyright registration and public guidance.,https://www.copyright.gov/
+O11,Sequoia Capital,Investors,https://sequoiacap.com/,Official Sequoia Capital website.,https://sequoiacap.com/
+O12,Sequoia Arc,Investors,https://sequoiacap.com/arc/,Official founder intake and company-building program; check the current open call.,https://sequoiacap.com/arc/
+O13,Carahsoft partner ecosystem,Distribution,https://www.carahsoft.com/partners,Public-sector technology distribution and partner resources.,https://www.carahsoft.com/partners
+O14,1EdTech,Education interoperability,https://www.1edtech.org/,"Education interoperability standards, membership and certification resources.",https://www.1edtech.org/
+O15,Clever application partners,Education distribution,https://clever.com/partners,School application integration and partner information.,https://clever.com/partners
+O16,ClassLink partners,Education distribution,https://www.classlink.com/partners,Education application integration partners.,https://www.classlink.com/partners
+O17,HECVAT,Education assurance,https://www.educause.edu/hecvat,Higher Education Community Vendor Assessment Toolkit.,https://www.educause.edu/hecvat
+O18,Student Privacy Pledge,Education assurance,https://studentprivacypledge.org/,Voluntary student privacy commitments; signing is a separate decision.,https://studentprivacypledge.org/
+O19,US Department of Education student privacy,Education assurance,https://studentprivacy.ed.gov/,Official FERPA and student-data privacy resources.,https://studentprivacy.ed.gov/
+O20,FTC COPPA guidance,Privacy,https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions,Official children’s privacy compliance information.,https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions
+O21,Apple Developer Program,Software distribution,https://developer.apple.com/programs/,Apple software signing and distribution program.,https://developer.apple.com/programs/
+O22,App Store Connect,Software distribution,https://appstoreconnect.apple.com/,Apple app submission and management portal.,https://appstoreconnect.apple.com/
+O23,Google Play Console,Software distribution,https://play.google.com/console/,Android app distribution portal.,https://play.google.com/console/
+O24,Microsoft Partner Center,Software distribution,https://partner.microsoft.com/,Microsoft partner and software publishing resources.,https://partner.microsoft.com/
+O25,Stripe,Payments,https://stripe.com/,Payment processing and billing platform.,https://stripe.com/
+O26,Cloudflare,Infrastructure,https://www.cloudflare.com/,"Domains, hosting, network and application infrastructure.",https://www.cloudflare.com/
+O27,Namecheap,Infrastructure,https://www.namecheap.com/,Domain registration and related services.,https://www.namecheap.com/
+O28,SCORE,Business assistance,https://www.score.org/,Small-business mentoring and education.,https://www.score.org/
+O29,SBA local assistance,Business assistance,https://www.sba.gov/local-assistance,Find regional small-business assistance.,https://www.sba.gov/local-assistance

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "B01",
+    "name": "Microsoft for Startups",
+    "url": "https://portal.startups.microsoft.com/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B02",
+    "name": "AWS Activate",
+    "url": "https://startups.aws.com/join?destination=%2Fcredits%2Fapply",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B03",
+    "name": "Google for Startups Cloud Program",
+    "url": "https://cloud.google.com/startup/apply",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B04",
+    "name": "Cloudflare for Startups",
+    "url": "https://www.cloudflare.com/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B05",
+    "name": "DigitalOcean Startups",
+    "url": "https://www.digitalocean.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B06",
+    "name": "Scaleway Startup Program",
+    "url": "https://www.scaleway.com/en/startup-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B07",
+    "name": "OVHcloud Startup Program",
+    "url": "https://startup.ovhcloud.com/en/login/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B08",
+    "name": "Akamai Rise",
+    "url": "https://www.akamai.com/cloud/start-ups/rise",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B09",
+    "name": "Vultr Digital Start-up Program",
+    "url": "https://discover.vultr.com/startup-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B10",
+    "name": "Vultr Open Source Credits",
+    "url": "https://discover.vultr.com/open-source-credits",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B11",
+    "name": "UpCloud Startup Program",
+    "url": "https://upcloud.com/global/upcloud-startup-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B12",
+    "name": "Alibaba Cloud Startup Catalyst",
+    "url": "https://www.alibabacloud.com/startup",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B13",
+    "name": "Oracle Cloud Free Tier",
+    "url": "https://www.oracle.com/cloud/free/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B14",
+    "name": "Render Startup Program",
+    "url": "https://render.com/startup-application",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B15",
+    "name": "Fly.io for Startups",
+    "url": "https://fly.io/startups/#apply",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B16",
+    "name": "bunny.net HopStart",
+    "url": "https://bunny.net/blog/hopstart-cohort-3-the-next-startups-building-on-bunny-net/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B17",
+    "name": "NVIDIA Inception",
+    "url": "https://programs.nvidia.com/phoenix/application",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B18",
+    "name": "AMD AI Developer Program",
+    "url": "https://developer.amd.com/ai-developer-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B19",
+    "name": "Qualcomm Scaler",
+    "url": "https://www.qualcomm.com/developer/qualcomm-scaler-startup-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B20",
+    "name": "Qualcomm AI Program for Innovators APAC",
+    "url": "https://www.qualcomm.com/ai-program-for-innovators/apac",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B21",
+    "name": "Arm Flexible Access for Startups",
+    "url": "https://www.arm.com/products/flexible-access/startup",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B22",
+    "name": "Dell Business Partnerships",
+    "url": "https://www.dell.com/en-us/shop/member/lp/dell-business-partnerships-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B23",
+    "name": "SOLIDWORKS for Startups",
+    "url": "https://www.solidworks.com/solution/solidworks-for-startups-program/startups-application",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B24",
+    "name": "Onshape for Startups",
+    "url": "https://www.onshape.com/en/startups/apply",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B25",
+    "name": "Autodesk Fusion for Startups",
+    "url": "https://www.autodesk.com/products/fusion-360/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B26",
+    "name": "MathWorks Startup Program",
+    "url": "https://www.mathworks.com/products/startups.html",
+    "category": "Startup benefits and developer programs",
+    "notes": "Program landing page; replaces the saved confirmation-page URL.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B27",
+    "name": "NVIDIA Academic Grant Program",
+    "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B28",
+    "name": "Deepgram Startup Program",
+    "url": "https://deepgram.com/startup-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B29",
+    "name": "ElevenLabs Startup Grants",
+    "url": "https://elevenlabs.io/grants-application",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B30",
+    "name": "AssemblyAI Startup Program",
+    "url": "https://www.assemblyai.com/contact/startup-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B31",
+    "name": "LiveKit Startup Program",
+    "url": "https://livekit.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B32",
+    "name": "Together AI Startup Accelerator",
+    "url": "https://www.together.ai/startup-accelerator",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B33",
+    "name": "Anthropic Claude for Startups",
+    "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B34",
+    "name": "Anthropic External Researcher Access",
+    "url": "https://support.anthropic.com/en/articles/9125743-what-is-the-external-researcher-access-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B35",
+    "name": "GitHub for Startups",
+    "url": "https://github.com/enterprise/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B36",
+    "name": "GitLab for Startups",
+    "url": "https://about.gitlab.com/solutions/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B37",
+    "name": "JetBrains Startup Discount",
+    "url": "https://www.jetbrains.com/shop/eform/startup",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B38",
+    "name": "Atlassian for Startups",
+    "url": "https://www.atlassian.com/software/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B39",
+    "name": "Linear for Startups",
+    "url": "https://linear.app/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B40",
+    "name": "Miro Startup Program",
+    "url": "https://help.miro.com/hc/en-us/articles/360014912819-Miro-Startup-Program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B41",
+    "name": "Notion for Startups",
+    "url": "https://www.notion.so/startups-apply",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B42",
+    "name": "Retool for Startups",
+    "url": "https://share.hsforms.com/2H3PWbX5wQ9Wq_i3-P_wmZw4k765",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B43",
+    "name": "Make Startup Program",
+    "url": "https://f.make.com/startup-program",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B44",
+    "name": "Framer for Startups",
+    "url": "https://www.framer.com/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B45",
+    "name": "Vercel Startup Credits",
+    "url": "https://vercel.com/startups/credits",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B46",
+    "name": "Netlify for Startups",
+    "url": "https://www.netlify.com/partners/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B47",
+    "name": "Webflow for Startups",
+    "url": "https://help.webflow.com/hc/en-us/articles/33961217659923-How-to-redeem-your-Webflow-for-startups-discount",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B48",
+    "name": "Neon / Databricks Startup Program",
+    "url": "https://neon.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B49",
+    "name": "MongoDB for Startups",
+    "url": "https://www.mongodb.com/solutions/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B50",
+    "name": "Aiven for Startups",
+    "url": "https://aiven-startups.typeform.com/to/STphOA6R",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B51",
+    "name": "Pinecone for Startups",
+    "url": "https://www.pinecone.io/startup-program/#contact-form",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B52",
+    "name": "Qdrant for Startups",
+    "url": "https://qdrant.tech/qdrant-for-startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B53",
+    "name": "Weaviate Startup Deal",
+    "url": "https://weaviate.io/startup-deal",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B54",
+    "name": "ClickHouse Startup Program — YC route",
+    "url": "https://clickhouse.com/deals/ycombinator",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B55",
+    "name": "PostHog for Startups",
+    "url": "https://posthog.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B56",
+    "name": "Datadog for Startups",
+    "url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B57",
+    "name": "Sentry for Startups",
+    "url": "https://sentry.io/for/startups/apply/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B58",
+    "name": "Amplitude Startup Scholarship",
+    "url": "https://www.amplitude.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B59",
+    "name": "Mixpanel for Startups",
+    "url": "https://mixpanel.com/startups-apply/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B60",
+    "name": "Grafana Labs Startup Program",
+    "url": "https://grafana-labs.typeform.com/to/cSI7ohks/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B61",
+    "name": "Customer.io for Startups",
+    "url": "https://fly.customer.io/signup?signupType=startup",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B62",
+    "name": "Algolia Startup Program",
+    "url": "https://www.algolia.com/industries/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B63",
+    "name": "Zendesk for Startups",
+    "url": "https://www.zendesk.com/register/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B64",
+    "name": "Intercom Early Stage",
+    "url": "https://www.intercom.com/early-stage",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B65",
+    "name": "HubSpot for Startups",
+    "url": "https://www.hubspot.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B66",
+    "name": "Stripe for Startups",
+    "url": "https://stripe.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B67",
+    "name": "Chargebee for Startups",
+    "url": "https://www.chargebee.com/startups/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B68",
+    "name": "Mux for Startups",
+    "url": "https://www.mux.com/startups",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B69",
+    "name": "Cloudinary Startup Pricing",
+    "url": "https://cloudinary.com/pricing/compare-plans",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B70",
+    "name": "Fastly Fast Forward",
+    "url": "https://www.fastly.com/fast-forward",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B71",
+    "name": "Apple App Store Small Business Program",
+    "url": "https://developer.apple.com/app-store/small-business-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B72",
+    "name": "Google Play 15% Service Fee Tier",
+    "url": "https://support.google.com/googleplay/android-developer/answer/10632485",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B73",
+    "name": "Apple Ads New Account Credit",
+    "url": "https://ads.apple.com/app-store/help/billing/0032-apple-ads-promo-credit",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B74",
+    "name": "Twilio AI Startup Searchlight 2026",
+    "url": "https://www.twilio.com/en-us/lp/twilio-ai-startup-searchlight",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "B75",
+    "name": "Apple Foundation Models — Small Business PCC Access",
+    "url": "https://developer.apple.com/app-store/small-business-program/",
+    "category": "Startup benefits and developer programs",
+    "notes": "Original tracker label retained. Linked page is the App Store Small Business Program; separate Private Cloud Compute access is not established by this link.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL01",
+    "name": "InvestAL",
+    "url": "https://forms.innovatealabama.org/262004452326043",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL02",
+    "name": "LendAL",
+    "url": "https://forms.innovatealabama.org/262115185184051",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL03",
+    "name": "AssistAL / SSBCI technical assistance",
+    "url": "https://innovatealabama.org/programs/ssbci/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL04",
+    "name": "Innovate Alabama Supplemental Grant",
+    "url": "https://innovatealabama.org/programs/supplemental-grant-program/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL05",
+    "name": "Alabama Launchpad",
+    "url": "https://alabamalaunchpad.com/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL06",
+    "name": "gBETA Gulf Coast",
+    "url": "https://www.gener8tor.com/alabama",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL07",
+    "name": "Innovation Portal: RISE",
+    "url": "https://www.innovation-portal.com/portal-fund-rise/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL08",
+    "name": "Bronze Valley Investment Accelerator",
+    "url": "https://www.gener8tor.com/bronze-valley-accelerator/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL09",
+    "name": "Alabama Futures Fund",
+    "url": "https://alabamafuturesfund.com/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "AL10",
+    "name": "Alabama STEP export assistance",
+    "url": "https://www.madeinalabama.com/resources/global-business/step/",
+    "category": "Alabama funding and support",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US01",
+    "name": "NSF SBIR/STTR Phase I",
+    "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US02",
+    "name": "NSF Phase II",
+    "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US03",
+    "name": "NSF Fast-Track",
+    "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US04",
+    "name": "NSF Strategic Breakthrough",
+    "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US05",
+    "name": "NIH / CDC / FDA Parent SBIR: PA-27-100",
+    "url": "https://seed.nih.gov/small-business-funding/find-funding/sbir-sttr-funding-opportunities",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US06",
+    "name": "ED / IES SBIR",
+    "url": "https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir/solicitation-information",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US07",
+    "name": "AFWERX SBIR/STTR",
+    "url": "https://afwerx.com/get-funded/",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US08",
+    "name": "DARPA SBIR/STTR",
+    "url": "https://www.darpa.mil/work-with-us/communities/small-business/sbir-sttr-topics",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US09",
+    "name": "DOE SBIR/STTR",
+    "url": "https://www.energy.gov/technologycommercialization/doe-small-business-innovation-research-sbir-and-small-business",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US10",
+    "name": "NASA SBIR/STTR Phase I",
+    "url": "https://www.nasa.gov/sbir_sttr/phase-i/",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US11",
+    "name": "NASA CCRPP",
+    "url": "https://www.nasa.gov/sbir_sttr/ccrpp/",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US12",
+    "name": "Defense Innovation Unit",
+    "url": "https://www.diu.mil/work-with-us/open-solicitations",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US13",
+    "name": "SBA 7(a)",
+    "url": "https://www.sba.gov/loans/7a-loans/",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US14",
+    "name": "SBA Microloan",
+    "url": "https://www.sba.gov/loans/microloans/",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US15",
+    "name": "Qualified small-business research payroll credit",
+    "url": "https://www.irs.gov/credits-deductions/research-credit-against-payroll-tax-for-small-businesses",
+    "category": "US funding and business programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "US16",
+    "name": "Verizon Small Business Digital Ready",
+    "url": "https://www.verizon.com/about/responsibility/digital-inclusion/small-business-program",
+    "category": "US funding and business programs",
+    "notes": "Private Verizon program; included in the original US section, not a federal agency program.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC01",
+    "name": "Y Combinator Winter 2027",
+    "url": "https://www.ycombinator.com/apply/",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC02",
+    "name": "a16z speedrun SR008",
+    "url": "https://speedrun.a16z.com/apply/form",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC03",
+    "name": "Techstars",
+    "url": "https://www.techstars.com/investment-terms",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC04",
+    "name": "Antler US",
+    "url": "https://hub.antler.co/apply",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC05",
+    "name": "South Park Commons — general funding / fellowship",
+    "url": "https://www.southparkcommons.com/apply",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC06",
+    "name": "Alchemist Accelerator",
+    "url": "https://www.alchemistaccelerator.com/apply",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC07",
+    "name": "Boost VC Winter Fellowship",
+    "url": "https://boostvc.fillout.com/boostfellowship",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC08",
+    "name": "Precursor Ventures",
+    "url": "https://precursorvc.com/startup.html",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC09",
+    "name": "Hustle Fund",
+    "url": "https://hustlefund.typeform.com/to/UGTnIt",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "VC10",
+    "name": "Seedcamp",
+    "url": "https://seedcamp.com/faqs/",
+    "category": "Investors and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "CR05",
+    "name": "Radical AI Founders / Compute Cohort",
+    "url": "https://radical.vc/radical-founders-faqs/",
+    "category": "Compute and AI programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU01",
+    "name": "EIC Accelerator",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU02",
+    "name": "EIC Pathfinder",
+    "url": "https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU03",
+    "name": "EIC Transition",
+    "url": "https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU04",
+    "name": "EIC STEP Scale Up",
+    "url": "https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU05",
+    "name": "Eurostars",
+    "url": "https://www.eurekanetwork.org/wp-content/uploads/2026/02/eurostars-september-2026.pdf",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU06",
+    "name": "Innovate UK competition grants",
+    "url": "https://www.ukri.org/apply-for-funding/before-you-apply/find-out-if-you-can-apply-for-funding/",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU07",
+    "name": "Innovate UK Innovation Loans",
+    "url": "https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/innovation-loans/",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU08",
+    "name": "EXIST Business Start-up Grant",
+    "url": "https://exist.de/en/programme/",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU09",
+    "name": "NLnet Restack",
+    "url": "https://nlnet.nl/restack/",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "EU10",
+    "name": "NLnet CodeSupply",
+    "url": "https://nlnet.nl/codesupply/",
+    "category": "Europe and UK funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "CA01",
+    "name": "NRC IRAP",
+    "url": "https://nrc.canada.ca/en/support-technology-innovation/financial-support-technology-innovation",
+    "category": "Canada funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "CA02",
+    "name": "Innovative Solutions Canada: Challenge Stream",
+    "url": "https://ised-isde.canada.ca/site/innovative-solutions-canada/en/challenges",
+    "category": "Canada funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "CA03",
+    "name": "Innovative Solutions Canada: Testing Stream",
+    "url": "https://ised-isde.canada.ca/site/innovative-solutions-canada/en/testing-stream",
+    "category": "Canada funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "CA04",
+    "name": "Canada SR&ED",
+    "url": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/investment-tax-credit.html",
+    "category": "Canada funding",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL01",
+    "name": "Industry Growth Program",
+    "url": "https://business.gov.au/grants-and-programs/industry-growth-program",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL02",
+    "name": "Startup SG Tech",
+    "url": "https://www.startupsg.gov.sg/programmes/4896/startup-sg-tech",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL03",
+    "name": "Israel Innovation Authority Startup Fund",
+    "url": "https://innovationisrael.org.il/en/programs/startup-fund/",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL04",
+    "name": "NEDO Deep-Tech Startups Support",
+    "url": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100250.html",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL05",
+    "name": "HKSTP Ideation",
+    "url": "https://www.hkstp.org/programmes/ideation",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL06",
+    "name": "HKSTP Incubation",
+    "url": "https://www.hkstp.org/en/programmes",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL07",
+    "name": "Start-Up Chile Ignite",
+    "url": "https://startupchile.org/en/apply/ignite/",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL08",
+    "name": "Start-Up Chile Growth",
+    "url": "https://startupchile.org/en/apply/growth/",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL09",
+    "name": "Startup India Seed Fund Scheme",
+    "url": "https://seedfund.startupindia.gov.in/faq",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL10",
+    "name": "Hub71 Access",
+    "url": "https://www.hub71.com/faqs",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL11",
+    "name": "K-Startup Grand Challenge",
+    "url": "https://ksgc.global/grand-challenge",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL12",
+    "name": "Tony Elumelu Foundation Entrepreneurship Programme",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "GL13",
+    "name": "ENISA participative loans",
+    "url": "https://www.enisa.es/",
+    "category": "Global funding and accelerators",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q01",
+    "name": "Unitary Foundation microgrants",
+    "url": "https://unitary.foundation/",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q02",
+    "name": "Quantonation",
+    "url": "https://www.quantonation.com/",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q03",
+    "name": "QDNL Participations",
+    "url": "https://www.qdnlparticipations.nl/press/qdnl-participations-announces-eu60m-global-fund-for-early-stage-quantum-startups-with-eu25m-first-close",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q04",
+    "name": "Duality / Alchemist Chicago",
+    "url": "https://www.dualityaccelerator.com/2025/07/23/duality-joins-alchemist-chicago-applications-open-for-cohort-5/",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q05",
+    "name": "XPRIZE Quantum Applications",
+    "url": "https://www.xprize.org/competitions/qc-apps",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q06",
+    "name": "IBM Quantum Startup Program",
+    "url": "https://www.ibm.com/quantum/ibm-quantum-network",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "Q07",
+    "name": "AWS Cloud Credit for Research / Braket",
+    "url": "https://aws.amazon.com/braket/quantum-computing-research/",
+    "category": "Quantum programs",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "NF01",
+    "name": "1517 Medici Project",
+    "url": "https://www.1517fund.com/medici",
+    "category": "Grants and open technology",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "NF02",
+    "name": "1517 Fund — venture investment",
+    "url": "https://www.1517fund.com/",
+    "category": "Grants and open technology",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "NF03",
+    "name": "Sovereign Tech Fund",
+    "url": "https://www.sovereign.tech/programs/fund",
+    "category": "Grants and open technology",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "NF04",
+    "name": "FUTO microgrants / project grants",
+    "url": "https://futo.tech/grants",
+    "category": "Grants and open technology",
+    "notes": "Original 150-program resource list; check current eligibility and intake dates.",
+    "source": "Original program tracker, 2026-10-15"
+  }
+]

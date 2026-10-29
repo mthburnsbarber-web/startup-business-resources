@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S001",
+    "name": "Facebook",
+    "category": "Social Network",
+    "url": "https://www.facebook.com/",
+    "notes": "Pages, groups, events, and Meta Ads",
+    "source": "https://www.facebook.com/"
+  },
+  {
+    "id": "S002",
+    "name": "Instagram",
+    "category": "Visual Social",
+    "url": "https://www.instagram.com/",
+    "notes": "Posts, Reels, Stories, Shops, and Meta Ads",
+    "source": "https://www.instagram.com/"
+  },
+  {
+    "id": "S003",
+    "name": "Threads",
+    "category": "Microblogging",
+    "url": "https://www.threads.com/",
+    "notes": "Posts, replies, and Threads ads",
+    "source": "https://www.threads.com/"
+  },
+  {
+    "id": "S004",
+    "name": "YouTube",
+    "category": "Video",
+    "url": "https://www.youtube.com/",
+    "notes": "Video, Shorts, live, and Google Ads",
+    "source": "https://www.youtube.com/"
+  },
+  {
+    "id": "S005",
+    "name": "TikTok",
+    "category": "Short Video",
+    "url": "https://www.tiktok.com/",
+    "notes": "Short video, LIVE, and TikTok Ads",
+    "source": "https://www.tiktok.com/"
+  },
+  {
+    "id": "S006",
+    "name": "LinkedIn",
+    "category": "Professional Network",
+    "url": "https://www.linkedin.com/",
+    "notes": "Profiles, pages, newsletters, events, and LinkedIn Ads",
+    "source": "https://www.linkedin.com/"
+  },
+  {
+    "id": "S007",
+    "name": "X",
+    "category": "Microblogging",
+    "url": "https://x.com/",
+    "notes": "Posts, video, Spaces, Communities, and X Ads",
+    "source": "https://x.com/"
+  },
+  {
+    "id": "S008",
+    "name": "Reddit",
+    "category": "Community Forum",
+    "url": "https://www.reddit.com/",
+    "notes": "Profiles, communities, AMAs, and Reddit Ads",
+    "source": "https://www.reddit.com/"
+  },
+  {
+    "id": "S009",
+    "name": "Pinterest",
+    "category": "Visual Discovery",
+    "url": "https://www.pinterest.com/",
+    "notes": "Pins, boards, shopping, and Pinterest Ads",
+    "source": "https://www.pinterest.com/"
+  },
+  {
+    "id": "S010",
+    "name": "Snapchat",
+    "category": "Messaging Short Video",
+    "url": "https://www.snapchat.com/",
+    "notes": "Public profiles, Stories, Spotlight, and Snap Ads",
+    "source": "https://www.snapchat.com/"
+  },
+  {
+    "id": "S011",
+    "name": "WhatsApp",
+    "category": "Messaging Business",
+    "url": "https://www.whatsapp.com/",
+    "notes": "Business profiles, Channels, catalogs, and Meta messaging/Status promotion",
+    "source": "https://www.whatsapp.com/"
+  },
+  {
+    "id": "S012",
+    "name": "Messenger",
+    "category": "Messaging",
+    "url": "https://www.messenger.com/",
+    "notes": "Business messaging and Meta Messenger ads",
+    "source": "https://www.messenger.com/"
+  },
+  {
+    "id": "S013",
+    "name": "Telegram",
+    "category": "Messaging Community",
+    "url": "https://telegram.org/",
+    "notes": "Public channels, groups, stories, and Telegram Ads",
+    "source": "https://telegram.org/"
+  },
+  {
+    "id": "S014",
+    "name": "Discord",
+    "category": "Community Chat",
+    "url": "https://discord.com/",
+    "notes": "Servers, discovery, events, and sponsored Quests",
+    "source": "https://discord.com/"
+  },
+  {
+    "id": "S015",
+    "name": "Quora",
+    "category": "Q And A",
+    "url": "https://www.quora.com/",
+    "notes": "Profiles, Spaces, answers, and Quora Ads",
+    "source": "https://www.quora.com/"
+  },
+  {
+    "id": "S016",
+    "name": "Tumblr",
+    "category": "Blogging Social",
+    "url": "https://www.tumblr.com/",
+    "notes": "Blogs, communities, and Tumblr Blaze",
+    "source": "https://www.tumblr.com/"
+  },
+  {
+    "id": "S017",
+    "name": "Nextdoor",
+    "category": "Local Social",
+    "url": "https://nextdoor.com/",
+    "notes": "Business pages, neighborhood posts, and Nextdoor Ads",
+    "source": "https://nextdoor.com/"
+  },
+  {
+    "id": "S018",
+    "name": "Bluesky",
+    "category": "Decentralized Microblogging",
+    "url": "https://bsky.app/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://bsky.app/"
+  },
+  {
+    "id": "S019",
+    "name": "Mastodon",
+    "category": "Federated Social",
+    "url": "https://joinmastodon.org/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://joinmastodon.org/"
+  },
+  {
+    "id": "S020",
+    "name": "Signal",
+    "category": "Private Messaging",
+    "url": "https://signal.org/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://signal.org/"
+  },
+  {
+    "id": "S021",
+    "name": "MeWe",
+    "category": "Social Network",
+    "url": "https://mewe.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://mewe.com/"
+  },
+  {
+    "id": "S022",
+    "name": "Twitch",
+    "category": "Live Streaming",
+    "url": "https://www.twitch.tv/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.twitch.tv/"
+  },
+  {
+    "id": "S023",
+    "name": "Kick",
+    "category": "Live Streaming",
+    "url": "https://kick.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://kick.com/"
+  },
+  {
+    "id": "S024",
+    "name": "Spotify",
+    "category": "Audio Podcast",
+    "url": "https://www.spotify.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.spotify.com/"
+  },
+  {
+    "id": "S025",
+    "name": "SoundCloud",
+    "category": "Audio Social",
+    "url": "https://soundcloud.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://soundcloud.com/"
+  },
+  {
+    "id": "S026",
+    "name": "Apple Podcasts",
+    "category": "Podcast Discovery",
+    "url": "https://podcasters.apple.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://podcasters.apple.com/"
+  },
+  {
+    "id": "S027",
+    "name": "Amazon Music",
+    "category": "Audio Podcast",
+    "url": "https://music.amazon.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://music.amazon.com/"
+  },
+  {
+    "id": "S028",
+    "name": "Dailymotion",
+    "category": "Video",
+    "url": "https://www.dailymotion.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.dailymotion.com/"
+  },
+  {
+    "id": "S029",
+    "name": "Rumble",
+    "category": "Video",
+    "url": "https://rumble.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://rumble.com/"
+  },
+  {
+    "id": "S030",
+    "name": "Vimeo",
+    "category": "Video Hosting Community",
+    "url": "https://vimeo.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://vimeo.com/"
+  },
+  {
+    "id": "S031",
+    "name": "Roblox",
+    "category": "Gaming Social",
+    "url": "https://www.roblox.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.roblox.com/"
+  },
+  {
+    "id": "S032",
+    "name": "Flickr",
+    "category": "Photo Community",
+    "url": "https://www.flickr.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.flickr.com/"
+  },
+  {
+    "id": "S033",
+    "name": "Imgur",
+    "category": "Image Community",
+    "url": "https://imgur.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://imgur.com/"
+  },
+  {
+    "id": "S034",
+    "name": "DeviantArt",
+    "category": "Creative Community",
+    "url": "https://www.deviantart.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.deviantart.com/"
+  },
+  {
+    "id": "S035",
+    "name": "Behance",
+    "category": "Creative Portfolio",
+    "url": "https://www.behance.net/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.behance.net/"
+  },
+  {
+    "id": "S036",
+    "name": "Dribbble",
+    "category": "Design Community",
+    "url": "https://dribbble.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://dribbble.com/"
+  },
+  {
+    "id": "S037",
+    "name": "9GAG",
+    "category": "Entertainment Community",
+    "url": "https://9gag.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://9gag.com/"
+  },
+  {
+    "id": "S038",
+    "name": "BIGO LIVE",
+    "category": "Live Streaming",
+    "url": "https://www.bigo.tv/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.bigo.tv/"
+  },
+  {
+    "id": "S039",
+    "name": "Likee",
+    "category": "Short Video",
+    "url": "https://likee.video/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://likee.video/"
+  },
+  {
+    "id": "S040",
+    "name": "Triller",
+    "category": "Short Video",
+    "url": "https://triller.co/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://triller.co/"
+  },
+  {
+    "id": "S041",
+    "name": "GitHub",
+    "category": "Developer Community",
+    "url": "https://github.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://github.com/"
+  },
+  {
+    "id": "S042",
+    "name": "GitLab",
+    "category": "Developer Community",
+    "url": "https://gitlab.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://gitlab.com/"
+  },
+  {
+    "id": "S043",
+    "name": "Stack Overflow",
+    "category": "Developer Q And A",
+    "url": "https://stackoverflow.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://stackoverflow.com/"
+  },
+  {
+    "id": "S044",
+    "name": "DEV Community",
+    "category": "Developer Publishing",
+    "url": "https://dev.to/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://dev.to/"
+  },
+  {
+    "id": "S045",
+    "name": "Hashnode",
+    "category": "Developer Publishing",
+    "url": "https://hashnode.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://hashnode.com/"
+  },
+  {
+    "id": "S046",
+    "name": "Product Hunt",
+    "category": "Product Launch",
+    "url": "https://www.producthunt.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.producthunt.com/"
+  },
+  {
+    "id": "S047",
+    "name": "Hacker News",
+    "category": "Technology Community",
+    "url": "https://news.ycombinator.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://news.ycombinator.com/"
+  },
+  {
+    "id": "S048",
+    "name": "Indie Hackers",
+    "category": "Founder Community",
+    "url": "https://www.indiehackers.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.indiehackers.com/"
+  },
+  {
+    "id": "S049",
+    "name": "Medium",
+    "category": "Publishing Social",
+    "url": "https://medium.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://medium.com/"
+  },
+  {
+    "id": "S050",
+    "name": "Substack",
+    "category": "Newsletter Social",
+    "url": "https://substack.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://substack.com/"
+  },
+  {
+    "id": "S051",
+    "name": "Crunchbase",
+    "category": "Company Discovery",
+    "url": "https://www.crunchbase.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.crunchbase.com/"
+  },
+  {
+    "id": "S052",
+    "name": "Wellfound",
+    "category": "Startup Network",
+    "url": "https://wellfound.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://wellfound.com/"
+  },
+  {
+    "id": "S053",
+    "name": "Google Business Profile",
+    "category": "Local Business Discovery",
+    "url": "https://www.google.com/business/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.google.com/business/"
+  },
+  {
+    "id": "S054",
+    "name": "Yelp",
+    "category": "Local Review",
+    "url": "https://www.yelp.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.yelp.com/"
+  },
+  {
+    "id": "S055",
+    "name": "Trustpilot",
+    "category": "Review Platform",
+    "url": "https://www.trustpilot.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.trustpilot.com/"
+  },
+  {
+    "id": "S056",
+    "name": "G2",
+    "category": "Software Review",
+    "url": "https://www.g2.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.g2.com/"
+  },
+  {
+    "id": "S057",
+    "name": "Capterra",
+    "category": "Software Review",
+    "url": "https://www.capterra.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.capterra.com/"
+  },
+  {
+    "id": "S058",
+    "name": "Apple Business Connect",
+    "category": "Business Discovery",
+    "url": "https://businessconnect.apple.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://businessconnect.apple.com/"
+  },
+  {
+    "id": "S059",
+    "name": "Weixin / WeChat",
+    "category": "Messaging Social",
+    "url": "https://www.wechat.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.wechat.com/"
+  },
+  {
+    "id": "S060",
+    "name": "Sina Weibo",
+    "category": "Microblogging",
+    "url": "https://weibo.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://weibo.com/"
+  },
+  {
+    "id": "S061",
+    "name": "Douyin",
+    "category": "Short Video",
+    "url": "https://www.douyin.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.douyin.com/"
+  },
+  {
+    "id": "S062",
+    "name": "RED / Xiaohongshu",
+    "category": "Lifestyle Social",
+    "url": "https://www.xiaohongshu.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.xiaohongshu.com/"
+  },
+  {
+    "id": "S063",
+    "name": "Kuaishou / Kwai",
+    "category": "Short Video",
+    "url": "https://www.kuaishou.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.kuaishou.com/"
+  },
+  {
+    "id": "S064",
+    "name": "Bilibili",
+    "category": "Video Community",
+    "url": "https://www.bilibili.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.bilibili.com/"
+  },
+  {
+    "id": "S065",
+    "name": "Zhihu",
+    "category": "Q And A",
+    "url": "https://www.zhihu.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.zhihu.com/"
+  },
+  {
+    "id": "S066",
+    "name": "QQ / Qzone",
+    "category": "Social Network",
+    "url": "https://qzone.qq.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://qzone.qq.com/"
+  },
+  {
+    "id": "S067",
+    "name": "LINE / LINE VOOM",
+    "category": "Messaging Social",
+    "url": "https://line.me/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://line.me/"
+  },
+  {
+    "id": "S068",
+    "name": "KakaoTalk",
+    "category": "Messaging Social",
+    "url": "https://www.kakaocorp.com/page/service/service/KakaoTalk",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.kakaocorp.com/page/service/service/KakaoTalk"
+  },
+  {
+    "id": "S069",
+    "name": "KakaoStory",
+    "category": "Social Network",
+    "url": "https://story.kakao.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://story.kakao.com/"
+  },
+  {
+    "id": "S070",
+    "name": "NAVER BAND",
+    "category": "Community Social",
+    "url": "https://band.us/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://band.us/"
+  },
+  {
+    "id": "S071",
+    "name": "NAVER Blog",
+    "category": "Publishing Social",
+    "url": "https://blog.naver.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://blog.naver.com/"
+  },
+  {
+    "id": "S072",
+    "name": "ShareChat",
+    "category": "Social Network",
+    "url": "https://sharechat.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://sharechat.com/"
+  },
+  {
+    "id": "S073",
+    "name": "Moj",
+    "category": "Short Video",
+    "url": "https://mojapp.in/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://mojapp.in/"
+  },
+  {
+    "id": "S074",
+    "name": "Josh",
+    "category": "Short Video",
+    "url": "https://myjosh.in/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://myjosh.in/"
+  },
+  {
+    "id": "S075",
+    "name": "Roposo",
+    "category": "Short Video Commerce",
+    "url": "https://www.roposo.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.roposo.com/"
+  },
+  {
+    "id": "S076",
+    "name": "Zalo",
+    "category": "Messaging Social",
+    "url": "https://zalo.me/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://zalo.me/"
+  },
+  {
+    "id": "S077",
+    "name": "VK",
+    "category": "Social Network",
+    "url": "https://vk.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://vk.com/"
+  },
+  {
+    "id": "S078",
+    "name": "Odnoklassniki",
+    "category": "Social Network",
+    "url": "https://ok.ru/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://ok.ru/"
+  },
+  {
+    "id": "S079",
+    "name": "Yandex Zen",
+    "category": "Publishing Social",
+    "url": "https://dzen.ru/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://dzen.ru/"
+  },
+  {
+    "id": "S080",
+    "name": "Viber",
+    "category": "Messaging Social",
+    "url": "https://www.viber.com/",
+    "notes": "Profiles, publishing, community discovery, and available paid or partner promotion",
+    "source": "https://www.viber.com/"
+  },
+  {
+    "id": "S081",
+    "name": "Alignable",
+    "category": "Business Network",
+    "url": "https://www.alignable.com/",
+    "notes": "Business profiles, groups, events, referrals, promotions, and managed partner advertising",
+    "source": "https://www.alignable.com/"
+  },
+  {
+    "id": "S082",
+    "name": "BiggerPockets",
+    "category": "Real Estate Community",
+    "url": "https://www.biggerpockets.com/",
+    "notes": "Profiles, forums, company pages, marketplace, newsletters, podcasts, and direct advertising",
+    "source": "https://www.biggerpockets.com/"
+  },
+  {
+    "id": "S083",
+    "name": "Lemon8",
+    "category": "Lifestyle Social",
+    "url": "https://www.lemon8-app.com/",
+    "notes": "Public profiles, visual posts, discovery, and TikTok-linked cross-posting",
+    "source": "https://www.lemon8-app.com/"
+  },
+  {
+    "id": "S084",
+    "name": "BeReal",
+    "category": "Photo Social",
+    "url": "https://bereal.com/",
+    "notes": "Daily dual-camera posts, public discovery, boosted posts, CPC ads, and managed brand placements",
+    "source": "https://bereal.com/"
+  },
+  {
+    "id": "S085",
+    "name": "Clubhouse",
+    "category": "Live Audio Social",
+    "url": "https://www.clubhouse.com/",
+    "notes": "Profiles, live audio rooms, houses, and community events",
+    "source": "https://www.clubhouse.com/"
+  },
+  {
+    "id": "S086",
+    "name": "Meetup",
+    "category": "Events Community",
+    "url": "https://www.meetup.com/",
+    "notes": "Member profiles, organizer groups, events, announcements, Pro networks, and sponsorships",
+    "source": "https://www.meetup.com/"
+  },
+  {
+    "id": "S087",
+    "name": "Eventbrite",
+    "category": "Event Discovery",
+    "url": "https://www.eventbrite.com/",
+    "notes": "Organizer profiles, event listings, email promotion, discovery, and Eventbrite Ads",
+    "source": "https://www.eventbrite.com/"
+  },
+  {
+    "id": "S088",
+    "name": "Patreon",
+    "category": "Membership Creator",
+    "url": "https://www.patreon.com/",
+    "notes": "Creator profiles, posts, memberships, community, and shops",
+    "source": "https://www.patreon.com/"
+  },
+  {
+    "id": "S089",
+    "name": "Bandcamp",
+    "category": "Music Community Commerce",
+    "url": "https://bandcamp.com/",
+    "notes": "Artist and label profiles, releases, fan messaging, tag discovery, and editorial consideration",
+    "source": "https://bandcamp.com/"
+  },
+  {
+    "id": "S090",
+    "name": "ReverbNation",
+    "category": "Music Creator Network",
+    "url": "https://www.reverbnation.com/",
+    "notes": "Artist profiles, releases, fan reach, opportunities, electronic press kits, and Promote It ads",
+    "source": "https://www.reverbnation.com/"
+  },
+  {
+    "id": "S091",
+    "name": "Flipboard",
+    "category": "Content Curation Social",
+    "url": "https://flipboard.com/",
+    "notes": "Creator and publisher profiles, magazines, story curation, federation, and promoted posts",
+    "source": "https://flipboard.com/"
+  },
+  {
+    "id": "S092",
+    "name": "Clapper",
+    "category": "Short Video Creator",
+    "url": "https://www.clapperapp.com/",
+    "notes": "Short video, live streams, radio rooms, group chats, subscriptions, and creator shops",
+    "source": "https://www.clapperapp.com/"
+  },
+  {
+    "id": "S093",
+    "name": "Houzz",
+    "category": "Home Services Community",
+    "url": "https://www.houzz.com/",
+    "notes": "Personal ideabooks, professional business profiles, project portfolios, local discovery, and advertising",
+    "source": "https://www.houzz.com/"
+  },
+  {
+    "id": "S094",
+    "name": "Tripadvisor",
+    "category": "Travel Review Discovery",
+    "url": "https://www.tripadvisor.com/",
+    "notes": "Traveler profiles, reviews, business listings, management center, and sponsored placements",
+    "source": "https://www.tripadvisor.com/"
+  },
+  {
+    "id": "S095",
+    "name": "Foursquare",
+    "category": "Local Business Discovery",
+    "url": "https://foursquare.com/",
+    "notes": "Business listings, reviews, location data, nearby discovery, and local ads",
+    "source": "https://foursquare.com/"
+  },
+  {
+    "id": "S096",
+    "name": "Truth Social",
+    "category": "Microblogging",
+    "url": "https://truthsocial.com/",
+    "notes": "Profiles, posts, follows, groups, and native feed advertising",
+    "source": "https://truthsocial.com/"
+  },
+  {
+    "id": "S097",
+    "name": "Gumroad",
+    "category": "Creator Commerce Discovery",
+    "url": "https://gumroad.com/",
+    "notes": "Creator storefront profiles, product posts, Discover recommendations, and affiliate distribution",
+    "source": "https://gumroad.com/"
+  },
+  {
+    "id": "S098",
+    "name": "Ko-fi",
+    "category": "Creator Membership Commerce",
+    "url": "https://ko-fi.com/",
+    "notes": "Creator pages, posts, memberships, shop items, services, commissions, and supporter payments",
+    "source": "https://ko-fi.com/"
+  },
+  {
+    "id": "S099",
+    "name": "Buy Me a Coffee",
+    "category": "Creator Membership Commerce",
+    "url": "https://www.buymeacoffee.com/",
+    "notes": "Creator pages, supporter posts, memberships, extras, and shops",
+    "source": "https://www.buymeacoffee.com/"
+  },
+  {
+    "id": "S100",
+    "name": "Goodreads",
+    "category": "Book Community",
+    "url": "https://www.goodreads.com/",
+    "notes": "Reader profiles, author profiles, blogs, groups, giveaways, and direct advertising",
+    "source": "https://www.goodreads.com/"
+  }
+]
