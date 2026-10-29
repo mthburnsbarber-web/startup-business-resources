@@ -1200,11 +1200,3923 @@
     "source": "Original program tracker, 2026-10-15"
   },
   {
-    "id": "ADD01",
     "name": "Z Fellows",
-    "category": "Additional startup programs",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Founder fellowship and mentorship for early-stage builders; check current application terms.",
+    "id": "ADD01",
     "url": "https://www.zfellows.com/",
-    "notes": "Founder fellowship and mentorship for early-stage technical builders; check current application terms on the official site.",
     "source": "https://www.zfellows.com/"
+  },
+  {
+    "name": "Conviction Embed",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Program for early-stage AI founders, including capital and founder support; review current cohort terms.",
+    "id": "ADD02",
+    "url": "https://embed.conviction.com/",
+    "source": "https://embed.conviction.com/"
+  },
+  {
+    "name": "Thiel Fellowship",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Fellowship for young builders; age and education requirements apply.",
+    "id": "ADD03",
+    "url": "https://thielfellowship.org/",
+    "source": "https://thielfellowship.org/"
+  },
+  {
+    "name": "Emergent Ventures",
+    "category": "Grants and startup competitions",
+    "notes": "Mercatus Center grants and fellowships for promising ideas; review the application criteria.",
+    "id": "ADD04",
+    "url": "https://mercatus.tfaforms.net/5099527",
+    "source": "https://mercatus.tfaforms.net/5099527"
+  },
+  {
+    "name": "ATDC Accelerate",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Georgia technology-company accelerator; stage, location and membership terms apply.",
+    "id": "ADD05",
+    "url": "https://atdc.org/accelerate-program/",
+    "source": "https://atdc.org/accelerate-program/"
+  },
+  {
+    "name": "Georgia FAST Phase 0",
+    "category": "Regional entrepreneurship programs",
+    "notes": "University of Georgia support for eligible Georgia businesses preparing SBIR/STTR proposals.",
+    "id": "ADD06",
+    "url": "https://research.uga.edu/gateway/startups/uga-fast-grant/",
+    "source": "https://research.uga.edu/gateway/startups/uga-fast-grant/"
+  },
+  {
+    "name": "The Pitch by Deel",
+    "category": "Grants and startup competitions",
+    "notes": "Startup pitch competition with investment terms; consult the current cycle rather than assuming a cash grant.",
+    "id": "ADD07",
+    "url": "https://www.deel.com/the-pitch-by-deel/",
+    "source": "https://www.deel.com/the-pitch-by-deel/"
+  },
+  {
+    "name": "MIT Solve",
+    "category": "Education and social-impact programs",
+    "notes": "Open innovation challenges, including learning and social impact; each challenge has its own criteria.",
+    "id": "ADD08",
+    "url": "https://solve.mit.edu/challenges",
+    "source": "https://solve.mit.edu/challenges"
+  },
+  {
+    "name": "GSV Cup",
+    "category": "Education and social-impact programs",
+    "notes": "Showcase and network for early-stage education and workforce startups; nomination is not an investment award.",
+    "id": "ADD09",
+    "url": "https://asugsvsummit.com/gsv-cup",
+    "source": "https://asugsvsummit.com/gsv-cup"
+  },
+  {
+    "name": "Innovation Portal pitch competitions",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Mobile, Alabama pitch event associated with Mobile Innovation Week; consult dated event and entry terms.",
+    "id": "ADD10",
+    "url": "https://www.innovation-portal.com/event/10th-anniversary-celebration/",
+    "source": "https://www.innovation-portal.com/event/10th-anniversary-celebration/"
+  },
+  {
+    "name": "Shophand Small Business Boost Grant",
+    "category": "Grants and startup competitions",
+    "notes": "Small-business grant combining funding and operational support; consult current cycle and participation terms.",
+    "id": "ADD11",
+    "url": "https://www.shophand.com/small-business-boost-grant",
+    "source": "https://www.shophand.com/small-business-boost-grant"
+  },
+  {
+    "name": "ECMC Education Innovation Ventures",
+    "category": "Education and social-impact programs",
+    "notes": "Mission-aligned investment in postsecondary learning and career pathways; investment criteria differ from grant eligibility.",
+    "id": "ADD12",
+    "url": "https://www.ecmcfoundation.org/what-we-do/",
+    "source": "https://www.ecmcfoundation.org/what-we-do/"
+  },
+  {
+    "name": "AI for Good Innovation Factory",
+    "category": "Education and social-impact programs",
+    "notes": "ITU startup pitching and innovation program for AI addressing sustainable-development challenges.",
+    "id": "ADD13",
+    "url": "https://aiforgood.itu.int/about-us/innovation-factory/",
+    "source": "https://aiforgood.itu.int/about-us/innovation-factory/"
+  },
+  {
+    "name": "JFFVentures",
+    "category": "Education and social-impact programs",
+    "notes": "Venture investment focused on learning, work and economic advancement; review the investment thesis and pitch route.",
+    "id": "ADD14",
+    "url": "https://www.jffventures.vc/",
+    "source": "https://www.jffventures.vc/"
+  },
+  {
+    "name": "Entrepreneurship World Cup",
+    "category": "Grants and startup competitions",
+    "notes": "Global entrepreneurship competition and support program; national and global rounds have separate deadlines.",
+    "id": "ADD15",
+    "url": "https://entrepreneurshipworldcup.com/",
+    "source": "https://entrepreneurshipworldcup.com/"
+  },
+  {
+    "name": "Stand Together Ventures Lab",
+    "category": "Education and social-impact programs",
+    "notes": "Early-stage venture investment and support for businesses addressing social challenges.",
+    "id": "ADD16",
+    "url": "https://stventureslab.com/about-us",
+    "source": "https://stventureslab.com/about-us"
+  },
+  {
+    "name": "Kapor Capital",
+    "category": "Education and social-impact programs",
+    "notes": "Early-stage venture investment in gap-closing businesses; official pitch page lists investment criteria.",
+    "id": "ADD17",
+    "url": "https://www.kaporcapital.com/pitch/",
+    "source": "https://www.kaporcapital.com/pitch/"
+  },
+  {
+    "name": "Business Freedom Grant",
+    "category": "Grants and startup competitions",
+    "notes": "Private grant from Darcy’s Business; review current award cycle, eligibility and any application charge.",
+    "id": "ADD18",
+    "url": "https://businessfreedomgrant.com/",
+    "source": "https://businessfreedomgrant.com/"
+  },
+  {
+    "name": "Blue Ridge Labs Catalyst",
+    "category": "Education and social-impact programs",
+    "notes": "Robin Hood accelerator for social-impact ventures addressing economic mobility and poverty.",
+    "id": "ADD19",
+    "url": "https://robinhood.org/our-work/blue-ridge-labs/catalyst/",
+    "source": "https://robinhood.org/our-work/blue-ridge-labs/catalyst/"
+  },
+  {
+    "name": "Digital Promise K-12 AI Infrastructure Program",
+    "category": "Education and social-impact programs",
+    "notes": "Dated grant-cycle announcement for education AI infrastructure; review the linked current RFP and deadlines.",
+    "id": "ADD20",
+    "url": "https://digitalpromise.org/articles/apply-now-for-the-k-12-ai-infrastructure-programs-first-grant-cycle/",
+    "source": "https://digitalpromise.org/articles/apply-now-for-the-k-12-ai-infrastructure-programs-first-grant-cycle/"
+  },
+  {
+    "name": "Betaworks Camp",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Thematic investment and product-development program; cohort focus and investment terms vary.",
+    "id": "ADD21",
+    "url": "https://www.betaworks.com/camp",
+    "source": "https://www.betaworks.com/camp"
+  },
+  {
+    "name": "Coach K Legacy Grant",
+    "category": "Grants and startup competitions",
+    "notes": "Private business grant. The retrieved page listed October 27 as its deadline, already past on the review date; verify the next cycle.",
+    "id": "ADD22",
+    "url": "https://thelegacygrant.com/",
+    "source": "https://thelegacygrant.com/"
+  },
+  {
+    "name": "EDSAFE AI Industry Council",
+    "category": "Education and social-impact programs",
+    "notes": "Education AI industry council and collaboration network; membership is not a funding award or safety certification.",
+    "id": "ADD23",
+    "url": "https://www.edsafeai.org/industry-council",
+    "source": "https://www.edsafeai.org/industry-council"
+  },
+  {
+    "name": "Skip grants",
+    "category": "Grants and startup competitions",
+    "notes": "Small-business grant discovery and recurring opportunities; review each grant’s eligibility and paid-membership conditions.",
+    "id": "ADD24",
+    "url": "https://helloskip.com/grants",
+    "source": "https://helloskip.com/grants"
+  },
+  {
+    "name": "Outta Excuses Grant",
+    "category": "Grants and startup competitions",
+    "notes": "Entrepreneurship grant and summit program; consult current grant and event participation terms.",
+    "id": "ADD25",
+    "url": "https://www.outtaexcuses.com/faq",
+    "source": "https://www.outtaexcuses.com/faq"
+  },
+  {
+    "name": "Hustler’s MicroGrant",
+    "category": "Grants and startup competitions",
+    "notes": "HerSuiteSpot and Yva Jourdan Foundation microgrant; consult current eligibility and intake.",
+    "id": "ADD26",
+    "url": "https://www.hersuitespot.com/hustlersgrant/",
+    "source": "https://www.hersuitespot.com/hustlersgrant/"
+  },
+  {
+    "name": "Create Birmingham CO.STARTERS",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Entrepreneurship training in Birmingham; program and application fees may apply.",
+    "id": "ADD27",
+    "url": "https://createbirmingham.org/programs/co-starters/",
+    "source": "https://createbirmingham.org/programs/co-starters/"
+  },
+  {
+    "name": "Founder Institute",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Early-stage accelerator with chapter-specific fees, schedule and equity terms.",
+    "id": "ADD28",
+    "url": "https://fi.co/admissions",
+    "source": "https://fi.co/admissions"
+  },
+  {
+    "name": "Berkeley SkyDeck",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Accelerator with distinct funded-cohort and other participation tracks; eligibility varies by track.",
+    "id": "ADD29",
+    "url": "https://skydeck.berkeley.edu/apply/",
+    "source": "https://skydeck.berkeley.edu/apply/"
+  },
+  {
+    "name": "TinySeed",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Investment accelerator for revenue-generating SaaS companies; check geography and current application window.",
+    "id": "ADD30",
+    "url": "https://tinyseed.com/",
+    "source": "https://tinyseed.com/"
+  },
+  {
+    "name": "Emory Hatchery Sandbox and Accelerator",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Emory entrepreneurship programs; the former Incubator is now called Sandbox and university eligibility applies.",
+    "id": "ADD31",
+    "url": "https://hatchery.emory.edu/engage-with-hatchery.html",
+    "source": "https://hatchery.emory.edu/engage-with-hatchery.html"
+  },
+  {
+    "name": "Mercer Innovation Fellowship",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Mercer Innovation Center business-launch support; review current regional and participation criteria.",
+    "id": "ADD32",
+    "url": "https://mic.mercer.edu/fellows-program/",
+    "source": "https://mic.mercer.edu/fellows-program/"
+  },
+  {
+    "name": "Melton Business Accelerator",
+    "category": "Regional entrepreneurship programs",
+    "notes": "University of South Alabama entrepreneurship program; consult local eligibility and cohort availability.",
+    "id": "ADD33",
+    "url": "https://www.southalabama.edu/colleges/mcob/mcei/mba.html",
+    "source": "https://www.southalabama.edu/colleges/mcob/mcei/mba.html"
+  },
+  {
+    "name": "WISE Edtech Accelerator",
+    "category": "Education and social-impact programs",
+    "notes": "Qatar Foundation education-technology accelerator; current cohort and international-track requirements apply.",
+    "id": "ADD34",
+    "url": "https://www.wise-qatar.org/innovation/edtech-accelerator",
+    "source": "https://www.wise-qatar.org/innovation/edtech-accelerator"
+  },
+  {
+    "name": "SXSW EDU Launch",
+    "category": "Education and social-impact programs",
+    "notes": "Education startup pitch competition; entry deadlines and event participation terms apply.",
+    "id": "ADD35",
+    "url": "https://sxswedu.com/competitions/",
+    "source": "https://sxswedu.com/competitions/"
+  },
+  {
+    "name": "Learning Engineering Tools Competition",
+    "category": "Education and social-impact programs",
+    "notes": "Funding competition for tools that improve learning; research and track-specific requirements apply.",
+    "id": "ADD36",
+    "url": "https://tools-competition.org/",
+    "source": "https://tools-competition.org/"
+  },
+  {
+    "name": "Google for Startups Accelerator",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Directory of regional and thematic accelerator cohorts; separate from Google Cloud startup credits.",
+    "id": "ADD37",
+    "url": "https://developers.google.com/community/accelerators/programs",
+    "source": "https://developers.google.com/community/accelerators/programs"
+  },
+  {
+    "name": "AI Grant",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Program supporting AI-native companies; consult current investment structure and application terms.",
+    "id": "ADD38",
+    "url": "https://aigrant.com/",
+    "source": "https://aigrant.com/"
+  },
+  {
+    "name": "CAMB.AI Startup Grants",
+    "category": "AI and developer startup offers",
+    "notes": "Voice and language AI startup credit program; credits are provider usage benefits, not cash.",
+    "id": "ADD39",
+    "url": "https://www.camb.ai/startup-grants",
+    "source": "https://www.camb.ai/startup-grants"
+  },
+  {
+    "name": "AWS Education Equity Initiative",
+    "category": "Education and social-impact programs",
+    "notes": "Cloud credits and technical expertise for organizations expanding learning access for underserved learners.",
+    "id": "ADD40",
+    "url": "https://aws.amazon.com/about-aws/our-impact/education-equity-initiative/",
+    "source": "https://aws.amazon.com/about-aws/our-impact/education-equity-initiative/"
+  },
+  {
+    "name": "HF0",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Founder residency and venture investment program; review residency and investment terms.",
+    "id": "ADD41",
+    "url": "https://www.hf0.com/",
+    "source": "https://www.hf0.com/"
+  },
+  {
+    "name": "Neo Residency",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Founder residency from Neo; the previous AI-accelerator URL now redirects to the residency.",
+    "id": "ADD42",
+    "url": "https://neo.com/residency",
+    "source": "https://neo.com/residency"
+  },
+  {
+    "name": "Entrepreneurs First",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Founder formation and investment program; locations and participation terms vary.",
+    "id": "ADD43",
+    "url": "https://apply.joinef.com/",
+    "source": "https://apply.joinef.com/"
+  },
+  {
+    "name": "ODF",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Founder community program; review current format, membership cost and admission terms.",
+    "id": "ADD44",
+    "url": "https://admissions.joinodf.com/",
+    "source": "https://admissions.joinodf.com/"
+  },
+  {
+    "name": "PearX",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Pear VC early-stage accelerator; official Pear domain used for the current program.",
+    "id": "ADD45",
+    "url": "https://pear.vc/pearx/",
+    "source": "https://pear.vc/pearx/"
+  },
+  {
+    "name": "500 Global Flagship Accelerator / 500 Fellowship",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "500 Global founder accelerator and fellowship; the retrieved page listed an October 11 application deadline, already past on the review date.",
+    "id": "ADD46",
+    "url": "https://500.co/founders/flagship",
+    "source": "https://500.co/founders/flagship"
+  },
+  {
+    "name": "MassChallenge",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Accelerator and challenge programs with different regional and sector requirements.",
+    "id": "ADD47",
+    "url": "https://masschallenge.org/programs-all/",
+    "source": "https://masschallenge.org/programs-all/"
+  },
+  {
+    "name": "gener8tor accelerators",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Directory of investment, gBETA and industry programs; terms differ by program.",
+    "id": "ADD48",
+    "url": "https://www.gener8tor.com/apply",
+    "source": "https://www.gener8tor.com/apply"
+  },
+  {
+    "name": "Halcyon fellowships",
+    "category": "Education and social-impact programs",
+    "notes": "Fellowships and accelerators for impact-driven founders; sector and geographic eligibility vary.",
+    "id": "ADD49",
+    "url": "https://halcyonaccelerator.org/applicants/",
+    "source": "https://halcyonaccelerator.org/applicants/"
+  },
+  {
+    "name": "Breakthrough Energy Fellows",
+    "category": "Education and social-impact programs",
+    "notes": "Climate-technology fellowship and commercialization support; technical focus and track requirements apply.",
+    "id": "ADD50",
+    "url": "https://apply.breakthroughenergy.org/",
+    "source": "https://apply.breakthroughenergy.org/"
+  },
+  {
+    "name": "Startmate Accelerator",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Australia and New Zealand accelerator; local participation and investment terms apply.",
+    "id": "ADD51",
+    "url": "https://www.startmate.com/accelerator",
+    "source": "https://www.startmate.com/accelerator"
+  },
+  {
+    "name": "Accelerate Cambridge",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Cambridge Judge Business School venture-support program; review current application and location requirements.",
+    "id": "ADD52",
+    "url": "https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/",
+    "source": "https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/"
+  },
+  {
+    "name": "Entrepreneurs Roundtable Accelerator",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "New York startup accelerator and investment program; cohort and investment terms apply.",
+    "id": "ADD53",
+    "url": "https://www.eranyc.com/",
+    "source": "https://www.eranyc.com/"
+  },
+  {
+    "name": "HAX",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "SOSV hard-tech accelerator and investment program; physical-product and residency requirements apply.",
+    "id": "ADD54",
+    "url": "https://hax.co/",
+    "source": "https://hax.co/"
+  },
+  {
+    "name": "Plug and Play startup programs",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Official hub for regional corporate-innovation and startup programs. The retrieved page exposed limited text; inspect each regional application for current terms.",
+    "id": "ADD55",
+    "url": "https://www.plugandplaytechcenter.com/innovation-services/startups",
+    "source": "https://www.plugandplaytechcenter.com/innovation-services/startups"
+  },
+  {
+    "name": "STARTUP AUTOBAHN",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Open-innovation platform connecting technology companies with corporate pilot opportunities.",
+    "id": "ADD56",
+    "url": "https://startup-autobahn.com/",
+    "source": "https://startup-autobahn.com/"
+  },
+  {
+    "name": "Peak XV Surge",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Early-stage company-building and investment program; geography and current cohort terms apply.",
+    "id": "ADD57",
+    "url": "https://surge.peakxv.com/",
+    "source": "https://surge.peakxv.com/"
+  },
+  {
+    "name": "Third Derivative",
+    "category": "Education and social-impact programs",
+    "notes": "Climate-tech accelerator ecosystem linking startups with investors and corporate partners.",
+    "id": "ADD58",
+    "url": "https://www.third-derivative.org/",
+    "source": "https://www.third-derivative.org/"
+  },
+  {
+    "name": "Accel Atoms",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Pre-seed and early-stage founder program; current sector, geography and investment terms apply.",
+    "id": "ADD59",
+    "url": "https://atoms.accel.com/faqs",
+    "source": "https://atoms.accel.com/faqs"
+  },
+  {
+    "name": "Creative Destruction Lab",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Science and technology venture mentorship; review stream and site-specific participation criteria.",
+    "id": "ADD60",
+    "url": "https://creativedestructionlab.com/program/",
+    "source": "https://creativedestructionlab.com/program/"
+  },
+  {
+    "name": "Flat6Labs",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Regional venture and acceleration programs; investment and local eligibility depend on the fund or cohort.",
+    "id": "ADD61",
+    "url": "https://flat6labs.com/apply-now/",
+    "source": "https://flat6labs.com/apply-now/"
+  },
+  {
+    "name": "Founders Factory",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Accelerator and venture studio with sector-specific corporate partners and investment terms.",
+    "id": "ADD62",
+    "url": "https://foundersfactory.com/accelerator/",
+    "source": "https://foundersfactory.com/accelerator/"
+  },
+  {
+    "name": "Kickstart Innovation",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Open-innovation program focused on collaboration and pilot projects with established organizations.",
+    "id": "ADD63",
+    "url": "https://www.kickstart-innovation.com/",
+    "source": "https://www.kickstart-innovation.com/"
+  },
+  {
+    "name": "MiraclePlus",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Early-stage acceleration and venture investment; current language, location and investment requirements apply.",
+    "id": "ADD64",
+    "url": "https://www.miracleplus.com/apply",
+    "source": "https://www.miracleplus.com/apply"
+  },
+  {
+    "name": "NEXT 36",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Canadian founder development program; review age, student and geography eligibility.",
+    "id": "ADD65",
+    "url": "https://www.nextcanada.com/next-36/",
+    "source": "https://www.nextcanada.com/next-36/"
+  },
+  {
+    "name": "parallel18",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Puerto Rico-based startup accelerator; local participation and cohort requirements apply.",
+    "id": "ADD66",
+    "url": "https://parallel18.com/p18/",
+    "source": "https://parallel18.com/p18/"
+  },
+  {
+    "name": "Platanus Ventures",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Early-stage technology company accelerator and investment; review regional and cohort terms.",
+    "id": "ADD67",
+    "url": "https://platan.us/programa",
+    "source": "https://platan.us/programa"
+  },
+  {
+    "name": "Start-Up Chile Build",
+    "category": "Regional entrepreneurship programs",
+    "notes": "Early-stage Start-Up Chile track, distinct from the original Ignite and Growth entries.",
+    "id": "ADD68",
+    "url": "https://startupchile.org/en/apply/build/",
+    "source": "https://startupchile.org/en/apply/build/"
+  },
+  {
+    "name": "Startupbootcamp",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Network of sector-specific accelerators; fees, investment and residency terms vary by cohort.",
+    "id": "ADD69",
+    "url": "https://startupbootcamp.org/",
+    "source": "https://startupbootcamp.org/"
+  },
+  {
+    "name": "Echoing Green Fellowship",
+    "category": "Education and social-impact programs",
+    "notes": "Fellowship for early-stage social entrepreneurs; founder role and organization-stage requirements apply.",
+    "id": "ADD70",
+    "url": "https://echoinggreen.org/fellowship/",
+    "source": "https://echoinggreen.org/fellowship/"
+  },
+  {
+    "name": "Acumen Fellowship",
+    "category": "Education and social-impact programs",
+    "notes": "Leadership development for social-change leaders; regional eligibility applies and this is not a general startup cash grant.",
+    "id": "ADD71",
+    "url": "https://acumen.org/fellowships/",
+    "source": "https://acumen.org/fellowships/"
+  },
+  {
+    "name": "Fintech Sandbox Data Access Residency",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Data access and support for eligible fintech startups; consult residency requirements.",
+    "id": "ADD72",
+    "url": "https://www.fintechsandbox.org/",
+    "source": "https://www.fintechsandbox.org/"
+  },
+  {
+    "name": "Sprinto Blueprint",
+    "category": "Founder tools and support",
+    "notes": "Self-guided startup compliance preparation tool; using it does not establish certification.",
+    "id": "ADD73",
+    "url": "https://blueprint.sprinto.com/",
+    "source": "https://blueprint.sprinto.com/"
+  },
+  {
+    "name": "Navy NAWCTSD research opportunities",
+    "category": "Public research funding",
+    "notes": "Official training-systems research organization; locate current R&D BAAs through its official site and SAM.gov. Historical topic availability is unverified.",
+    "id": "ADD74",
+    "url": "https://www.navair.navy.mil/organization/NAWCTSD",
+    "source": "https://www.navair.navy.mil/organization/NAWCTSD"
+  },
+  {
+    "name": "ONR long-range research announcements",
+    "category": "Public research funding",
+    "notes": "Official Navy research opportunities, including long-range BAAs; review the current notice and research topic.",
+    "id": "ADD75",
+    "url": "https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements",
+    "source": "https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements"
+  },
+  {
+    "name": "OpenAI for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup resource hub. Indexed official content identifies the program, but live automated retrieval was blocked on 2026-10-29; current benefits are unverified.",
+    "id": "ADD76",
+    "url": "https://openai.com/startups",
+    "source": "https://openai.com/startups"
+  },
+  {
+    "name": "Replit for Startups",
+    "category": "Developer startup offers",
+    "notes": "Startup credits and onboarding for eligible fund- or accelerator-backed companies.",
+    "id": "ADD77",
+    "url": "https://replit.com/usecases/founders",
+    "source": "https://replit.com/usecases/founders"
+  },
+  {
+    "name": "Browserbase ElevenLabs Founder Pack",
+    "category": "Developer startup offers",
+    "notes": "Browserbase startup credits for eligible ElevenLabs Founder Pack participants.",
+    "id": "ADD78",
+    "url": "https://www.browserbase.com/11labs-founder-pack",
+    "source": "https://www.browserbase.com/11labs-founder-pack"
+  },
+  {
+    "name": "DevRev Startup Program",
+    "category": "Startup software and service offers",
+    "notes": "Startup application route; funding-stage and program terms apply.",
+    "id": "ADD79",
+    "url": "https://devrev.ai/startups/apply",
+    "source": "https://devrev.ai/startups/apply"
+  },
+  {
+    "name": "PayU Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Partner-specific payment-service startup offer; geographic and referral criteria apply.",
+    "id": "ADD80",
+    "url": "https://lp.payu.in/matrix",
+    "source": "https://lp.payu.in/matrix"
+  },
+  {
+    "name": "Z.ai Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "AI API startup credits and technical support; application approval and current terms apply.",
+    "id": "ADD81",
+    "url": "https://startup.z.ai/",
+    "source": "https://startup.z.ai/"
+  },
+  {
+    "name": "Gcore for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Startup cloud program; matching benefits can require paid spend.",
+    "id": "ADD82",
+    "url": "https://startups.gcore.com/",
+    "source": "https://startups.gcore.com/"
+  },
+  {
+    "name": "The Catalyst Fund",
+    "category": "Education and social-impact programs",
+    "notes": "Venture investment and support for climate-resilience companies in Africa; current thesis and investment terms apply.",
+    "id": "ADD83",
+    "url": "https://www.thecatalystfund.com/",
+    "source": "https://www.thecatalystfund.com/"
+  },
+  {
+    "name": "Postman for AI-native startups",
+    "category": "Developer startup offers",
+    "notes": "Postman program for funded AI-native startups; investors, eligibility and time-limited access conditions apply.",
+    "id": "ADD84",
+    "url": "https://www.postman.com/postman-for-ai-native-startups/",
+    "source": "https://www.postman.com/postman-for-ai-native-startups/"
+  },
+  {
+    "name": "Zuddl Webinars for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official support page describes a startup webinar offer for annual plans; contact the provider for current eligibility and pricing.",
+    "id": "ADD85",
+    "url": "https://support.zuddl.com/articles/7531895068-how-to-choose-a-zuddl-webinar-plan",
+    "source": "https://support.zuddl.com/articles/7531895068-how-to-choose-a-zuddl-webinar-plan"
+  },
+  {
+    "name": "Carta Launch",
+    "category": "Founder tools and support",
+    "notes": "Free entry-level cap-table plan with stakeholder and fundraising limits; a software plan, not a grant.",
+    "id": "ADD86",
+    "url": "https://carta.com/plans/equity-management/",
+    "source": "https://carta.com/plans/equity-management/"
+  },
+  {
+    "name": "GitGuardian",
+    "category": "Other founder tools from the historical list",
+    "notes": "Secrets-security product and pricing resource from the historical list; a special startup grant or discount was not established.",
+    "id": "ADD87",
+    "url": "https://www.gitguardian.com/pricing",
+    "source": "https://www.gitguardian.com/pricing"
+  },
+  {
+    "name": "Socket",
+    "category": "Other founder tools from the historical list",
+    "notes": "Software supply-chain security plans from the historical list; a special startup offer was not established.",
+    "id": "ADD88",
+    "url": "https://socket.dev/pricing",
+    "source": "https://socket.dev/pricing"
+  },
+  {
+    "name": "Zapier",
+    "category": "Other founder tools from the historical list",
+    "notes": "Workflow-automation product from the historical list; general plans are available, but a distinct startup funding program was not established.",
+    "id": "ADD89",
+    "url": "https://zapier.com/",
+    "source": "https://zapier.com/"
+  },
+  {
+    "name": "Heap",
+    "category": "Other founder tools from the historical list",
+    "notes": "Product-analytics plans from the historical list; a distinct startup award or credit program was not established.",
+    "id": "ADD90",
+    "url": "https://www.heap.io/pricing",
+    "source": "https://www.heap.io/pricing"
+  },
+  {
+    "name": "CockroachDB Cloud trial",
+    "category": "Other founder tools from the historical list",
+    "notes": "General database trial from the historical list; trial conditions and billing rules apply. Not a cash grant.",
+    "id": "ADD91",
+    "url": "https://www.cockroachlabs.com/docs/cockroachcloud/free-trial",
+    "source": "https://www.cockroachlabs.com/docs/cockroachcloud/free-trial"
+  },
+  {
+    "name": "Tiger Data / Timescale",
+    "category": "Other founder tools from the historical list",
+    "notes": "Database pricing resource; Tiger Data is the current brand for Timescale. A distinct startup credit offer was not established.",
+    "id": "ADD92",
+    "url": "https://www.tigerdata.com/pricing",
+    "source": "https://www.tigerdata.com/pricing"
+  },
+  {
+    "name": "Clever Library and app partner overview",
+    "category": "Education and social-impact programs",
+    "notes": "Official app-partner product overview includes Clever Library; a distribution resource, not a grant.",
+    "id": "ADD93",
+    "url": "https://support.clever.com/hc/s/articles/218727678",
+    "source": "https://support.clever.com/hc/s/articles/218727678"
+  },
+  {
+    "name": "Qloo Agentic Hackathon",
+    "category": "Hackathons and research challenges",
+    "notes": "Organizer competition page; inspect the rules and schedule before entering.",
+    "id": "ADD94",
+    "url": "https://qloo.devpost.com/",
+    "source": "https://qloo.devpost.com/"
+  },
+  {
+    "name": "Qloo LLM Hackathon",
+    "category": "Hackathons and research challenges",
+    "notes": "Earlier Qloo competition archive; retained as a reference, without implying current intake.",
+    "id": "ADD95",
+    "url": "https://qloo-hackathon.devpost.com/",
+    "source": "https://qloo-hackathon.devpost.com/"
+  },
+  {
+    "name": "PayPal AI Hackathon",
+    "category": "Hackathons and research challenges",
+    "notes": "Organizer announcement for the 2026 AI hackathon; current dates and official entry rules govern.",
+    "id": "ADD96",
+    "url": "https://developer.paypal.com/community/blog/PayPal_AI_Hackathon/",
+    "source": "https://developer.paypal.com/community/blog/PayPal_AI_Hackathon/"
+  },
+  {
+    "name": "OpenCV AI Competition",
+    "category": "Hackathons and research challenges",
+    "notes": "Official announcement for the 2026 OpenCV competition powered by AWS; review technical and entry requirements.",
+    "id": "ADD97",
+    "url": "https://opencv.org/opencv-launches-ai-competition-powered-by-amazon-web-services/",
+    "source": "https://opencv.org/opencv-launches-ai-competition-powered-by-amazon-web-services/"
+  },
+  {
+    "name": "NIH Kidney AI Discovery Challenge",
+    "category": "Hackathons and research challenges",
+    "notes": "NIH challenge focused on kidney-disease research and AI; review eligibility, data access and deadlines.",
+    "id": "ADD98",
+    "url": "https://www.nih.gov/challenges/kidney-artificial-intelligence-discovery-challenge-nebulae-nephrons",
+    "source": "https://www.nih.gov/challenges/kidney-artificial-intelligence-discovery-challenge-nebulae-nephrons"
+  },
+  {
+    "name": "DOE GEMS Prize Challenge",
+    "category": "Hackathons and research challenges",
+    "notes": "Official DOE announcement for the Geologic Enhanced Mapping System challenge; links to competition entry and rules.",
+    "id": "ADD99",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/office-geothermal-announces-geologic-enhanced-mapping-system-gems-prize",
+    "source": "https://www.energy.gov/hgeo/geothermal/articles/office-geothermal-announces-geologic-enhanced-mapping-system-gems-prize"
+  },
+  {
+    "name": "Allianz MoveNow Social Innovation Challenge",
+    "category": "Hackathons and research challenges",
+    "notes": "Organizer program for young social-impact founders; age, project and current-cycle requirements apply.",
+    "id": "ADD100",
+    "url": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
+    "source": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/"
+  },
+  {
+    "name": "Blaise xTech Competition",
+    "category": "Hackathons and research challenges",
+    "notes": "Organizer competition for AI-powered Raman-spectrometer applications. This is the Blaise challenge, not the US Army xTech program.",
+    "id": "ADD101",
+    "url": "https://www.herox.com/xTechIdeaCompetition",
+    "source": "https://www.herox.com/xTechIdeaCompetition"
+  },
+  {
+    "name": "Meta Llama Impact Grants",
+    "category": "Hackathons and research challenges",
+    "notes": "Official Llama impact-program resource. Includes prior initiatives; current intake and the exact historical Meta hackathon are not established.",
+    "id": "ADD102",
+    "url": "https://ai.meta.com/llama/llama-impact-grants",
+    "source": "https://ai.meta.com/llama/llama-impact-grants"
+  },
+  {
+    "name": "Airwallex Agentic Banking Hackathon announcement",
+    "category": "Hackathons and research challenges",
+    "notes": "Public organizer announcement for the Agentic Banking Hackathon. Confirm event status and entry rules with the organizer; automated page access may be restricted.",
+    "id": "ADD103",
+    "url": "https://www.linkedin.com/posts/airwallex_introducing-the-agentic-banking-hackathon-activity-7512919322550333440-BHPh",
+    "source": "https://www.linkedin.com/posts/airwallex_introducing-the-agentic-banking-hackathon-activity-7512919322550333440-BHPh"
+  },
+  {
+    "name": "Fish Audio Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD104",
+    "url": "https://fish.audio/startup/",
+    "source": "https://fish.audio/startup/"
+  },
+  {
+    "name": "Razorpay Startup Perks",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD105",
+    "url": "https://razorpay.com/m/startup-perks/terms/",
+    "source": "https://razorpay.com/m/startup-perks/terms/"
+  },
+  {
+    "name": "Solvimon × Y Combinator Startup Offer",
+    "category": "Finance and operations startup offers",
+    "notes": "Billing-platform offer restricted to Y Combinator founders; revenue threshold applies.",
+    "id": "ADD106",
+    "url": "https://www.solvimon.com/pricing/vc/yc",
+    "source": "https://www.solvimon.com/pricing/vc/yc"
+  },
+  {
+    "name": "Aleph Cloud Builder Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD107",
+    "url": "https://aleph.cloud/",
+    "source": "https://aleph.cloud/"
+  },
+  {
+    "name": "Mollie Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD108",
+    "url": "https://www.mollie.com/solutions/payments-for-startups",
+    "source": "https://www.mollie.com/solutions/payments-for-startups"
+  },
+  {
+    "name": "Aethir Ecosystem Fund (Catalyst)",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD109",
+    "url": "https://aethir.com/ecosystem-fund",
+    "source": "https://aethir.com/ecosystem-fund"
+  },
+  {
+    "name": "PayPal for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD110",
+    "url": "https://www.paypal.com/us/business/startups",
+    "source": "https://www.paypal.com/us/business/startups"
+  },
+  {
+    "name": "Runway Builders Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD111",
+    "url": "https://runway.com/product/builders",
+    "source": "https://runway.com/product/builders"
+  },
+  {
+    "name": "ScrapeGraphAI Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD112",
+    "url": "https://scrapegraphai.com/for-startups",
+    "source": "https://scrapegraphai.com/for-startups"
+  },
+  {
+    "name": "fal Generative Media Fund",
+    "category": "Founder fellowships and investment accelerators",
+    "notes": "Venture fund for generative-media companies; investment is separate from provider usage credits.",
+    "id": "ADD113",
+    "url": "https://fal.ai/fund",
+    "source": "https://fal.ai/fund"
+  },
+  {
+    "name": "Aruba Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD114",
+    "url": "https://www.arubacloud.pl/program-aruba-cloud-startup/programy.aspx",
+    "source": "https://www.arubacloud.pl/program-aruba-cloud-startup/programy.aspx"
+  },
+  {
+    "name": "Databricks for Startups",
+    "category": "Database startup offers",
+    "notes": "Databricks platform startup credits, separate from the original B48 Neon database route.",
+    "id": "ADD115",
+    "url": "https://www.databricks.com/product/startups",
+    "source": "https://www.databricks.com/product/startups"
+  },
+  {
+    "name": "Huawei Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD116",
+    "url": "https://startup.huaweicloud.com/intl/en-us/",
+    "source": "https://startup.huaweicloud.com/intl/en-us/"
+  },
+  {
+    "name": "Azion Scale Up Credit Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD117",
+    "url": "https://www.azion.com/en/lp/azion-scale-up/",
+    "source": "https://www.azion.com/en/lp/azion-scale-up/"
+  },
+  {
+    "name": "Backblaze Flamethrower",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD118",
+    "url": "https://www.backblaze.com/flamethrower",
+    "source": "https://www.backblaze.com/flamethrower"
+  },
+  {
+    "name": "Baidu AI Cloud Accelerator",
+    "category": "AI and model startup offers",
+    "notes": "Baidu AI application accelerator and distribution support; official terms are in Chinese.",
+    "id": "ADD119",
+    "url": "https://cloud.baidu.com/solution/partner/aiacceleration.html",
+    "source": "https://cloud.baidu.com/solution/partner/aiacceleration.html"
+  },
+  {
+    "name": "Dash0 Startup Programme",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD120",
+    "url": "https://www.dash0.com/dash0-for-startups",
+    "source": "https://www.dash0.com/dash0-for-startups"
+  },
+  {
+    "name": "Daytona Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD121",
+    "url": "https://www.daytona.io/startups",
+    "source": "https://www.daytona.io/startups"
+  },
+  {
+    "name": "TechBoost Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD122",
+    "url": "https://techboost.telekom.com/public/apply",
+    "source": "https://techboost.telekom.com/public/apply"
+  },
+  {
+    "name": "E2E Networks Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD123",
+    "url": "https://www.e2enetworks.com/startup-program",
+    "source": "https://www.e2enetworks.com/startup-program"
+  },
+  {
+    "name": "IONOS Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD124",
+    "url": "https://cloud.ionos.com/startup-program",
+    "source": "https://cloud.ionos.com/startup-program"
+  },
+  {
+    "name": "Kong for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD125",
+    "url": "https://konghq.com/solutions/startup-program",
+    "source": "https://konghq.com/solutions/startup-program"
+  },
+  {
+    "name": "MaxIQ Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD126",
+    "url": "https://www.getmaxiq.com/maxiq-for-startups",
+    "source": "https://www.getmaxiq.com/maxiq-for-startups"
+  },
+  {
+    "name": "Vapi for Startups",
+    "category": "Voice and media startup offers",
+    "notes": "Voice AI startup credit program. The official page said APPLICATIONS ON HOLD on 2026-10-29.",
+    "id": "ADD127",
+    "url": "https://vapi.ai/startups",
+    "source": "https://vapi.ai/startups"
+  },
+  {
+    "name": "Airbyte Y Combinator Startup Promotion",
+    "category": "Database startup offers",
+    "notes": "Data-platform promotion restricted to Y Combinator companies; check funding and prior-credit requirements.",
+    "id": "ADD128",
+    "url": "https://airbyte.com/company/ycombinator-startup-promotion",
+    "source": "https://airbyte.com/company/ycombinator-startup-promotion"
+  },
+  {
+    "name": "Confidence by Spotify Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD129",
+    "url": "https://confidence.spotify.com/pricing",
+    "source": "https://confidence.spotify.com/pricing"
+  },
+  {
+    "name": "RunPod Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Selective GPU program for venture-backed AI startups; some tiers require paid spend.",
+    "id": "ADD130",
+    "url": "https://www.runpod.io/startup-program",
+    "source": "https://www.runpod.io/startup-program"
+  },
+  {
+    "name": "Vonage for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD131",
+    "url": "https://developer.vonage.com/en/startups",
+    "source": "https://developer.vonage.com/en/startups"
+  },
+  {
+    "name": "Devin for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "AI development credits and matching grants; matching benefits require qualifying spend.",
+    "id": "ADD132",
+    "url": "https://devin.ai/startups",
+    "source": "https://devin.ai/startups"
+  },
+  {
+    "name": "Infobip Startup Tribe",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD133",
+    "url": "https://startups.infobip.com/",
+    "source": "https://startups.infobip.com/"
+  },
+  {
+    "name": "Appice Liftoff Startup Programme",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD134",
+    "url": "https://appice.ai/startup",
+    "source": "https://appice.ai/startup"
+  },
+  {
+    "name": "Civo Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD135",
+    "url": "https://www.civo.com/startup-program",
+    "source": "https://www.civo.com/startup-program"
+  },
+  {
+    "name": "ComplyCube Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD136",
+    "url": "https://www.complycube.com/en/company/startup-program/",
+    "source": "https://www.complycube.com/en/company/startup-program/"
+  },
+  {
+    "name": "DappLooker Startup Program",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD137",
+    "url": "https://dapplooker.com/startup-program",
+    "source": "https://dapplooker.com/startup-program"
+  },
+  {
+    "name": "fal YC Startup Deal",
+    "category": "Voice and media startup offers",
+    "notes": "Generative-AI credits specifically for the current Y Combinator batch.",
+    "id": "ADD138",
+    "url": "https://fal.ai/yc",
+    "source": "https://fal.ai/yc"
+  },
+  {
+    "name": "Fivetran Startup Program",
+    "category": "Database startup offers",
+    "notes": "Startup data-pipeline offer restricted to eligible Y Combinator companies.",
+    "id": "ADD139",
+    "url": "https://www.fivetran.com/pricing/startups",
+    "source": "https://www.fivetran.com/pricing/startups"
+  },
+  {
+    "name": "HappyFox CRM Startup Pass",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD140",
+    "url": "https://www.happyfox.com/crm/startup/",
+    "source": "https://www.happyfox.com/crm/startup/"
+  },
+  {
+    "name": "Speechmatics Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD141",
+    "url": "https://www.speechmatics.com/startup-program",
+    "source": "https://www.speechmatics.com/startup-program"
+  },
+  {
+    "name": "Statsig Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD142",
+    "url": "https://www.statsig.com/startups",
+    "source": "https://www.statsig.com/startups"
+  },
+  {
+    "name": "Svix for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD143",
+    "url": "https://www.svix.com/startups",
+    "source": "https://www.svix.com/startups"
+  },
+  {
+    "name": "Tenki for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD144",
+    "url": "https://tenki.cloud/startups",
+    "source": "https://tenki.cloud/startups"
+  },
+  {
+    "name": "SCALE at GMI Cloud",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD145",
+    "url": "https://www.gmicloud.ai/en/company/scale",
+    "source": "https://www.gmicloud.ai/en/company/scale"
+  },
+  {
+    "name": "STACKIT Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD146",
+    "url": "https://stackit.com/en/why-stackit/benefits/startup-program",
+    "source": "https://stackit.com/en/why-stackit/benefits/startup-program"
+  },
+  {
+    "name": "Lead Liaison Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD147",
+    "url": "https://www.leadliaison.com/startups/",
+    "source": "https://www.leadliaison.com/startups/"
+  },
+  {
+    "name": "Convex for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD148",
+    "url": "https://www.convex.dev/startups",
+    "source": "https://www.convex.dev/startups"
+  },
+  {
+    "name": "Firecrawl for Startups (Startup Deal)",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD149",
+    "url": "https://www.firecrawl.dev/startups",
+    "source": "https://www.firecrawl.dev/startups"
+  },
+  {
+    "name": "Guepard for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD150",
+    "url": "https://guepard.run/startups",
+    "source": "https://guepard.run/startups"
+  },
+  {
+    "name": "Koyeb Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program announcement. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD151",
+    "url": "https://www.koyeb.com/blog/koyeb-for-startups-accelerate-with-credits-for-high-performance-infrastructure",
+    "source": "https://www.koyeb.com/blog/koyeb-for-startups-accelerate-with-credits-for-high-performance-infrastructure"
+  },
+  {
+    "name": "Netcore B2C Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD152",
+    "url": "https://netcore.ai/startup-program/",
+    "source": "https://netcore.ai/startup-program/"
+  },
+  {
+    "name": "Resemble AI Builder's Grant",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD153",
+    "url": "https://www.resemble.ai/start/builders-grant-startup-program",
+    "source": "https://www.resemble.ai/start/builders-grant-startup-program"
+  },
+  {
+    "name": "Runware Grant Program",
+    "category": "AI and developer startup offers",
+    "notes": "AI usage-credit program with an upfront deposit requirement; review matching and expiry terms.",
+    "id": "ADD154",
+    "url": "https://runware.ai/grant-program",
+    "source": "https://runware.ai/grant-program"
+  },
+  {
+    "name": "UCloud Enterprise Program (UEP)",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "UCloud entrepreneurship support program; official terms are in Chinese.",
+    "id": "ADD155",
+    "url": "https://www.ucloud.cn/site/uep.html",
+    "source": "https://www.ucloud.cn/site/uep.html"
+  },
+  {
+    "name": "Veridion Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD156",
+    "url": "https://veridion.com/company/initiatives/startup-program",
+    "source": "https://veridion.com/company/initiatives/startup-program"
+  },
+  {
+    "name": "Viam for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD157",
+    "url": "https://www.viam.com/resources/startups",
+    "source": "https://www.viam.com/resources/startups"
+  },
+  {
+    "name": "Baseten AI Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD158",
+    "url": "https://www.baseten.co/startup-program",
+    "source": "https://www.baseten.co/startup-program"
+  },
+  {
+    "name": "Braze for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program announcement. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD159",
+    "url": "https://www.braze.com/press-releases/braze-launches-free-trial",
+    "source": "https://www.braze.com/press-releases/braze-launches-free-trial"
+  },
+  {
+    "name": "Definite for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD160",
+    "url": "https://definite.app/startups",
+    "source": "https://definite.app/startups"
+  },
+  {
+    "name": "KYE for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD161",
+    "url": "https://kyeprotocol.com/startups",
+    "source": "https://kyeprotocol.com/startups"
+  },
+  {
+    "name": "LegionEdge Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD162",
+    "url": "https://legionedge.ai/programs/startup",
+    "source": "https://legionedge.ai/programs/startup"
+  },
+  {
+    "name": "OPM Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD163",
+    "url": "https://opmtechnologies.com/startups",
+    "source": "https://opmtechnologies.com/startups"
+  },
+  {
+    "name": "Pendo for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD164",
+    "url": "https://www.pendo.io/pendo-for-startups/",
+    "source": "https://www.pendo.io/pendo-for-startups/"
+  },
+  {
+    "name": "Resend for YC Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Email API credit offer for eligible Y Combinator companies.",
+    "id": "ADD165",
+    "url": "https://resend.com/yc",
+    "source": "https://resend.com/yc"
+  },
+  {
+    "name": "RevOps.ai for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD166",
+    "url": "https://revops.ai/startups",
+    "source": "https://revops.ai/startups"
+  },
+  {
+    "name": "Cerebras YC Startup Deal",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD167",
+    "url": "https://cerebras.ai/yc-startup-deal",
+    "source": "https://cerebras.ai/yc-startup-deal"
+  },
+  {
+    "name": "FlexAI Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD168",
+    "url": "https://flex.ai/startups",
+    "source": "https://flex.ai/startups"
+  },
+  {
+    "name": "Anyscale AI Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD169",
+    "url": "https://www.anyscale.com/startup",
+    "source": "https://www.anyscale.com/startup"
+  },
+  {
+    "name": "CircleCI for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD170",
+    "url": "https://circleci.com/startup-program/",
+    "source": "https://circleci.com/startup-program/"
+  },
+  {
+    "name": "E2B for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD171",
+    "url": "https://e2b.dev/startups",
+    "source": "https://e2b.dev/startups"
+  },
+  {
+    "name": "SuprSend for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD172",
+    "url": "https://www.suprsend.com/suprsend-for-startups",
+    "source": "https://www.suprsend.com/suprsend-for-startups"
+  },
+  {
+    "name": "Telnyx Startups Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD173",
+    "url": "https://telnyx.com/startups-program",
+    "source": "https://telnyx.com/startups-program"
+  },
+  {
+    "name": "Yandex Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD174",
+    "url": "https://yandex.com/maps-api/startup",
+    "source": "https://yandex.com/maps-api/startup"
+  },
+  {
+    "name": "Lightdash for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD175",
+    "url": "https://www.lightdash.com/startups",
+    "source": "https://www.lightdash.com/startups"
+  },
+  {
+    "name": "MotherDuck for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD176",
+    "url": "https://motherduck.com/startups/",
+    "source": "https://motherduck.com/startups/"
+  },
+  {
+    "name": "Neo4j Startup Program",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD177",
+    "url": "https://neo4j.com/startup-program/",
+    "source": "https://neo4j.com/startup-program/"
+  },
+  {
+    "name": "Rippling Startup Stack",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD178",
+    "url": "https://www.rippling.com/lp/startupstack",
+    "source": "https://www.rippling.com/lp/startupstack"
+  },
+  {
+    "name": "Hindsight Cloud for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD179",
+    "url": "https://vectorize.io/startups",
+    "source": "https://vectorize.io/startups"
+  },
+  {
+    "name": "Recruitly Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD180",
+    "url": "https://recruitly.io/startups",
+    "source": "https://recruitly.io/startups"
+  },
+  {
+    "name": "Mergify Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD181",
+    "url": "https://mergify.com/startups",
+    "source": "https://mergify.com/startups"
+  },
+  {
+    "name": "OpenObserve Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD182",
+    "url": "https://openobserve.ai/startup",
+    "source": "https://openobserve.ai/startup"
+  },
+  {
+    "name": "Socure Launch",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD183",
+    "url": "https://www.socure.com/launch",
+    "source": "https://www.socure.com/launch"
+  },
+  {
+    "name": "Axiom for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD184",
+    "url": "https://axiom.co/axiom-for-startups",
+    "source": "https://axiom.co/axiom-for-startups"
+  },
+  {
+    "name": "Bruin for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD185",
+    "url": "https://getbruin.com/startups",
+    "source": "https://getbruin.com/startups"
+  },
+  {
+    "name": "Clever Cloud UP Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD186",
+    "url": "https://www.clever.cloud/cloud-programs/",
+    "source": "https://www.clever.cloud/cloud-programs/"
+  },
+  {
+    "name": "Cyso Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD187",
+    "url": "https://cyso.cloud/startup-program",
+    "source": "https://cyso.cloud/startup-program"
+  },
+  {
+    "name": "exe.dev Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Cloud-compute credits for eligible US-based, venture-backed, pre-Series-B startups.",
+    "id": "ADD188",
+    "url": "https://exe.dev/startup",
+    "source": "https://exe.dev/startup"
+  },
+  {
+    "name": "Inference.net AI Compute Grants",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD189",
+    "url": "https://inference.net/grants/",
+    "source": "https://inference.net/grants/"
+  },
+  {
+    "name": "Isaacus Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD190",
+    "url": "https://isaacus.com/startups",
+    "source": "https://isaacus.com/startups"
+  },
+  {
+    "name": "LangSmith for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD191",
+    "url": "https://www.langchain.com/startups",
+    "source": "https://www.langchain.com/startups"
+  },
+  {
+    "name": "LibertAI Sovereign Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD192",
+    "url": "https://libertai.io/",
+    "source": "https://libertai.io/"
+  },
+  {
+    "name": "Novita AI Startup Credits",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD193",
+    "url": "https://startups.novita.ai/",
+    "source": "https://startups.novita.ai/"
+  },
+  {
+    "name": "Paypercut for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD194",
+    "url": "https://paypercut.com/terms-conditions-for-startups",
+    "source": "https://paypercut.com/terms-conditions-for-startups"
+  },
+  {
+    "name": "PipeOps Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD195",
+    "url": "https://pipeops.io/startups-program",
+    "source": "https://pipeops.io/startups-program"
+  },
+  {
+    "name": "Prisma for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD196",
+    "url": "https://www.prisma.io/programs/startups",
+    "source": "https://www.prisma.io/programs/startups"
+  },
+  {
+    "name": "Pulumi for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD197",
+    "url": "https://www.pulumi.com/pulumi-for-startups/",
+    "source": "https://www.pulumi.com/pulumi-for-startups/"
+  },
+  {
+    "name": "Rails Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD198",
+    "url": "https://pages.railscloud.co/startup",
+    "source": "https://pages.railscloud.co/startup"
+  },
+  {
+    "name": "Salesforce Launchpad for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD199",
+    "url": "https://www.salesforce.com/launchpad/",
+    "source": "https://www.salesforce.com/launchpad/"
+  },
+  {
+    "name": "smallest.ai Startup Grants Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD200",
+    "url": "https://smallest.ai/grants",
+    "source": "https://smallest.ai/grants"
+  },
+  {
+    "name": "Swarms AI Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD201",
+    "url": "https://www.swarms.ai/programs/startups",
+    "source": "https://www.swarms.ai/programs/startups"
+  },
+  {
+    "name": "Twingate for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD202",
+    "url": "https://www.twingate.com/startup-program",
+    "source": "https://www.twingate.com/startup-program"
+  },
+  {
+    "name": "Sanity for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD203",
+    "url": "https://www.sanity.io/startups",
+    "source": "https://www.sanity.io/startups"
+  },
+  {
+    "name": "turbopuffer for Startups",
+    "category": "Database startup offers",
+    "notes": "Startup search-infrastructure credits distributed through participating partners.",
+    "id": "ADD204",
+    "url": "https://turbopuffer.com/startups",
+    "source": "https://turbopuffer.com/startups"
+  },
+  {
+    "name": "Cartesia Startups Grant",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD205",
+    "url": "https://www.cartesia.ai/startups",
+    "source": "https://www.cartesia.ai/startups"
+  },
+  {
+    "name": "Clay Wedge Startup GTM Accelerator",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD206",
+    "url": "https://www.clay.com/clay-for-startups",
+    "source": "https://www.clay.com/clay-for-startups"
+  },
+  {
+    "name": "Productlane Early Stage Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD207",
+    "url": "https://hello.productlane.com/docs/administration/startup-program",
+    "source": "https://hello.productlane.com/docs/administration/startup-program"
+  },
+  {
+    "name": "Exotel for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD208",
+    "url": "https://exotel.com/exotel-for-startups/",
+    "source": "https://exotel.com/exotel-for-startups/"
+  },
+  {
+    "name": "Future AGI Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD209",
+    "url": "https://futureagi.com/startups/",
+    "source": "https://futureagi.com/startups/"
+  },
+  {
+    "name": "Hakim AI Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD210",
+    "url": "https://tryhakim.ai/en/startups",
+    "source": "https://tryhakim.ai/en/startups"
+  },
+  {
+    "name": "Langfuse for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD211",
+    "url": "https://langfuse.com/startups",
+    "source": "https://langfuse.com/startups"
+  },
+  {
+    "name": "Persona Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD212",
+    "url": "https://help.withpersona.com/articles/1XNnqukfZY9VamF2e7jkuJ/",
+    "source": "https://help.withpersona.com/articles/1XNnqukfZY9VamF2e7jkuJ/"
+  },
+  {
+    "name": "Plain for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD213",
+    "url": "https://www.plain.com/startups",
+    "source": "https://www.plain.com/startups"
+  },
+  {
+    "name": "Porter for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD214",
+    "url": "https://www.porter.run/startups/aws-azure-gcp",
+    "source": "https://www.porter.run/startups/aws-azure-gcp"
+  },
+  {
+    "name": "Qovery Perks for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program announcement. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD215",
+    "url": "https://www.qovery.com/blog/introducing-qovery-for-startups",
+    "source": "https://www.qovery.com/blog/introducing-qovery-for-startups"
+  },
+  {
+    "name": "Grain for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD216",
+    "url": "https://grain.com/startups",
+    "source": "https://grain.com/startups"
+  },
+  {
+    "name": "Zoom for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD217",
+    "url": "https://www.zoom.com/en/lp/zoom-for-startups",
+    "source": "https://www.zoom.com/en/lp/zoom-for-startups"
+  },
+  {
+    "name": "AIgateway for Startups",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD218",
+    "url": "https://aigateway.sh/startups",
+    "source": "https://aigateway.sh/startups"
+  },
+  {
+    "name": "Aikido for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD219",
+    "url": "https://www.aikido.dev/pricing",
+    "source": "https://www.aikido.dev/pricing"
+  },
+  {
+    "name": "Alchemy Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD220",
+    "url": "https://www.alchemy.com/startup-program",
+    "source": "https://www.alchemy.com/startup-program"
+  },
+  {
+    "name": "Arize for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD221",
+    "url": "https://arize.com/arize-for-startups/",
+    "source": "https://arize.com/arize-for-startups/"
+  },
+  {
+    "name": "Asana for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD222",
+    "url": "https://asana.com/startups",
+    "source": "https://asana.com/startups"
+  },
+  {
+    "name": "ClickHouse Startup Offer",
+    "category": "Database startup offers",
+    "notes": "General ClickHouse startup offer, distinct from the original B54 Y Combinator route.",
+    "id": "ADD223",
+    "url": "https://clickhouse.com/startup-offer",
+    "source": "https://clickhouse.com/startup-offer"
+  },
+  {
+    "name": "ClickUp for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD224",
+    "url": "https://clickup.com/startups-program",
+    "source": "https://clickup.com/startups-program"
+  },
+  {
+    "name": "CloudingHost Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD225",
+    "url": "https://www.cloudinghost.com/en/startup-program/",
+    "source": "https://www.cloudinghost.com/en/startup-program/"
+  },
+  {
+    "name": "Corti Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD226",
+    "url": "https://www.corti.ai/startups",
+    "source": "https://www.corti.ai/startups"
+  },
+  {
+    "name": "Decodo Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD227",
+    "url": "https://decodo.com/startup-program",
+    "source": "https://decodo.com/startup-program"
+  },
+  {
+    "name": "DeepInfra DeepStart",
+    "category": "AI and model startup offers",
+    "notes": "Inference-credit program; company age, funding thresholds and credit expiry apply.",
+    "id": "ADD228",
+    "url": "https://deepinfra.com/deepstart",
+    "source": "https://deepinfra.com/deepstart"
+  },
+  {
+    "name": "Depot credits via PostHog for Startups",
+    "category": "Developer startup offers",
+    "notes": "Build-platform credits offered through PostHog for Startups.",
+    "id": "ADD229",
+    "url": "https://depot.dev/docs/posthog-for-startups",
+    "source": "https://depot.dev/docs/posthog-for-startups"
+  },
+  {
+    "name": "DocuSign for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD230",
+    "url": "https://www.docusign.com/lp/startups",
+    "source": "https://www.docusign.com/lp/startups"
+  },
+  {
+    "name": "Edge for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD231",
+    "url": "https://edge.network/solutions/startups",
+    "source": "https://edge.network/solutions/startups"
+  },
+  {
+    "name": "Esri Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD232",
+    "url": "https://www.esri.com/en-us/about/partners/our-partners/startups",
+    "source": "https://www.esri.com/en-us/about/partners/our-partners/startups"
+  },
+  {
+    "name": "Help Scout for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD233",
+    "url": "https://www.helpscout.com/startups/",
+    "source": "https://www.helpscout.com/startups/"
+  },
+  {
+    "name": "Lamatic Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD234",
+    "url": "https://lamatic.ai/pricing",
+    "source": "https://lamatic.ai/pricing"
+  },
+  {
+    "name": "OpenRouter for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD235",
+    "url": "https://openrouter.ai/startup-program-terms",
+    "source": "https://openrouter.ai/startup-program-terms"
+  },
+  {
+    "name": "Reducto for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD236",
+    "url": "https://reducto.ai/startups",
+    "source": "https://reducto.ai/startups"
+  },
+  {
+    "name": "Remote for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD237",
+    "url": "https://remote.com/global-hr/startups",
+    "source": "https://remote.com/global-hr/startups"
+  },
+  {
+    "name": "Rime YC Startup Credits",
+    "category": "Voice and media startup offers",
+    "notes": "Voice AI credit offer for eligible Y Combinator startups.",
+    "id": "ADD238",
+    "url": "https://www.rime.ai/resources/announcing-our-5k-credits-program-for-yc-startups",
+    "source": "https://www.rime.ai/resources/announcing-our-5k-credits-program-for-yc-startups"
+  },
+  {
+    "name": "SambaNova Developer Early Access",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD239",
+    "url": "https://sambanova.ai/developer/early-access-program",
+    "source": "https://sambanova.ai/developer/early-access-program"
+  },
+  {
+    "name": "SendPulse Startup Grant",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD240",
+    "url": "https://sendpulse.com/startup",
+    "source": "https://sendpulse.com/startup"
+  },
+  {
+    "name": "Shortcut for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD241",
+    "url": "https://www.shortcut.com/startups/",
+    "source": "https://www.shortcut.com/startups/"
+  },
+  {
+    "name": "SurrealDB Startup Programme",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD242",
+    "url": "https://surrealdb.com/startups",
+    "source": "https://surrealdb.com/startups"
+  },
+  {
+    "name": "Truobox Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD243",
+    "url": "https://www.truobox.com/en/startup-program/",
+    "source": "https://www.truobox.com/en/startup-program/"
+  },
+  {
+    "name": "Uxify for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD244",
+    "url": "https://uxify.com/startup-program/",
+    "source": "https://uxify.com/startup-program/"
+  },
+  {
+    "name": "WorkOS for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD245",
+    "url": "https://workos.com/startups",
+    "source": "https://workos.com/startups"
+  },
+  {
+    "name": "Helicone Startup Discount",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD246",
+    "url": "https://www.helicone.ai/pricing",
+    "source": "https://www.helicone.ai/pricing"
+  },
+  {
+    "name": "Aptible Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD247",
+    "url": "https://www.aptible.com/pricing",
+    "source": "https://www.aptible.com/pricing"
+  },
+  {
+    "name": "Braintrust for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD248",
+    "url": "https://www.braintrust.dev/startups",
+    "source": "https://www.braintrust.dev/startups"
+  },
+  {
+    "name": "Comet for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD249",
+    "url": "https://info.comet.ml/startups/",
+    "source": "https://info.comet.ml/startups/"
+  },
+  {
+    "name": "Fibery for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD250",
+    "url": "https://fibery.com/startups",
+    "source": "https://fibery.com/startups"
+  },
+  {
+    "name": "GrackerAI for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD251",
+    "url": "https://gracker.ai/startup",
+    "source": "https://gracker.ai/startup"
+  },
+  {
+    "name": "Tencent RTC Startups Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD252",
+    "url": "https://trtc.io/start-up",
+    "source": "https://trtc.io/start-up"
+  },
+  {
+    "name": "Descope Hello World Startup Plan",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD253",
+    "url": "https://www.descope.com/for-startups",
+    "source": "https://www.descope.com/for-startups"
+  },
+  {
+    "name": "Authkey Startup India Plan",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD254",
+    "url": "https://authkey.io/startup-india",
+    "source": "https://authkey.io/startup-india"
+  },
+  {
+    "name": "GanttPRO Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD255",
+    "url": "https://ganttpro.com/startup-program/",
+    "source": "https://ganttpro.com/startup-program/"
+  },
+  {
+    "name": "Vast.ai Startup Credit Matching",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD256",
+    "url": "https://vast.ai/startup",
+    "source": "https://vast.ai/startup"
+  },
+  {
+    "name": "Zylora for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD257",
+    "url": "https://zylora.dev/startups/",
+    "source": "https://zylora.dev/startups/"
+  },
+  {
+    "name": "CodeSandbox Friends Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD258",
+    "url": "https://codesandbox.stream/docs/learn/plans/codesandbox-friends",
+    "source": "https://codesandbox.stream/docs/learn/plans/codesandbox-friends"
+  },
+  {
+    "name": "Estuary for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD259",
+    "url": "https://estuary.dev/startup/",
+    "source": "https://estuary.dev/startup/"
+  },
+  {
+    "name": "Gradium for Startups",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD260",
+    "url": "https://gradium.ai/startups",
+    "source": "https://gradium.ai/startups"
+  },
+  {
+    "name": "LlamaParse Startup Offer",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD261",
+    "url": "https://www.llamaindex.ai/startups",
+    "source": "https://www.llamaindex.ai/startups"
+  },
+  {
+    "name": "n8n Business Plan for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD262",
+    "url": "https://n8n.io/pricing/startup-plan/",
+    "source": "https://n8n.io/pricing/startup-plan/"
+  },
+  {
+    "name": "Regolo.ai Builder Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD263",
+    "url": "https://regolo.ai/builder-program/",
+    "source": "https://regolo.ai/builder-program/"
+  },
+  {
+    "name": "SnappyFlow Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD264",
+    "url": "https://www.snappyflow.io/startup",
+    "source": "https://www.snappyflow.io/startup"
+  },
+  {
+    "name": "Youverify Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD265",
+    "url": "https://startup.youverify.co/",
+    "source": "https://startup.youverify.co/"
+  },
+  {
+    "name": "Aircall for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD266",
+    "url": "https://aircall.io/startups",
+    "source": "https://aircall.io/startups"
+  },
+  {
+    "name": "FastPix Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD267",
+    "url": "https://fastpix.com/startup-program",
+    "source": "https://fastpix.com/startup-program"
+  },
+  {
+    "name": "Scalingo Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD268",
+    "url": "https://scalingo.com/startup-program",
+    "source": "https://scalingo.com/startup-program"
+  },
+  {
+    "name": "Tailscale for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD269",
+    "url": "https://tailscale.com/startup-program",
+    "source": "https://tailscale.com/startup-program"
+  },
+  {
+    "name": "ActiveCampaign Start Up Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD270",
+    "url": "https://www.activecampaign.com/start-up",
+    "source": "https://www.activecampaign.com/start-up"
+  },
+  {
+    "name": "incident.io for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD271",
+    "url": "https://incident.io/industry/startups",
+    "source": "https://incident.io/industry/startups"
+  },
+  {
+    "name": "Murf Startup Incubator Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD272",
+    "url": "https://murf.ai/startup-program",
+    "source": "https://murf.ai/startup-program"
+  },
+  {
+    "name": "Oyster for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD273",
+    "url": "https://www.oysterhr.com/startups",
+    "source": "https://www.oysterhr.com/startups"
+  },
+  {
+    "name": "Whimsical for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD274",
+    "url": "https://whimsical.com/startups",
+    "source": "https://whimsical.com/startups"
+  },
+  {
+    "name": "AI21 x NVIDIA Inception Startup Benefits",
+    "category": "AI and model startup offers",
+    "notes": "AI21 benefit described for NVIDIA Inception members; confirm current access with the program.",
+    "id": "ADD275",
+    "url": "https://www.ai21.com/blog/ai21-joins-nvidia-inception",
+    "source": "https://www.ai21.com/blog/ai21-joins-nvidia-inception"
+  },
+  {
+    "name": "Exa Startup and Education Grants",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD276",
+    "url": "https://exa.ai/pricing",
+    "source": "https://exa.ai/pricing"
+  },
+  {
+    "name": "OpStart Startup Stack",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD277",
+    "url": "https://www.opstart.co/startup-stack/",
+    "source": "https://www.opstart.co/startup-stack/"
+  },
+  {
+    "name": "Phala Private AI Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD278",
+    "url": "https://phala.com/startup-program",
+    "source": "https://phala.com/startup-program"
+  },
+  {
+    "name": "Requesty Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD279",
+    "url": "https://www.requesty.ai/startup",
+    "source": "https://www.requesty.ai/startup"
+  },
+  {
+    "name": "SmartBDM for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD280",
+    "url": "https://www.smartbdm.ai/startups",
+    "source": "https://www.smartbdm.ai/startups"
+  },
+  {
+    "name": "Deskwoot Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD281",
+    "url": "https://deskwoot.com/startups",
+    "source": "https://deskwoot.com/startups"
+  },
+  {
+    "name": "ChartMogul Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD282",
+    "url": "https://chartmogul.com/startups/",
+    "source": "https://chartmogul.com/startups/"
+  },
+  {
+    "name": "MSG91 Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD283",
+    "url": "https://msg91.com/help/startup/what-is-msg91-startup-program-and-how-to-apply-for-it",
+    "source": "https://msg91.com/help/startup/what-is-msg91-startup-program-and-how-to-apply-for-it"
+  },
+  {
+    "name": "Granola for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD284",
+    "url": "https://www.granola.ai/startups",
+    "source": "https://www.granola.ai/startups"
+  },
+  {
+    "name": "Mailchimp for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD285",
+    "url": "https://mailchimp.com/for-startups",
+    "source": "https://mailchimp.com/for-startups"
+  },
+  {
+    "name": "Piloterr Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD286",
+    "url": "https://www.piloterr.com/startup-program",
+    "source": "https://www.piloterr.com/startup-program"
+  },
+  {
+    "name": "Mailazy for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD287",
+    "url": "https://mailazy.com/startup-program",
+    "source": "https://mailazy.com/startup-program"
+  },
+  {
+    "name": "AgentGrown Startups Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD288",
+    "url": "https://agentgrown.com/startups",
+    "source": "https://agentgrown.com/startups"
+  },
+  {
+    "name": "Generect for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD289",
+    "url": "https://generect.com/startups",
+    "source": "https://generect.com/startups"
+  },
+  {
+    "name": "EmberCloud for Startups",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD290",
+    "url": "https://www.embercloud.ai/startups",
+    "source": "https://www.embercloud.ai/startups"
+  },
+  {
+    "name": "Stream Maker Account",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program announcement. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD291",
+    "url": "https://getstream.io/blog/maker-account/",
+    "source": "https://getstream.io/blog/maker-account/"
+  },
+  {
+    "name": "UCloud Global Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD292",
+    "url": "https://www.ucloud-global.com/en/promotion/cloud-credit-program",
+    "source": "https://www.ucloud-global.com/en/promotion/cloud-credit-program"
+  },
+  {
+    "name": "Postmark Bootstrapper Credit",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD293",
+    "url": "https://postmarkapp.com/support/article/pricing-billing-ongoing-promotions-for-customers-bootstrapped-and-friends-family-discount",
+    "source": "https://postmarkapp.com/support/article/pricing-billing-ongoing-promotions-for-customers-bootstrapped-and-friends-family-discount"
+  },
+  {
+    "name": "Bavest Startup Offer",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD294",
+    "url": "https://www.bavest.co/en/market-data-api",
+    "source": "https://www.bavest.co/en/market-data-api"
+  },
+  {
+    "name": "Nuvio Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD295",
+    "url": "https://www.nuvio.io/startup-program-application",
+    "source": "https://www.nuvio.io/startup-program-application"
+  },
+  {
+    "name": "AnnounceKit Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD296",
+    "url": "https://announcekit.app/startup",
+    "source": "https://announcekit.app/startup"
+  },
+  {
+    "name": "CrewForge for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD297",
+    "url": "https://crewforge.org/startups",
+    "source": "https://crewforge.org/startups"
+  },
+  {
+    "name": "Fresh IP Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD298",
+    "url": "https://freship.com/start-up-program/",
+    "source": "https://freship.com/start-up-program/"
+  },
+  {
+    "name": "Gumlet Startup Credits Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD299",
+    "url": "https://www.gumlet.com/startups/",
+    "source": "https://www.gumlet.com/startups/"
+  },
+  {
+    "name": "IdentiKyc Startup Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD300",
+    "url": "https://identikyc.com/en/for-companies-en/",
+    "source": "https://identikyc.com/en/for-companies-en/"
+  },
+  {
+    "name": "Lean-Case Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD301",
+    "url": "https://www.lean-case.com/startup-program/",
+    "source": "https://www.lean-case.com/startup-program/"
+  },
+  {
+    "name": "Mirava Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD302",
+    "url": "https://www.mirava.io/startup-program",
+    "source": "https://www.mirava.io/startup-program"
+  },
+  {
+    "name": "ScaleGrid Startup Saver",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD303",
+    "url": "https://help.scalegrid.io/docs/deals-startup-program",
+    "source": "https://help.scalegrid.io/docs/deals-startup-program"
+  },
+  {
+    "name": "TaskGate.io Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD304",
+    "url": "https://www.taskgate.io/general-9",
+    "source": "https://www.taskgate.io/general-9"
+  },
+  {
+    "name": "Context.dev Startup Discount",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD305",
+    "url": "https://www.context.dev/startup-discount",
+    "source": "https://www.context.dev/startup-discount"
+  },
+  {
+    "name": "Fellow Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD306",
+    "url": "https://fellow.ai/partners/startups",
+    "source": "https://fellow.ai/partners/startups"
+  },
+  {
+    "name": "Leapsome for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD307",
+    "url": "https://www.leapsome.com/leapsome-for-startups",
+    "source": "https://www.leapsome.com/leapsome-for-startups"
+  },
+  {
+    "name": "Browse AI for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD308",
+    "url": "https://www.browse.ai/startups",
+    "source": "https://www.browse.ai/startups"
+  },
+  {
+    "name": "Twelve Data Early Stage Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD309",
+    "url": "https://twelvedata.com/startups",
+    "source": "https://twelvedata.com/startups"
+  },
+  {
+    "name": "NepalHRM Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD310",
+    "url": "https://nepalhrm.com/startup-program/",
+    "source": "https://nepalhrm.com/startup-program/"
+  },
+  {
+    "name": "Cobo x Google Startup Perks",
+    "category": "Data and API startup offers",
+    "notes": "Wallet-infrastructure offer for Google startup-program participants.",
+    "id": "ADD311",
+    "url": "https://www.cobo.com/lp/cobo-google-startup-perks",
+    "source": "https://www.cobo.com/lp/cobo-google-startup-perks"
+  },
+  {
+    "name": "Massive for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD312",
+    "url": "https://www.joinmassive.com/massive-for-startups",
+    "source": "https://www.joinmassive.com/massive-for-startups"
+  },
+  {
+    "name": "Adaption for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD313",
+    "url": "https://adaptionlabs.ai/adaption-for-startups",
+    "source": "https://adaptionlabs.ai/adaption-for-startups"
+  },
+  {
+    "name": "Agora Innovate Startup Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD314",
+    "url": "https://prod.agora.io/kr/agora-for-startups-program",
+    "source": "https://prod.agora.io/kr/agora-for-startups-program"
+  },
+  {
+    "name": "Airwallex for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD315",
+    "url": "https://www.airwallex.com/global/newsroom/airwallex-launches-refreshed-airwallex-for-startups-program-empowering",
+    "source": "https://www.airwallex.com/global/newsroom/airwallex-launches-refreshed-airwallex-for-startups-program-empowering"
+  },
+  {
+    "name": "Alaris Startup Shield",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD316",
+    "url": "https://alaris.security/newsroom/2026/04/startup-shield-program",
+    "source": "https://alaris.security/newsroom/2026/04/startup-shield-program"
+  },
+  {
+    "name": "Ansys Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD317",
+    "url": "https://ansys.synopsys.com/startup-program",
+    "source": "https://ansys.synopsys.com/startup-program"
+  },
+  {
+    "name": "AnveVoice for Startups",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD318",
+    "url": "https://anvevoice.app/startups",
+    "source": "https://anvevoice.app/startups"
+  },
+  {
+    "name": "Apify for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD319",
+    "url": "https://apify.com/resources/startups",
+    "source": "https://apify.com/resources/startups"
+  },
+  {
+    "name": "Apollo for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD320",
+    "url": "https://www.apollo.io/startups",
+    "source": "https://www.apollo.io/startups"
+  },
+  {
+    "name": "AppSignal for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD321",
+    "url": "https://www.appsignal.com/startups",
+    "source": "https://www.appsignal.com/startups"
+  },
+  {
+    "name": "Appwrite Startups Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD322",
+    "url": "https://appwrite.io/startups",
+    "source": "https://appwrite.io/startups"
+  },
+  {
+    "name": "Attio Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD323",
+    "url": "https://attio.com/startups",
+    "source": "https://attio.com/startups"
+  },
+  {
+    "name": "Auth0 for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD324",
+    "url": "https://auth0.com/startups",
+    "source": "https://auth0.com/startups"
+  },
+  {
+    "name": "Beefree SDK Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD325",
+    "url": "https://developers.beefree.io/startup-program",
+    "source": "https://developers.beefree.io/startup-program"
+  },
+  {
+    "name": "Brevo Startups & VCs Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD326",
+    "url": "https://www.brevo.com/partners/startups/",
+    "source": "https://www.brevo.com/partners/startups/"
+  },
+  {
+    "name": "Carta Startup Stack",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD327",
+    "url": "https://carta.com/partners/startup-stack/",
+    "source": "https://carta.com/partners/startup-stack/"
+  },
+  {
+    "name": "Cashfree Out of the World Startup Bundle",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD328",
+    "url": "https://www.cashfree.com/en/startups/",
+    "source": "https://www.cashfree.com/en/startups/"
+  },
+  {
+    "name": "Chimoney for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD329",
+    "url": "https://chimoney.io/startups/",
+    "source": "https://chimoney.io/startups/"
+  },
+  {
+    "name": "CIQ Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD330",
+    "url": "https://ciq.com/solutions/startups",
+    "source": "https://ciq.com/solutions/startups"
+  },
+  {
+    "name": "Cleanvoice AI Startup Credits",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD331",
+    "url": "https://cleanvoice.ai/developers/",
+    "source": "https://cleanvoice.ai/developers/"
+  },
+  {
+    "name": "Clerk for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD332",
+    "url": "https://clerk.com/startups",
+    "source": "https://clerk.com/startups"
+  },
+  {
+    "name": "CloudThinker for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD333",
+    "url": "https://www.cloudthinker.io/startups",
+    "source": "https://www.cloudthinker.io/startups"
+  },
+  {
+    "name": "Cloudvisor AWS Startup Partner Offer",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD334",
+    "url": "https://cloudvisor.co/aws-for-startups/",
+    "source": "https://cloudvisor.co/aws-for-startups/"
+  },
+  {
+    "name": "Coda for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD335",
+    "url": "https://coda.io/solutions/team-size/startups/apply-startup-credit",
+    "source": "https://coda.io/solutions/team-size/startups/apply-startup-credit"
+  },
+  {
+    "name": "CodeAnt AI Startup Discount",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD336",
+    "url": "https://codeant.ai/pricing",
+    "source": "https://codeant.ai/pricing"
+  },
+  {
+    "name": "CodeRabbit Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD337",
+    "url": "https://www.coderabbit.ai/startup-program",
+    "source": "https://www.coderabbit.ai/startup-program"
+  },
+  {
+    "name": "Cohere for Startups",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program announcement. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD338",
+    "url": "https://cohere.com/blog/cohere-launches-startup-program",
+    "source": "https://cohere.com/blog/cohere-launches-startup-program"
+  },
+  {
+    "name": "Commented Startup Accelerator Plan",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD339",
+    "url": "https://www.commented.io/startup-program",
+    "source": "https://www.commented.io/startup-program"
+  },
+  {
+    "name": "Composio for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD340",
+    "url": "https://composio.dev/startups",
+    "source": "https://composio.dev/startups"
+  },
+  {
+    "name": "ConfigCat Startup Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD341",
+    "url": "https://configcat.com/startup-program/",
+    "source": "https://configcat.com/startup-program/"
+  },
+  {
+    "name": "Confluent for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD342",
+    "url": "https://www.confluent.io/startups/",
+    "source": "https://www.confluent.io/startups/"
+  },
+  {
+    "name": "CrateDB Startup Pack",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD343",
+    "url": "https://cratedb.com/pricing/startups",
+    "source": "https://cratedb.com/pricing/startups"
+  },
+  {
+    "name": "Crisp Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD344",
+    "url": "https://help.crisp.chat/en/article/how-to-apply-to-the-startup-program-lyfxt4/",
+    "source": "https://help.crisp.chat/en/article/how-to-apply-to-the-startup-program-lyfxt4/"
+  },
+  {
+    "name": "Cyber Chief Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD345",
+    "url": "https://www.cyberchief.ai/p/application-security-tool-for-startups.html",
+    "source": "https://www.cyberchief.ai/p/application-security-tool-for-startups.html"
+  },
+  {
+    "name": "Debito Pay Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD346",
+    "url": "https://debitopay.com/startup-program/",
+    "source": "https://debitopay.com/startup-program/"
+  },
+  {
+    "name": "Deel for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD347",
+    "url": "https://www.deel.com/segments/startups/",
+    "source": "https://www.deel.com/segments/startups/"
+  },
+  {
+    "name": "deepidv Start-Up Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD348",
+    "url": "https://www.deepidv.com/startups",
+    "source": "https://www.deepidv.com/startups"
+  },
+  {
+    "name": "Dialpad for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD349",
+    "url": "https://www.dialpad.com/dialpad-for-startups/",
+    "source": "https://www.dialpad.com/dialpad-for-startups/"
+  },
+  {
+    "name": "Docker DHI Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD350",
+    "url": "https://www.docker.com/products/dhi-enterprise-smb-startup/",
+    "source": "https://www.docker.com/products/dhi-enterprise-smb-startup/"
+  },
+  {
+    "name": "DocSend for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD351",
+    "url": "https://experience.dropbox.com/docsend/startups",
+    "source": "https://experience.dropbox.com/docsend/startups"
+  },
+  {
+    "name": "Dodo for Startups",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD352",
+    "url": "https://dodopayments.com/es/startups",
+    "source": "https://dodopayments.com/es/startups"
+  },
+  {
+    "name": "Evidently Cloud for AI Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD353",
+    "url": "https://www.evidentlyai.com/sign-up-startups",
+    "source": "https://www.evidentlyai.com/sign-up-startups"
+  },
+  {
+    "name": "Featherless.ai Sponsorship Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD354",
+    "url": "https://featherless.ai/sponsorship",
+    "source": "https://featherless.ai/sponsorship"
+  },
+  {
+    "name": "Fillout Startup Discount",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD355",
+    "url": "https://www.fillout.com/help/startup-discount",
+    "source": "https://www.fillout.com/help/startup-discount"
+  },
+  {
+    "name": "Financica Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD356",
+    "url": "https://financica.app/for/startups",
+    "source": "https://financica.app/for/startups"
+  },
+  {
+    "name": "Fireworks for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD357",
+    "url": "https://fireworks.ai/startups",
+    "source": "https://fireworks.ai/startups"
+  },
+  {
+    "name": "Flystack for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD358",
+    "url": "https://www.flystack.dev/startup-program",
+    "source": "https://www.flystack.dev/startup-program"
+  },
+  {
+    "name": "Formaloo for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD359",
+    "url": "https://formaloo.formaloo.me/startups-apply",
+    "source": "https://formaloo.formaloo.me/startups-apply"
+  },
+  {
+    "name": "Free.ai Startup Credits",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD360",
+    "url": "https://free.ai/startup/",
+    "source": "https://free.ai/startup/"
+  },
+  {
+    "name": "Frienton Startup Offer",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD361",
+    "url": "https://www.frienton.com/startup-offer",
+    "source": "https://www.frienton.com/startup-offer"
+  },
+  {
+    "name": "Frontegg Startup Acceleration Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD362",
+    "url": "https://frontegg.com/sap-application",
+    "source": "https://frontegg.com/sap-application"
+  },
+  {
+    "name": "Fullstory Startup Scholarship Program",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD363",
+    "url": "https://help.fullstory.com/hc/en-us/articles/360020827833-Does-Fullstory-have-reduced-pricing-for-new-startups",
+    "source": "https://help.fullstory.com/hc/en-us/articles/360020827833-Does-Fullstory-have-reduced-pricing-for-new-startups"
+  },
+  {
+    "name": "Futureproof Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD364",
+    "url": "https://www.runfutureproof.com/startup-program",
+    "source": "https://www.runfutureproof.com/startup-program"
+  },
+  {
+    "name": "GameAnalytics Startup Program",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD365",
+    "url": "https://www.gameanalytics.com/pricing/startup",
+    "source": "https://www.gameanalytics.com/pricing/startup"
+  },
+  {
+    "name": "Ghostly Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD366",
+    "url": "https://ghostlysolutions.com/startup-program",
+    "source": "https://ghostlysolutions.com/startup-program"
+  },
+  {
+    "name": "Gladia Startup Studio",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD367",
+    "url": "https://www.gladia.io/start-up-studio",
+    "source": "https://www.gladia.io/start-up-studio"
+  },
+  {
+    "name": "Greptile Startup Discount",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD368",
+    "url": "https://www.greptile.com/pricing/startup-discount",
+    "source": "https://www.greptile.com/pricing/startup-discount"
+  },
+  {
+    "name": "Honeycomb for Builders",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD369",
+    "url": "https://www.honeycomb.io/honeycomb-for-builders",
+    "source": "https://www.honeycomb.io/honeycomb-for-builders"
+  },
+  {
+    "name": "HopoHopo Investor and Accelerator Startup Offer",
+    "category": "Sales and marketing startup offers",
+    "notes": "CRM discount offered through participating investors and accelerators.",
+    "id": "ADD370",
+    "url": "https://www.hopohopo.io/partner-program-welcome",
+    "source": "https://www.hopohopo.io/partner-program-welcome"
+  },
+  {
+    "name": "Hume AI Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD371",
+    "url": "https://hume.ai/startup-program",
+    "source": "https://hume.ai/startup-program"
+  },
+  {
+    "name": "HyperComply Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD372",
+    "url": "https://www.hypercomply.com/startup",
+    "source": "https://www.hypercomply.com/startup"
+  },
+  {
+    "name": "ImageKit Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD373",
+    "url": "https://imagekit.io/startup-program/",
+    "source": "https://imagekit.io/startup-program/"
+  },
+  {
+    "name": "Incident/Ops Startup Discount",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD374",
+    "url": "https://www.incidentops.io/pricing",
+    "source": "https://www.incidentops.io/pricing"
+  },
+  {
+    "name": "IronCore Labs Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD375",
+    "url": "https://ironcorelabs.com/startup-program/",
+    "source": "https://ironcorelabs.com/startup-program/"
+  },
+  {
+    "name": "Keygraph Community Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD376",
+    "url": "https://keygraph.io/community-program",
+    "source": "https://keygraph.io/community-program"
+  },
+  {
+    "name": "Kiro Startup Credits",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD377",
+    "url": "https://kiro.dev/startups/",
+    "source": "https://kiro.dev/startups/"
+  },
+  {
+    "name": "KrispCall Startup Elevate Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD378",
+    "url": "https://krispcall.com/krispcall-startup-elevate/",
+    "source": "https://krispcall.com/krispcall-startup-elevate/"
+  },
+  {
+    "name": "Labelbees for Startups",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD379",
+    "url": "https://www.labelbees.com/startups",
+    "source": "https://www.labelbees.com/startups"
+  },
+  {
+    "name": "Lessly Startup Accounting",
+    "category": "Finance and operations startup offers",
+    "notes": "Startup accounting offer for New Zealand companies; geography and service conditions apply.",
+    "id": "ADD380",
+    "url": "https://go.lessly.co.nz/",
+    "source": "https://go.lessly.co.nz/"
+  },
+  {
+    "name": "LogRocket startup discount",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD381",
+    "url": "https://logrocket.com/pricing",
+    "source": "https://logrocket.com/pricing"
+  },
+  {
+    "name": "Metoro for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD382",
+    "url": "https://metoro.io/pricing",
+    "source": "https://metoro.io/pricing"
+  },
+  {
+    "name": "Mintlify for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD383",
+    "url": "https://www.mintlify.com/startups",
+    "source": "https://www.mintlify.com/startups"
+  },
+  {
+    "name": "Modal for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD384",
+    "url": "https://modal.com/startups",
+    "source": "https://modal.com/startups"
+  },
+  {
+    "name": "MoEngage GrowthAccelerator",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD385",
+    "url": "https://growth-accelerator.moengage.com/",
+    "source": "https://growth-accelerator.moengage.com/"
+  },
+  {
+    "name": "MojoAuth Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD386",
+    "url": "https://mojoauth.com/startup/",
+    "source": "https://mojoauth.com/startup/"
+  },
+  {
+    "name": "MonetizeNow Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD387",
+    "url": "https://www.monetizenow.ai/startup-program",
+    "source": "https://www.monetizenow.ai/startup-program"
+  },
+  {
+    "name": "MYFUNDBOX Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD388",
+    "url": "https://myfundbox.com/startup-program",
+    "source": "https://myfundbox.com/startup-program"
+  },
+  {
+    "name": "Nebius for Startups",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "GPU-cloud credits through VC partners; retrieved page specified startups that have raised at least 5 million USD.",
+    "id": "ADD389",
+    "url": "https://nebius.com/startups",
+    "source": "https://nebius.com/startups"
+  },
+  {
+    "name": "New Relic for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD390",
+    "url": "https://newrelic.com/solutions/industry/startups",
+    "source": "https://newrelic.com/solutions/industry/startups"
+  },
+  {
+    "name": "Newport AI Startup Program",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD391",
+    "url": "https://newport.ai/",
+    "source": "https://newport.ai/"
+  },
+  {
+    "name": "NodCards Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD392",
+    "url": "https://www.nodcards.com/startup",
+    "source": "https://www.nodcards.com/startup"
+  },
+  {
+    "name": "OpenCypod Free Cybersecurity Support for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD393",
+    "url": "https://opencypod.org/",
+    "source": "https://opencypod.org/"
+  },
+  {
+    "name": "Outlaw Practice Startup Program",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD394",
+    "url": "https://www.outlawpractice.com/pricing/",
+    "source": "https://www.outlawpractice.com/pricing/"
+  },
+  {
+    "name": "PagerDuty for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD395",
+    "url": "https://www.pagerduty.com/startups/",
+    "source": "https://www.pagerduty.com/startups/"
+  },
+  {
+    "name": "PartnerStack for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD396",
+    "url": "https://partnerstack.com/for-startups",
+    "source": "https://partnerstack.com/for-startups"
+  },
+  {
+    "name": "Plivo Startup Credits Program",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD397",
+    "url": "https://www.plivo.com/startups/",
+    "source": "https://www.plivo.com/startups/"
+  },
+  {
+    "name": "Polar Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD398",
+    "url": "https://polar.sh/startup-program",
+    "source": "https://polar.sh/startup-program"
+  },
+  {
+    "name": "Prefect Startup Program",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD399",
+    "url": "https://www.prefect.io/contact/startup-program",
+    "source": "https://www.prefect.io/contact/startup-program"
+  },
+  {
+    "name": "Prelint Startup Program",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD400",
+    "url": "https://prelint.com/docs/billing",
+    "source": "https://prelint.com/docs/billing"
+  },
+  {
+    "name": "PTC for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD401",
+    "url": "https://www.ptc.com/en/try-and-buy/software-for-startups",
+    "source": "https://www.ptc.com/en/try-and-buy/software-for-startups"
+  },
+  {
+    "name": "Qodo Google Cloud Startups Offer",
+    "category": "Developer startup offers",
+    "notes": "Code-review offer for eligible Google Cloud startup-program participants.",
+    "id": "ADD402",
+    "url": "https://www.qodo.ai/google-cloud-startups/public/",
+    "source": "https://www.qodo.ai/google-cloud-startups/public/"
+  },
+  {
+    "name": "Qoyod Startup Program",
+    "category": "Finance and operations startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD403",
+    "url": "https://www.qoyod.com/en/partnerships/support-programs/",
+    "source": "https://www.qoyod.com/en/partnerships/support-programs/"
+  },
+  {
+    "name": "QuickNode for Startups",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD404",
+    "url": "https://www.quicknode.com/startup",
+    "source": "https://www.quicknode.com/startup"
+  },
+  {
+    "name": "Refinder Startup Program",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD405",
+    "url": "https://refinder.ai/startup-program/",
+    "source": "https://refinder.ai/startup-program/"
+  },
+  {
+    "name": "RevenueBase Startup Pricing Program",
+    "category": "Data and API startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD406",
+    "url": "https://revenuebase.ai/",
+    "source": "https://revenuebase.ai/"
+  },
+  {
+    "name": "Rootly for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD407",
+    "url": "https://rootly.com/startups",
+    "source": "https://rootly.com/startups"
+  },
+  {
+    "name": "SafeStack Startup Discount",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD408",
+    "url": "https://safestack.io/secure-your-startup-discount",
+    "source": "https://safestack.io/secure-your-startup-discount"
+  },
+  {
+    "name": "SalesStack Early-Stage Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD409",
+    "url": "https://www.salesstack.com/startups/",
+    "source": "https://www.salesstack.com/startups/"
+  },
+  {
+    "name": "Sarvam AI Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD410",
+    "url": "https://www.sarvam.ai/startup-program",
+    "source": "https://www.sarvam.ai/startup-program"
+  },
+  {
+    "name": "Semgrep Startup Pricing",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD411",
+    "url": "https://semgrep.dev/for/startups/",
+    "source": "https://semgrep.dev/for/startups/"
+  },
+  {
+    "name": "Shakebug Startup Plan",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD412",
+    "url": "https://www.shakebug.com/startups",
+    "source": "https://www.shakebug.com/startups"
+  },
+  {
+    "name": "Shotstack Startup Program",
+    "category": "Voice and media startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD413",
+    "url": "https://shotstack.io/solutions/startups/",
+    "source": "https://shotstack.io/solutions/startups/"
+  },
+  {
+    "name": "SigNoz for Startups",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD414",
+    "url": "https://signoz.io/startups/",
+    "source": "https://signoz.io/startups/"
+  },
+  {
+    "name": "Simplesat for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD415",
+    "url": "https://www.simplesat.io/simplesat-for-startups",
+    "source": "https://www.simplesat.io/simplesat-for-startups"
+  },
+  {
+    "name": "Site Qwality Startup Discount",
+    "category": "Observability startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD416",
+    "url": "https://siteqwality.com/faq/",
+    "source": "https://siteqwality.com/faq/"
+  },
+  {
+    "name": "SnapHRM for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD417",
+    "url": "https://www.snaphrm.com/hr-software-for-startups",
+    "source": "https://www.snaphrm.com/hr-software-for-startups"
+  },
+  {
+    "name": "Snowflake for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD418",
+    "url": "https://www.snowflake.com/en/why-snowflake/startup-program/",
+    "source": "https://www.snowflake.com/en/why-snowflake/startup-program/"
+  },
+  {
+    "name": "Snyk for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD419",
+    "url": "https://snyk.io/startups",
+    "source": "https://snyk.io/startups"
+  },
+  {
+    "name": "SparrowDesk Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD420",
+    "url": "https://support.sparrowdesk.com/hc/en/articles/6261244118-sparrowdesk-startup-program/",
+    "source": "https://support.sparrowdesk.com/hc/en/articles/6261244118-sparrowdesk-startup-program/"
+  },
+  {
+    "name": "SSOJet Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD421",
+    "url": "https://ssojet.com/startup/",
+    "source": "https://ssojet.com/startup/"
+  },
+  {
+    "name": "Stytch Startup Program",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD422",
+    "url": "https://stytch.com/migrate",
+    "source": "https://stytch.com/migrate"
+  },
+  {
+    "name": "Supabase YC / Accelerator Program",
+    "category": "Database startup offers",
+    "notes": "Supabase usage-credit offer listed in the official AWS Activate catalog; membership and offer terms apply.",
+    "id": "ADD423",
+    "url": "https://startups.aws.com/offers/supabse-updated",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Supportbench for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD424",
+    "url": "https://www.supportbench.com/startups/",
+    "source": "https://www.supportbench.com/startups/"
+  },
+  {
+    "name": "Tally Startup Discount",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD425",
+    "url": "https://tally.so/help/tally-for-startups",
+    "source": "https://tally.so/help/tally-for-startups"
+  },
+  {
+    "name": "Tavily for Startups",
+    "category": "AI and developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD426",
+    "url": "https://tavily.com/startups",
+    "source": "https://tavily.com/startups"
+  },
+  {
+    "name": "Teamwork for Startups",
+    "category": "Productivity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD427",
+    "url": "https://www.teamwork.com/startups/",
+    "source": "https://www.teamwork.com/startups/"
+  },
+  {
+    "name": "Tencent Cloud Startup Program",
+    "category": "Cloud and infrastructure startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD428",
+    "url": "https://www.tencentcloud.com/campaign/startupprogram",
+    "source": "https://www.tencentcloud.com/campaign/startupprogram"
+  },
+  {
+    "name": "TestMu AI for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD429",
+    "url": "https://www.testmuai.com/for-startups/",
+    "source": "https://www.testmuai.com/for-startups/"
+  },
+  {
+    "name": "Truzta Startup Discount",
+    "category": "Security and identity startup offers",
+    "notes": "Compliance-platform discount through the Secret partner program.",
+    "id": "ADD430",
+    "url": "https://truzta.com/secret/",
+    "source": "https://truzta.com/secret/"
+  },
+  {
+    "name": "Turso for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD431",
+    "url": "https://turso.tech/startups",
+    "source": "https://turso.tech/startups"
+  },
+  {
+    "name": "UseLoyalty Startup Program",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD432",
+    "url": "https://www.useloyalty.app/startup-program",
+    "source": "https://www.useloyalty.app/startup-program"
+  },
+  {
+    "name": "Vidyard for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD433",
+    "url": "https://www.vidyard.com/startups/",
+    "source": "https://www.vidyard.com/startups/"
+  },
+  {
+    "name": "Voitto Till Cash Rolls In",
+    "category": "Finance and operations startup offers",
+    "notes": "Startup accounting offer in Sweden; paid terms begin under the provider’s stated revenue conditions.",
+    "id": "ADD434",
+    "url": "https://www.voitto.se/en/sign-up/",
+    "source": "https://www.voitto.se/en/sign-up/"
+  },
+  {
+    "name": "Wiz Go for Startups",
+    "category": "Security and identity startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD435",
+    "url": "https://www.wiz.io/lp/startups",
+    "source": "https://www.wiz.io/lp/startups"
+  },
+  {
+    "name": "Grok for Startups",
+    "category": "AI and model startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD436",
+    "url": "https://x.ai/startups",
+    "source": "https://x.ai/startups"
+  },
+  {
+    "name": "Zencoder for Startups",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD437",
+    "url": "https://zencoder.ai/legal/zencoder-startup-program-terms-and-conditions",
+    "source": "https://zencoder.ai/legal/zencoder-startup-program-terms-and-conditions"
+  },
+  {
+    "name": "Zenphi for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD438",
+    "url": "https://zenphi.com/zenphi-for-startups/",
+    "source": "https://zenphi.com/zenphi-for-startups/"
+  },
+  {
+    "name": "ZeroPath Startup Discount",
+    "category": "Developer startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD439",
+    "url": "https://zeropath.com/pricing",
+    "source": "https://zeropath.com/pricing"
+  },
+  {
+    "name": "Zilliz for Startups",
+    "category": "Database startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD440",
+    "url": "https://zilliz.com/zilliz-for-startups",
+    "source": "https://zilliz.com/zilliz-for-startups"
+  },
+  {
+    "name": "Zimt for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD441",
+    "url": "https://www.zimt.ai/startup-program",
+    "source": "https://www.zimt.ai/startup-program"
+  },
+  {
+    "name": "Zoho for Startups",
+    "category": "Sales and marketing startup offers",
+    "notes": "Official startup program or offer. Check provider eligibility, pricing, partner requirements and current intake; reviewed 2026-10-29.",
+    "id": "ADD442",
+    "url": "https://www.zoho.com/startups",
+    "source": "https://www.zoho.com/startups"
+  },
+  {
+    "name": "Vanta Inc. AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD443",
+    "url": "https://startups.aws.com/offers/vanta",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Laravel Cloud startup credits",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD444",
+    "url": "https://startups.aws.com/offers/laravel-300",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "JumpCloud, Inc. AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD445",
+    "url": "https://startups.aws.com/offers/jumpcloud",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Descope Agentic Identity Hub startup offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD446",
+    "url": "https://startups.aws.com/offers/descope-agentic",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Arpio AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD447",
+    "url": "https://startups.aws.com/offers/arpio-inc",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Scrut Automation AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD448",
+    "url": "https://startups.aws.com/offers/scrut-automation",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Boomi AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD449",
+    "url": "https://startups.aws.com/offers/boomi",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Elastic Cloud self-funded startup offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD450",
+    "url": "https://startups.aws.com/offers/elastic-1k",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Automat-it AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD451",
+    "url": "https://startups.aws.com/offers/automat-it-llm-selection-optimizer",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Elastic Cloud AWS Activate member offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD452",
+    "url": "https://startups.aws.com/offers/elastic-5k",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "4MindsAI AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD453",
+    "url": "https://startups.aws.com/offers/4mindsai",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Antithesis AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD454",
+    "url": "https://startups.aws.com/offers/antithesis",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Launchpad.io (Pega) AWS Activate matching program",
+    "category": "AWS Activate partner offers",
+    "notes": "Launchpad.io matching benefits through AWS Activate. Multiple credit tiers appear in the catalog; this single entry covers those tiers.",
+    "id": "ADD455",
+    "url": "https://startups.aws.com/offers/pega-100k",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Laravel Private Cloud migration offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD456",
+    "url": "https://startups.aws.com/offers/laravel-10k",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Temporal AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD457",
+    "url": "https://startups.aws.com/offers/temporal",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Felt AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD458",
+    "url": "https://startups.aws.com/offers/felt-maps-inc",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "DataMasque AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD459",
+    "url": "https://startups.aws.com/offers/datamasque",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "CloudGov AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD460",
+    "url": "https://startups.aws.com/offers/cloudgov-inc",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Secure Code Warrior AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Paid multi-year subscription offer listed in AWS Activate; the additional year requires the specified purchase commitment.",
+    "id": "ADD461",
+    "url": "https://startups.aws.com/offers/secure-code-warrior",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "CrowdStrike endpoint protection startup offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD462",
+    "url": "https://startups.aws.com/offers/crowdstrike-epp",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "CrowdStrike cloud security startup offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD463",
+    "url": "https://startups.aws.com/offers/crowdstrike-cs",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "PingCAP AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD464",
+    "url": "https://startups.aws.com/offers/pingcap",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "CloudZero AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Trial or introductory offer listed in AWS Activate; not a cash grant. Confirm trial, subscription and eligibility conditions.",
+    "id": "ADD465",
+    "url": "https://startups.aws.com/offers/cloudzero",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Echo AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD466",
+    "url": "https://startups.aws.com/offers/echo",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Superblocks AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD467",
+    "url": "https://startups.aws.com/offers/superblocks",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "MazeHQ AI security startup offer",
+    "category": "AWS Activate partner offers",
+    "notes": "AI security offer from MazeHQ, listed in AWS Activate. This is distinct from Maze design-research software.",
+    "id": "ADD468",
+    "url": "https://startups.aws.com/offers/maze-ai",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Tracebit AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD469",
+    "url": "https://startups.aws.com/offers/tracebit",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Apono AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD470",
+    "url": "https://startups.aws.com/offers/apono",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Groundcover AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD471",
+    "url": "https://startups.aws.com/offers/groundcover-inc",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Merge AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD472",
+    "url": "https://startups.aws.com/offers/merge",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Amnic AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD473",
+    "url": "https://startups.aws.com/offers/amnic",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "StackGen AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD474",
+    "url": "https://startups.aws.com/offers/stackgen",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "FireTail AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD475",
+    "url": "https://startups.aws.com/offers/firetail",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Bolt AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD476",
+    "url": "https://startups.aws.com/offers/boltnew",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Harmony AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD477",
+    "url": "https://startups.aws.com/offers/harmony",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Platformr AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD478",
+    "url": "https://startups.aws.com/offers/platformr",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Bright Data AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD479",
+    "url": "https://startups.aws.com/offers/bright-data",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Amazon Device AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD480",
+    "url": "https://startups.aws.com/offers/amazon-device-",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Cyber Security Cloud AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD481",
+    "url": "https://startups.aws.com/offers/cyber-security-cloud",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Upwind AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD482",
+    "url": "https://startups.aws.com/offers/upwind",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Scytale AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD483",
+    "url": "https://startups.aws.com/offers/scytale",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Orca AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Trial or introductory offer listed in AWS Activate; not a cash grant. Confirm trial, subscription and eligibility conditions.",
+    "id": "ADD484",
+    "url": "https://startups.aws.com/offers/orca",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Corent AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD485",
+    "url": "https://startups.aws.com/offers/corent-aeo",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Ada AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Trial or introductory offer listed in AWS Activate; not a cash grant. Confirm trial, subscription and eligibility conditions.",
+    "id": "ADD486",
+    "url": "https://startups.aws.com/offers/ada-aeo",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Stripe Atlas AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD487",
+    "url": "https://startups.aws.com/offers/atlas",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Slack AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD488",
+    "url": "https://startups.aws.com/offers/slack",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "Bubble AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD489",
+    "url": "https://startups.aws.com/offers/bubble",
+    "source": "https://startups.aws.com/offers"
+  },
+  {
+    "name": "amazon business AWS Activate offer",
+    "category": "AWS Activate partner offers",
+    "notes": "Offer listed in the official AWS Activate catalog; eligibility, membership, paid-spend requirements and expiry are set by the provider. Catalog checked 2026-10-29.",
+    "id": "ADD490",
+    "url": "https://startups.aws.com/offers/amazonbusiness",
+    "source": "https://startups.aws.com/offers"
   }
 ]

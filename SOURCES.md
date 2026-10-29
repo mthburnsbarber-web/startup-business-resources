@@ -2,7 +2,7 @@
 
 | Collection | Source | Coverage |
 | --- | --- | --- |
-| Startup programs | Original 150-program tracker dated October 15, 2026; public program URLs only | 150 IDs, no private status or applicant data |
+| Startup programs | Original 150-program tracker and October 29 official-source omission audit | 150 original IDs + 490 supplemental entries; [research coverage](RESEARCH-AUDIT.md) and [source evidence](data/program-evidence.csv) |
 | Launch platforms | [Places To Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup), by Matt McCaffrey; original 82-site selection | 82/82 retained; source licensed CC0 |
 | Social platforms | Original 100-platform resource catalog; official service URLs | 100/100 retained; no private account ledger |
 | Web building | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) and [motionsites.ai](https://motionsites.ai/) | Exact upstream links; upstream license applies |

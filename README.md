@@ -17,7 +17,7 @@ These are the directory owner's chosen tools. [Details and links](guides/tools-b
 
 | Collection | Coverage | Open |
 | --- | --- | --- |
-| Startup programs | **151 entries: 150 original + 1 addition** | [Browse](guides/startup-programs.md) · [CSV](data/startup-programs.csv) · [JSON](data/startup-programs.json) |
+| Startup programs, offers and resources | **640 entries: 150 original + 490 supplemental** | [Browse](guides/startup-programs.md) · [CSV](data/startup-programs.csv) · [JSON](data/startup-programs.json) |
 | Launch platforms, including Product Hunt | **82 original entries** | [Browse](guides/launch-platforms.md) · [CSV](data/launch-platforms.csv) · [JSON](data/launch-platforms.json) |
 | Social, community and creator platforms | **100 entries** | [Browse](guides/social-platforms.md) · [CSV](data/social-platforms.csv) · [JSON](data/social-platforms.json) |
 | Federal, public-sector and GovRAMP | **36 resources** | [Browse](guides/federal-and-govramp.md) · [CSV](data/federal-and-govramp.csv) |
@@ -43,6 +43,6 @@ This repository contains public resource information. It contains no private app
 
 ## Sources and maintenance
 
-[Sources and coverage](SOURCES.md) · [Dated link checks](data/link-checks.csv) · [Link-check summary](LINK-CHECKS.md) · [Contributing](CONTRIBUTING.md)
+[Sources and coverage](SOURCES.md) · [Omission research audit](RESEARCH-AUDIT.md) · [Dated link checks](data/link-checks.csv) · [Link-check summary](LINK-CHECKS.md) · [Contributing](CONTRIBUTING.md)
 
 Compiled October 29, 2026. This is a reference directory, not legal, tax or investment advice.

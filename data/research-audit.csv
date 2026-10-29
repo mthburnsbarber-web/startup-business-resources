@@ -1,0 +1,845 @@
+discovery_source,name,url,decision,reason
+StartupCreds,Baidu AI Star Plan,https://cloud.baidu.com/event/aiStarPlan/index.html,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,NHN Cloud Startup Program,https://info.nhncloud.com/promotion/startup,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Fish Audio Startup Program,https://fish.audio/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Razorpay Startup Perks,https://razorpay.com/m/startup-perks/terms/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Solvimon × Y Combinator Startup Offer,https://www.solvimon.com/pricing/vc/yc,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Aleph Cloud Builder Program,https://aleph.cloud/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mollie Startup Program,https://www.mollie.com/solutions/payments-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Paytm for Startups,https://business.paytm.com/paytm-startups,Not added,Ordinary payment-service page; distinct startup benefit not established.
+StartupCreds,Aethir Ecosystem Fund (Catalyst),https://aethir.com/ecosystem-fund,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Denvr AI Ascend,https://www.denvr.com/ai-ascend,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,PayPal for Startups,https://www.paypal.com/us/business/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Runway Builders Program,https://runway.com/product/builders,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,BigQuery via Google for Startups Cloud Program,https://cloud.google.com/startup,Already covered,Original or separately verified route: B03
+StartupCreds,Brex for Startups,https://www.brex.com/solutions/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Firstbase Start + Rewards,https://www.firstbase.io/rewards,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Ramp for Startups,https://ramp.com/startups,Not added,Startup banking product page; distinct benefit not established.
+StartupCreds,ScrapeGraphAI Startup Program,https://scrapegraphai.com/for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,fal Generative Media Fund,https://fal.ai/fund,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Amazon Bedrock Startup Ecosystem,https://aws.amazon.com/startups/credits/,Already covered,Original or separately verified route: B02
+StartupCreds,Aruba Cloud Startup Program,https://www.arubacloud.pl/program-aruba-cloud-startup/programy.aspx,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Databricks for Startups,https://www.databricks.com/product/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Google for Startups Web3 Program,https://cloud.google.com/startup/web3,Already covered,Original or separately verified route: B03
+StartupCreds,Azure OpenAI Startup Ecosystem,https://www.microsoft.com/en-us/startups,Already covered,Original or separately verified route: B01
+StartupCreds,Huawei Cloud Startup Program,https://startup.huaweicloud.com/intl/en-us/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mixpanel for Startups,https://mixpanel.com/startups/,Already covered,Original or separately verified route: B59
+StartupCreds,Alibaba Cloud AI Catalyst Program,https://www.alibabacloud.com/en/startup/ai,Already covered,Original or separately verified route: B12
+StartupCreds,Azion Scale Up Credit Program,https://www.azion.com/en/lp/azion-scale-up/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Startup with IBM,https://orders.cloud.ibm.com/IBMGEP-application/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Aiven for Startups,https://aiven.io/startups,Already covered,Original or separately verified route: B50
+StartupCreds,Backblaze Flamethrower,https://www.backblaze.com/flamethrower,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Baidu AI Cloud Accelerator,https://cloud.baidu.com/solution/partner/aiacceleration.html,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Dash0 Startup Programme,https://www.dash0.com/dash0-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Daytona Startup Program,https://www.daytona.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,TechBoost Startup Program,https://techboost.telekom.com/public/apply,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,E2E Networks Startup Program,https://www.e2enetworks.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Grafana Labs Startup Program,https://grafana.com/blog/grafana-labs-startup-program/,Already covered,Original or separately verified route: B60
+StartupCreds,IONOS Cloud Startup Program,https://cloud.ionos.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Kong for Startups,https://konghq.com/solutions/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MaxIQ Startup Program,https://www.getmaxiq.com/maxiq-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,NAVER Cloud Startup Promotion,https://micro.ncloud.com/promotion/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,NetMind Elevate Program,https://www.netmind.ai/event/freeCredit,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,OpenSearch Startup Perk (Google for Startups),https://cloud.google.com/startup/perks,Already covered,Original or separately verified route: B03
+StartupCreds,OVHcloud Startup Program,https://startup.ovhcloud.com/en/,Already covered,Original or separately verified route: B07
+StartupCreds,PayU for Startups,https://www.startups.payu.in/,Not added,Only a program title was readable; benefit and terms could not be verified.
+StartupCreds,Qubrid AI Startup Accelerator,https://platform.qubrid.com/accelerator,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Render for Startups,https://render.com/startups,Already covered,Original or separately verified route: B14
+StartupCreds,TiDB Cloud Startup Credits (AWS Activate),https://startups.aws.com/offers,Already covered,Original or separately verified route: AWS TiDB offer
+StartupCreds,Vapi for Startups,https://vapi.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Airbyte Y Combinator Startup Promotion,https://airbyte.com/company/ycombinator-startup-promotion,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Confidence by Spotify Startup Program,https://confidence.spotify.com/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,RunPod Startup Program,https://www.runpod.io/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Vonage for Startups,https://developer.vonage.com/en/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Devin for Startups,https://devin.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Infobip Startup Tribe,https://startups.infobip.com/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Retool for Startups,https://docs.retool.com/support/discount-programs,Already covered,Original or separately verified route: B42
+StartupCreds,Stripe Atlas,https://docs.stripe.com/atlas,Already covered,Original or separately verified route: B66
+StartupCreds,Appice Liftoff Startup Programme,https://appice.ai/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,HopStart,https://bunny.net/HopStart/,Not added,Already covered by original B16 HopStart.
+StartupCreds,Civo Startup Program,https://www.civo.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ComplyCube Startup Program,https://www.complycube.com/en/company/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,DappLooker Startup Program,https://dapplooker.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,fal YC Startup Deal,https://fal.ai/yc,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Fivetran Startup Program,https://www.fivetran.com/pricing/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,HappyFox CRM Startup Pass,https://www.happyfox.com/crm/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Speechmatics Startup Program,https://www.speechmatics.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Statsig Startup Program,https://www.statsig.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Svix for Startups,https://www.svix.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Tenki for Startups,https://tenki.cloud/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Z Plan (Z.ai Startups),https://startup.z.ai/,Not added,Only a program title was readable; benefit and terms could not be verified.
+StartupCreds,SCALE at GMI Cloud,https://www.gmicloud.ai/en/company/scale,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,STACKIT Startup Program,https://stackit.com/en/why-stackit/benefits/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Lead Liaison Startup Program,https://www.leadliaison.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Convex for Startups,https://www.convex.dev/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Firecrawl for Startups (Startup Deal),https://www.firecrawl.dev/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Guepard for Startups,https://guepard.run/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Koyeb Startup Program,https://www.koyeb.com/blog/koyeb-for-startups-accelerate-with-credits-for-high-performance-infrastructure,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Netcore B2C Startup Program,https://netcore.ai/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Resemble AI Builder's Grant,https://www.resemble.ai/start/builders-grant-startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Runware Grant Program,https://runware.ai/grant-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,UCloud Enterprise Program (UEP),https://www.ucloud.cn/site/uep.html,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Veridion Startup Program,https://veridion.com/company/initiatives/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Viam for Startups,https://www.viam.com/resources/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Baseten AI Startup Program,https://www.baseten.co/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Braze for Startups,https://www.braze.com/press-releases/braze-launches-free-trial,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Definite for Startups,https://definite.app/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,KYE for Startups,https://kyeprotocol.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LegionEdge Startup Program,https://legionedge.ai/programs/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,OPM Startup Program,https://opmtechnologies.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Pendo for Startups,https://www.pendo.io/pendo-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Build on Polarise Startup Program,https://polarise.eu/startup-program/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Replit for Startups,https://replit.com/startups,Not added,Only a program title was readable; benefit and terms could not be verified.
+StartupCreds,Resend for YC Startups,https://resend.com/yc,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,RevOps.ai for Startups,https://revops.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cerebras YC Startup Deal,https://cerebras.ai/yc-startup-deal,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,FlexAI Startup Program,https://flex.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Anyscale AI Startup Program,https://www.anyscale.com/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Bright Data AI Startup Program,https://brightdata.com/ai/ai-startups-program,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Chutes Startup Accelerator,https://chutes.ai,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,CircleCI for Startups,https://circleci.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,E2B for Startups,https://e2b.dev/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SuprSend for Startups,https://www.suprsend.com/suprsend-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Telnyx Startups Program,https://telnyx.com/startups-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Yandex Startup Program,https://yandex.com/maps-api/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Gcore for Startups,https://startups.gcore.com/,Not added,Only a program title was readable; benefit and terms could not be verified.
+StartupCreds,Lightdash for Startups,https://www.lightdash.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MotherDuck for Startups,https://motherduck.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Neo4j Startup Program,https://neo4j.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Rippling Startup Stack,https://www.rippling.com/lp/startupstack,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Hindsight Cloud for Startups,https://vectorize.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Couchbase Capella Develop Starter Kit,https://info.couchbase.com/rs/302-GJY-034/images/Couchbase%20Capella%20AWS%20Activate%20%26%20Google%20Cloud%20Startup%20Promotion%20Terms%20and%20Conditions.pdf,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Recruitly Startup Program,https://recruitly.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mergify Startup Program,https://mergify.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Notion for Startups,https://www.notion.com/help/notion-for-startups,Already covered,Original or separately verified route: B41
+StartupCreds,OpenObserve Startup Program,https://openobserve.ai/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Socure Launch,https://www.socure.com/launch,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Axiom for Startups,https://axiom.co/axiom-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Bolt Activate,https://www.boltapp.com/activate,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Bruin for Startups,https://getbruin.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Clever Cloud UP Startup Program,https://www.clever.cloud/cloud-programs/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Comp AI for Startups,https://www.trycomp.ai/soc-2-for-startups,Not added,Startup-targeted sales page; a distinct benefit was not established.
+StartupCreds,Customer.io Startup Program,https://customer.io/solutions/startups,Already covered,Original or separately verified route: B61
+StartupCreds,Cyso Cloud Startup Program,https://cyso.cloud/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Declaw Startup Program,https://www.declaw.ai/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,DevRev Startup Program,https://devrev.ai/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,exe.dev Startup Program,https://exe.dev/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Inference.net AI Compute Grants,https://inference.net/grants/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Isaacus Startup Program,https://isaacus.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LangSmith for Startups,https://www.langchain.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LibertAI Sovereign Startup Program,https://libertai.io/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Novita AI Startup Credits,https://startups.novita.ai/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,OMC Cloud Startup Program,https://omc.cloud/products/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Paypercut for Startups,https://paypercut.com/terms-conditions-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,PipeOps Startup Program,https://pipeops.io/startups-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Prisma for Startups,https://www.prisma.io/programs/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Pulumi for Startups,https://www.pulumi.com/pulumi-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Rails Cloud Startup Program,https://pages.railscloud.co/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Rhetorik Data for Startups,https://rhetorik.com/lp-startups/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Salesforce Launchpad for Startups,https://www.salesforce.com/launchpad/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SiliconFlow Partner Program,https://siliconflow.cn/partner,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,smallest.ai Startup Grants Program,https://smallest.ai/grants,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Swarms AI Startup Program,https://www.swarms.ai/programs/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Twingate for Startups,https://www.twingate.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Upward Insights Finance Accelerator,https://www.upwardinsights.com/accelerator,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Sanity for Startups,https://www.sanity.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,turbopuffer for Startups,https://turbopuffer.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cartesia Startups Grant,https://www.cartesia.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Clay Wedge Startup GTM Accelerator,https://www.clay.com/clay-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,WafCharm Startup Offer,https://startups.aws.com/offers/cyber-security-cloud,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Productlane Early Stage Program,https://hello.productlane.com/docs/administration/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Exotel for Startups,https://exotel.com/exotel-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Future AGI Startup Program,https://futureagi.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Hakim AI Startup Program,https://tryhakim.ai/en/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Langfuse for Startups,https://langfuse.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Persona Startup Program,https://help.withpersona.com/articles/1XNnqukfZY9VamF2e7jkuJ/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Plain for Startups,https://www.plain.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Porter for Startups,https://www.porter.run/startups/aws-azure-gcp,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Qovery Perks for Startups,https://www.qovery.com/blog/introducing-qovery-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Temporal Startup Program,https://temporal.io/pricing,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Grain for Startups,https://grain.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ElevenLabs Startup Grants,https://elevenlabs.io/startup-grants,Already covered,Original or separately verified route: B29
+StartupCreds,Platformr AWS Startup CloudOps Offer,https://startups.aws.com/offers/platformr,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Zoom for Startups,https://www.zoom.com/en/lp/zoom-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,0x JumpStart Program,,Unverified,No reliable public program source verified.
+StartupCreds,AIgateway for Startups,https://aigateway.sh/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Aikido for Startups,https://www.aikido.dev/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Alchemy Startup Program,https://www.alchemy.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Arize for Startups,https://arize.com/arize-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Asana for Startups,https://asana.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ClickHouse Startup Offer,https://clickhouse.com/startup-offer,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ClickUp for Startups,https://clickup.com/startups-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CloudingHost Startup Program,https://www.cloudinghost.com/en/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cloudzy B2B Startup Deals,https://cloudzy.com/business-program/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Corti Startup Program,https://www.corti.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Decodo Startup Program,https://decodo.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,DeepInfra DeepStart,https://deepinfra.com/deepstart,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Depot credits via PostHog for Startups,https://depot.dev/docs/posthog-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,DocuSign for Startups,https://www.docusign.com/lp/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Edge for Startups,https://edge.network/solutions/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Esri Startup Program,https://www.esri.com/en-us/about/partners/our-partners/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Gust Launch,https://gust.com/launch/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Help Scout for Startups,https://www.helpscout.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,JetBrains for Startups,https://www.jetbrains.com/startups/,Not added,Already covered by original B37 JetBrains.
+StartupCreds,Lamatic Startup Program,https://lamatic.ai/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mapbox Geocoding Evaluation,https://www.mapbox.com/geocoding/evaluation,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Miro for Startups,https://miro.com/startups/,Already covered,Original or separately verified route: B40
+StartupCreds,Kimi Ambassador Program,https://www.kimi.ai/lp/kimi-ambassador,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,OpenRouter for Startups,https://openrouter.ai/startup-program-terms,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Reducto for Startups,https://reducto.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Remote for Startups,https://remote.com/global-hr/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Rime YC Startup Credits,https://www.rime.ai/resources/announcing-our-5k-credits-program-for-yc-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SambaNova Developer Early Access,https://sambanova.ai/developer/early-access-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SendPulse Startup Grant,https://sendpulse.com/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Sentry for Startups,https://sentry.io/for/startups/,Already covered,Original or separately verified route: B57
+StartupCreds,Shortcut for Startups,https://www.shortcut.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Siemens for Startups,https://www.siemens.com/en-us/company/siemens-software-for-startups/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Slack Partner Offers,https://slack.com/partner-offers,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,SurrealDB Startup Programme,https://surrealdb.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Truobox Startup Program,https://www.truobox.com/en/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Upwind Security AWS Startup Offer,https://startups.aws.com/offers/upwind,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Uxify for Startups,https://uxify.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,WorkOS for Startups,https://workos.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Helicone Startup Discount,https://www.helicone.ai/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Aptible Startup Program,https://www.aptible.com/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Braintrust for Startups,https://www.braintrust.dev/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Bubble + Microsoft for Startups,https://bubble.io/partnership/microsoft-for-startups,Not added,Partner landing page did not expose benefit terms; use the verified AWS Bubble offer.
+StartupCreds,Comet for Startups,https://info.comet.ml/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Dedalus for Startups,https://www.dedaluslabs.one/startup,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Fibery for Startups,https://fibery.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,GrackerAI for Startups,https://gracker.ai/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Tencent RTC Startups Program,https://trtc.io/start-up,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Typeform for Startups,https://help.typeform.com/hc/en-us/articles/360045878891-Startup-discount-at-Typeform,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Descope Hello World Startup Plan,https://www.descope.com/for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Authkey Startup India Plan,https://authkey.io/startup-india,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,GanttPRO Startup Program,https://ganttpro.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Vast.ai Startup Credit Matching,https://vast.ai/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zylora for Startups,https://zylora.dev/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Browserbase for Startups,https://www.browserbase.com/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,CodeSandbox Friends Program,https://codesandbox.stream/docs/learn/plans/codesandbox-friends,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Estuary for Startups,https://estuary.dev/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Gradium for Startups,https://gradium.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LlamaParse Startup Offer,https://www.llamaindex.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,n8n Business Plan for Startups,https://n8n.io/pricing/startup-plan/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Regolo.ai Builder Program,https://regolo.ai/builder-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,RemoFirst for Startups,https://www.remofirst.com/solutions/startups,Not added,Ordinary paid employment service; a distinct startup benefit was not established.
+StartupCreds,SnappyFlow Startup Program,https://www.snappyflow.io/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Youverify Startup Program,https://startup.youverify.co/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Aircall for Startups,https://aircall.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,FastPix Startup Program,https://fastpix.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Scalingo Startup Program,https://scalingo.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Tailscale for Startups,https://tailscale.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ActiveCampaign Start Up Program,https://www.activecampaign.com/start-up,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,incident.io for Startups,https://incident.io/industry/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Make Startup Program,https://www.make.com/en/startup-program,Already covered,Original or separately verified route: B43
+StartupCreds,Murf Startup Incubator Program,https://murf.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Claude for Open Source,https://claude.com/contact-sales/claude-for-oss,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Oyster for Startups,https://www.oysterhr.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Whimsical for Startups,https://whimsical.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,AI21 x NVIDIA Inception Startup Benefits,https://www.ai21.com/blog/ai21-joins-nvidia-inception,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CallMissed Startup Credits,https://www.callmissed.com/solutions/startups,Not added,Standard new-account credits; a separate startup program was not established.
+StartupCreds,Elastic Cloud AWS Marketplace Credits,https://www.elastic.co/partners/aws-marketplace-offer-application,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Exa Startup and Education Grants,https://exa.ai/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mem0 Startup Program,https://mem0.ai/startup-program,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,OpStart Startup Stack,https://www.opstart.co/startup-stack/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Phala Private AI Startup Program,https://phala.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Requesty Startup Program,https://www.requesty.ai/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Scyverge Startup Program,https://scyverge.com/startup,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,SmartBDM for Startups,https://www.smartbdm.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Vanta for Startups,https://www.vanta.com/solutions/startup,Not added,Generic sales page; use the verified AWS Vanta offer.
+StartupCreds,Xero for Startups,https://www.xero.com/us/small-businesses/startup/,Not added,General introductory promotion rather than a distinct startup program.
+StartupCreds,Pilot Startup Booster,https://pilot.com/startup-booster,Not added,Paid accounting package; a distinct startup benefit was not established.
+StartupCreds,Deskwoot Startup Program,https://deskwoot.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ChartMogul Startup Program,https://chartmogul.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MSG91 Startup Program,https://msg91.com/help/startup/what-is-msg91-startup-program-and-how-to-apply-for-it,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Granola for Startups,https://www.granola.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Heroku Open Source Software Credit Program,https://www.heroku.com/open-source-credit-program/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Mailchimp for Startups,https://mailchimp.com/for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Piloterr Startup Program,https://www.piloterr.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CockroachDB Cloud Free Credits,https://www.cockroachlabs.com/docs/cockroachcloud/free-trial,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Figma for Education,https://www.figma.com/education/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Mailazy for Startups,https://mailazy.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,AgentGrown Startups Program,https://agentgrown.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Generect for Startups,https://generect.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Google Cloud Free Trial Credits,https://cloud.google.com/free,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,PulseADT Startup Credit Program,https://getpulseadt.com/for-startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,GitHub Copilot for Students and Educators,https://github.com/education,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,EmberCloud for Startups,https://www.embercloud.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Intercom Early Stage Program,https://www.intercom.com/startups-program,Already covered,Original or separately verified route: B64
+StartupCreds,Codex $100 Student Credits,https://developers.openai.com/community/students,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,SiliconFlow International Credits,https://www.siliconflow.com/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,SOLIDWORKS for Startups,https://www.solidworks.com/solution/solidworks-for-startups-program,Already covered,Original or separately verified route: B23
+StartupCreds,Stream Maker Account,https://getstream.io/blog/maker-account/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,UCloud Global Startup Program,https://www.ucloud-global.com/en/promotion/cloud-credit-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,StartLegal Startup & Go,https://startlegal.com/,Not added,General company-formation service rather than a distinct startup program.
+StartupCreds,Postmark Bootstrapper Credit,https://postmarkapp.com/support/article/pricing-billing-ongoing-promotions-for-customers-bootstrapped-and-friends-family-discount,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Bavest Startup Offer,https://www.bavest.co/en/market-data-api,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Nuvio Startup Program,https://www.nuvio.io/startup-program-application,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Abstra Startup Discount Program,https://www.abstra.io/en/pricing,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,AnnounceKit Startup Program,https://announcekit.app/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Count for Startups,https://count.co.uk/who-we-help/startups/,Not added,Only a program title was readable; benefit and terms could not be verified.
+StartupCreds,Courier for Startups,https://www.courier.com/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,CrewForge for Startups,https://crewforge.org/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Databasin Startup Credits,https://databasin.ai/small-business/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Fresh IP Startup Program,https://freship.com/start-up-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Gumlet Startup Credits Program,https://www.gumlet.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Holded for Startups,https://www.holded.com/startups,Not added,General introductory promotion rather than a distinct startup program.
+StartupCreds,IdentiKyc Startup Program,https://identikyc.com/en/for-companies-en/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Lean-Case Startup Program,https://www.lean-case.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LocationIQ for Startups,https://locationiq.com/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Mirava Startup Program,https://www.mirava.io/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Olqan Startup Program,https://olqan.com/startup-program/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,ScaleGrid Startup Saver,https://help.scalegrid.io/docs/deals-startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,TaskGate.io Startup Program,https://www.taskgate.io/general-9,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,dbt Enterprise Google Startup Perk,https://www.getdbt.com/blog/enterprise-free-trial-startup-perks-program-google-cloud,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Context.dev Startup Discount,https://www.context.dev/startup-discount,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Fellow Startup Program,https://fellow.ai/partners/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Leapsome for Startups,https://www.leapsome.com/leapsome-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Browse AI for Startups,https://www.browse.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Twelve Data Early Stage Program,https://twelvedata.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MakeGood Startup Plan,https://makegoodapp.com/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,NepalHRM Startup Program,https://nepalhrm.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cobo x Google Startup Perks,https://www.cobo.com/lp/cobo-google-startup-perks,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,NormaTrack Startup Program,https://normatrack.com/pricing,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Massive for Startups,https://www.joinmassive.com/massive-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,1Password for Open Source,https://github.com/1Password/for-open-source,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Ably for Startups,https://ably.com/docs/platform/pricing/free,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Adaption for Startups,https://adaptionlabs.ai/adaption-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Agora Innovate Startup Program,https://prod.agora.io/kr/agora-for-startups-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Airtable for Startups,https://airtable.com/appGGpHNlmMUkfLol/shrghfGlQLt411Tyr,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Airwallex for Startups,https://www.airwallex.com/global/newsroom/airwallex-launches-refreshed-airwallex-for-startups-program-empowering,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Alaris Startup Shield,https://alaris.security/newsroom/2026/04/startup-shield-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Altair Data Intelligence Package for Startups,https://web.altair.com/altair-start-up-program-kr,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Ansys Startup Program,https://ansys.synopsys.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Antigravity Extended Limits via Google AI Plus,https://antigravity.google/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,AnveVoice for Startups,https://anvevoice.app/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Apify for Startups,https://apify.com/resources/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Apollo for Startups,https://www.apollo.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,AppSignal for Startups,https://www.appsignal.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Appwrite Startups Program,https://appwrite.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Arcee AI Trinity Builders Program,https://www.arcee.ai/blog/introducing-the-trinity-builders-program,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Attio Startup Program,https://attio.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Auth0 for Startups,https://auth0.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Beefree SDK Startup Program,https://developers.beefree.io/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,beehiiv Trial and Launch Discount,https://www.beehiiv.com/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Brevo Startups & VCs Program,https://www.brevo.com/partners/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Buffer for Startups,https://buffer.com/made-for/startups,Not added,Startup-targeted product page; a distinct benefit was not established.
+StartupCreds,Canva for Education,https://www.canva.com/education/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Carta Startup Stack,https://carta.com/partners/startup-stack/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cashfree Out of the World Startup Bundle,https://www.cashfree.com/en/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Chainguard Catalog Starter,https://edu.chainguard.dev/chainguard/containers/reference/catalog-starter/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Early Startup Discount,https://www.checklyhq.com/pricing/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Chimoney for Startups,https://chimoney.io/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CIQ Startup Program,https://ciq.com/solutions/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CircleCI Open Source Plan,https://circleci.com/open-source/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Cleanvoice AI Startup Credits,https://cleanvoice.ai/developers/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Clerk for Startups,https://clerk.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cloudinary for Startups,https://cloudinary.com/solutions/cloudinary-for-startups,Not added,Already covered by original B69 Cloudinary.
+StartupCreds,CloudThinker for Startups,https://www.cloudthinker.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cloudvisor AWS Startup Partner Offer,https://cloudvisor.co/aws-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Coda for Startups,https://coda.io/solutions/team-size/startups/apply-startup-credit,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CodeAnt AI Startup Discount,https://codeant.ai/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CodeRabbit Startup Program,https://www.coderabbit.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CodeRaptor for Startups,https://www.coderaptor.ai/solutions/startups/,Not added,Startup-targeted sales page; a distinct benefit was not established.
+StartupCreds,Cohere for Startups,https://cohere.com/blog/cohere-launches-startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Commented Startup Accelerator Plan,https://www.commented.io/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Composio for Startups,https://composio.dev/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ConfigCat Startup Program,https://configcat.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Confluent for Startups,https://www.confluent.io/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Cooley GO,https://www.cooleygo.com,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,CoreWeave Ventures,https://www.coreweave.com/ventures,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,CrateDB Startup Pack,https://cratedb.com/pricing/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Crisp Startup Program,https://help.crisp.chat/en/article/how-to-apply-to-the-startup-program-lyfxt4/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,CrowdStrike Falcon Cloud Security AWS Startup Offer,https://startups.aws.com/offers/crowdstrike-cs,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,CrowdStrike Falcon Endpoint Protection AWS Startup Offer,https://startups.aws.com/offers/crowdstrike-epp,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Cyber Chief Startup Program,https://www.cyberchief.ai/p/application-security-tool-for-startups.html,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Debito Pay Startup Program,https://debitopay.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Deel for Startups,https://www.deel.com/segments/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,deepidv Start-Up Program,https://www.deepidv.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,DefenseStation Early-Stage Program,https://defencestation.com/early-stage,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Dialpad for Startups,https://www.dialpad.com/dialpad-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Docker DHI Startup Program,https://www.docker.com/products/dhi-enterprise-smb-startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Docker-Sponsored Open Source (DSOS) Program,https://www.docker.com/community/open-source/application/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,DocSend for Startups,https://experience.dropbox.com/docsend/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Dodo for Startups,https://dodopayments.com/es/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Drata for Startups,https://drata.com/solutions/size/startup,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Embroker Startup Package,https://www.embroker.com/startup/,Not added,Ordinary insurance package rather than a startup grant or credit program.
+StartupCreds,Evidently Cloud for AI Startups,https://www.evidentlyai.com/sign-up-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Featherless.ai Sponsorship Program,https://featherless.ai/sponsorship,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Fillout Startup Discount,https://www.fillout.com/help/startup-discount,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Financica Startup Program,https://financica.app/for/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Finta Formation Accounting Plan,https://www.finta.com/,Not added,Ordinary accounting service; a distinct startup benefit was not established.
+StartupCreds,Fintech Sandbox Data Access Residency,https://www.fintechsandbox.org,Already covered,Same program as ADD72
+StartupCreds,FireTail for Startups,https://startups.aws.com/offers/firetail,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Fireworks for Startups,https://fireworks.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Flystack for Startups,https://www.flystack.dev/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Formaloo for Startups,https://formaloo.formaloo.me/startups-apply,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Free.ai Startup Credits,https://free.ai/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Freshworks for Startups,https://www.freshworks.com/assets/resources/Freshworks-for-Startups_Terms-%26-Conditions.pdf,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Frienton Startup Offer,https://www.frienton.com/startup-offer,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Frontegg Startup Acceleration Program,https://frontegg.com/sap-application,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Fullstory Startup Scholarship Program,https://help.fullstory.com/hc/en-us/articles/360020827833-Does-Fullstory-have-reduced-pricing-for-new-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Futureproof Startup Program,https://www.runfutureproof.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,GameAnalytics Startup Program,https://www.gameanalytics.com/pricing/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Gem for Startups,https://www.gem.com/solutions/startups,Not added,Startup-targeted sales page; a distinct benefit was not established.
+StartupCreds,Ghostly Startup Program,https://ghostlysolutions.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,GitBook Community Plan (Open Source),https://gitbook.com/docs/account-and-billing/plans/community,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,GitLab for Open Source Program,https://about.gitlab.com/solutions/open-source/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Gladia Startup Studio,https://www.gladia.io/start-up-studio,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Google Gemini Student Plan,https://gemini.google/students/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Greptile Startup Discount,https://www.greptile.com/pricing/startup-discount,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Harmny Startup Program,https://harmny.ai/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Honeycomb for Builders,https://www.honeycomb.io/honeycomb-for-builders,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,HopoHopo Investor and Accelerator Startup Offer,https://www.hopohopo.io/partner-program-welcome,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,HRSaathi Startup Plan,https://hrsaathi.com/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Hume AI Startup Program,https://hume.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,HyperComply Startup Program,https://www.hypercomply.com/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ImageKit Startup Program,https://imagekit.io/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Incident/Ops Startup Discount,https://www.incidentops.io/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Intel Liftoff for Startups,https://software.seek.intel.com/intel-liftoff,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,IronCore Labs Startup Program,https://ironcorelabs.com/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Keygraph Community Program,https://keygraph.io/community-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Kiro Startup Credits,https://kiro.dev/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,KrispCall Startup Elevate Program,https://krispcall.com/krispcall-startup-elevate/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Labelbees for Startups,https://www.labelbees.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Lessly Startup Accounting,https://go.lessly.co.nz/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,LogRocket startup discount,https://logrocket.com/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Lokalise Innovation & Research Program,https://lokalise.com/innovation-research-plan/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Lovable Student Discount,https://lovable.dev/students,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Manus AI Daily Free Credits,https://manus.im/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Mercury Perks,https://mercury.com/perks,Not added,"Benefits directory, linked separately under business resources."
+StartupCreds,Merge Launch Plan,https://www.merge.dev/pricing/unified,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Metoro for Startups,https://metoro.io/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Mintlify for Startups,https://www.mintlify.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Modal for Startups,https://modal.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MoEngage GrowthAccelerator,https://growth-accelerator.moengage.com/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MojoAuth Startup Program,https://mojoauth.com/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MonetizeNow Startup Program,https://www.monetizenow.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,MYFUNDBOX Startup Program,https://myfundbox.com/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Nebius for Startups,https://nebius.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Netlify Open Source Plan,https://www.netlify.com/open-source/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,New Relic for Startups,https://newrelic.com/solutions/industry/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Newport AI Startup Program,https://newport.ai/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,NMT Security Free for Startups,https://nmtsecurity.com/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,NodCards Startup Program,https://www.nodcards.com/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Notion for Education,https://www.notion.com/product/notion-for-education,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Novu for Startups,https://novu.co/pricing,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,NVIDIA Inception,https://www.nvidia.com/en-us/startups/,Already covered,Original or separately verified route: B17
+StartupCreds,Okta for Startups,https://www.okta.com/contact-sales-okta-for-startups/,Not added,Contact form did not expose startup eligibility or benefit terms.
+StartupCreds,OpenAI Startup Program,https://openai.com/startups,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,OpenCypod Free Cybersecurity Support for Startups,https://opencypod.org/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,OpenMetal Startup eXcelerator Program,https://openmetal.io/programs/startup-excelerator-program-cloud-credits/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Orca Security AWS Activate Offer,https://orca.security/lp/aws-activate/,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Outlaw Practice Startup Program,https://www.outlawpractice.com/pricing/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,PagerDuty for Startups,https://www.pagerduty.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,PartnerStack for Startups,https://partnerstack.com/for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Paystack Startup Bundle,https://paystack.com/ci/startups/bundle,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Plivo Startup Credits Program,https://www.plivo.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Polar Startup Program,https://polar.sh/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Prefect Startup Program,https://www.prefect.io/contact/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Prelint Startup Program,https://prelint.com/docs/billing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Process Street Startup Plan,https://www.process.st/pricing/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,PTC for Startups,https://www.ptc.com/en/try-and-buy/software-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Pusher for Startups,https://pusher.com/channels/pricing,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Puzzle for Startups,https://puzzle.io/blog/why-is-puzzle-free,Not added,General accounting offer rather than a distinct startup program.
+StartupCreds,Qodo Google Cloud Startups Offer,https://www.qodo.ai/google-cloud-startups/public/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Qoyod Startup Program,https://www.qoyod.com/en/partnerships/support-programs/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,QuickNode for Startups,https://www.quicknode.com/startup,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Refinder Startup Program,https://refinder.ai/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Replit for Educators,https://replit.com/edu/educators,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,RevenueBase Startup Pricing Program,https://revenuebase.ai/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Rootly for Startups,https://rootly.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SafeStack Startup Discount,https://safestack.io/secure-your-startup-discount,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SalesStack Early-Stage Startup Program,https://www.salesstack.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Sarvam AI Startup Program,https://www.sarvam.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Scrut AWS Activate Startup Offer,https://startups.aws.com/offers/scrut-automation,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Scytale for Startups,https://scytale.ai/startups,Not added,Startup-targeted sales page; a distinct benefit was not established.
+StartupCreds,Semgrep Startup Pricing,https://semgrep.dev/for/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Sentry for Open Source,https://sentry.io/for/open-source/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Shakebug Startup Plan,https://www.shakebug.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Shotstack Startup Program,https://shotstack.io/solutions/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SigNoz for Startups,https://signoz.io/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Simplesat for Startups,https://www.simplesat.io/simplesat-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Site Qwality Startup Discount,https://siteqwality.com/faq/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SnapHRM for Startups,https://www.snaphrm.com/hr-software-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Snowflake for Startups,https://www.snowflake.com/en/why-snowflake/startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Snyk for Startups,https://snyk.io/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Early-stage startup pricing (contact),https://socket.dev/pricing,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,SparrowDesk Startup Program,https://support.sparrowdesk.com/hc/en/articles/6261244118-sparrowdesk-startup-program/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,SSOJet Startup Program,https://ssojet.com/startup/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Stripe Startups,https://support.stripe.com/questions/stripe-startups-program-faqs,Already covered,Original or separately verified route: B66
+StartupCreds,Stytch Startup Program,https://stytch.com/migrate,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Supabase YC / Accelerator Program,https://supabase.com/customers/resend,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Supportbench for Startups,https://www.supportbench.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,TalentHR for Startups,https://www.talenthr.io/solutions/start-ups/,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Tally Startup Discount,https://tally.so/help/tally-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Tavily for Startups,https://tavily.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Teamwork for Startups,https://www.teamwork.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Tencent Cloud Startup Program,https://www.tencentcloud.com/campaign/startupprogram,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,TestMu AI for Startups,https://www.testmuai.com/for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Thoropass Startup Program (VC/accelerator),https://www.thoropass.com/company/become-a-partner,Unverified,"Source did not establish a readable, distinct startup offer or current terms; do not infer availability."
+StartupCreds,Tinybird Open Source Program,https://www.tinybird.co/open-source-program,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Trigger.dev YC Deal,https://www.ycombinator.com/companies/trigger-dev,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Truzta Startup Discount,https://truzta.com/secret/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Turso for Startups,https://turso.tech/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Twilio Startups,https://www.twilio.com/en-us/solutions/startups,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,UseLoyalty Startup Program,https://www.useloyalty.app/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Vidyard for Startups,https://www.vidyard.com/startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Voitto Till Cash Rolls In,https://www.voitto.se/en/sign-up/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Webflow for Startups,https://webflow.com/startups,Already covered,Original or separately verified route: B47
+StartupCreds,WellSaid Partner Program,https://www.wellsaid.io/text-to-speech-api/partner-page,Not added,General partner page rather than a distinct startup program.
+StartupCreds,Wispr Flow Trial and Student Offer,https://wisprflow.ai/students,Not added,"General product plan, trial, education/OSS benefit, or unrelated resource; not a distinct startup offer in this audit."
+StartupCreds,Wiz Go for Startups,https://www.wiz.io/lp/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Grok for Startups,https://x.ai/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zencoder for Startups,https://zencoder.ai/legal/zencoder-startup-program-terms-and-conditions,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zendesk for Startups,https://www.zendesk.com/business/startups/,Already covered,Original or separately verified route: B63
+StartupCreds,Zenphi for Startups,https://zenphi.com/zenphi-for-startups/,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,ZeroPath Startup Discount,https://zeropath.com/pricing,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zilliz for Startups,https://zilliz.com/zilliz-for-startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zimt for Startups,https://www.zimt.ai/startup-program,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Zoho for Startups,https://www.zoho.com/startups,Added,Official provider page reviewed; no application or eligibility outcome implied.
+StartupCreds,Chargebee for Startups,https://www.chargebee.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Cloudflare for Startups,https://www.cloudflare.com/startups/,Already covered,Already covered by original program URL
+StartupCreds,Google for Startups Cloud Program,https://cloud.google.com/startup,Already covered,Duplicate candidate source URL
+StartupCreds,Google Gemini Startup Ecosystem,https://cloud.google.com/startup,Already covered,Duplicate candidate source URL
+StartupCreds,Google Maps Platform via Google for Startups Cloud Program,https://cloud.google.com/startup,Already covered,Duplicate candidate source URL
+StartupCreds,AWS Activate,https://aws.amazon.com/startups/credits/,Already covered,Duplicate candidate source URL
+StartupCreds,Databricks Startup Program (Neon),https://neon.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Microsoft for Startups,https://www.microsoft.com/en-us/startups,Already covered,Duplicate candidate source URL
+StartupCreds,Akamai Cloud Rise Start-Up Program,https://www.akamai.com/cloud/start-ups/rise,Already covered,Already covered by original program URL
+StartupCreds,Datadog for Startups (DDFS),https://www.datadoghq.com/partner/datadog-for-startups/,Already covered,Already covered by original program URL
+StartupCreds,Deepgram for Startups,https://deepgram.com/startup-program,Already covered,Already covered by original program URL
+StartupCreds,Vultr Startup Program,https://discover.vultr.com/startup-program,Already covered,Already covered by original program URL
+StartupCreds,HubSpot for Startups,https://www.hubspot.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Cloudgov.ai AWS Startup FinOps Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,PostHog for Startups,https://posthog.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Together AI Startup Accelerator,https://www.together.ai/startup-accelerator,Already covered,Already covered by original program URL
+StartupCreds,Scaleway Startup Program,https://www.scaleway.com/en/startup-program/,Already covered,Already covered by original program URL
+StartupCreds,Vercel for Startups,https://vercel.com/startups/credits,Already covered,Already covered by original program URL
+StartupCreds,UpCloud Startup Program,https://upcloud.com/global/upcloud-startup-program/,Already covered,Already covered by original program URL
+StartupCreds,LiveKit Startup Program,https://livekit.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Algolia Startup Program,https://www.algolia.com/industries/startups,Already covered,Already covered by original program URL
+StartupCreds,Arpio for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Atlassian for Startups,https://www.atlassian.com/software/startups,Already covered,Already covered by original program URL
+StartupCreds,Descope Agentic Identity Hub for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Descope Customer Identity Hub for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,GitHub for Startups,https://github.com/enterprise/startups,Already covered,Already covered by original program URL
+StartupCreds,GitLab for Startups,https://about.gitlab.com/solutions/startups/,Already covered,Already covered by original program URL
+StartupCreds,LangSmith for Startups,https://www.langchain.com/startups,Already covered,Duplicate candidate source URL
+StartupCreds,Linear for Startups,https://linear.app/startups,Already covered,Already covered by original program URL
+StartupCreds,Antithesis AWS Activate Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Mux for Startups,https://www.mux.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Framer for Startups,https://www.framer.com/startups/,Already covered,Already covered by original program URL
+StartupCreds,Autodesk Fusion for Startups,https://www.autodesk.com/products/fusion-360/startups,Already covered,Already covered by original program URL
+StartupCreds,Felt for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Amnic AI Token Management Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Amplitude Startup Scholarship,https://amplitude.com/startups,Already covered,Already covered by original program URL
+StartupCreds,Apono AWS Activate Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,AssemblyAI Startup Program,https://www.assemblyai.com/contact/startup-program,Already covered,Already covered by original program URL
+StartupCreds,CloudZero AWS Activate Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,DigitalOcean Startups,https://www.digitalocean.com/startups,Already covered,Already covered by original program URL
+StartupCreds,groundcover for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Maze AI AWS Activate Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,MongoDB for Startups,https://www.mongodb.com/solutions/startups,Already covered,Already covered by original program URL
+StartupCreds,Netlify for Startups,https://www.netlify.com/partners/startups/,Already covered,Already covered by original program URL
+StartupCreds,Pinecone for Startups,https://www.pinecone.io/startup-program/,Already covered,Already covered by original program URL
+StartupCreds,Qdrant for Startups,https://qdrant.tech/qdrant-for-startups/,Already covered,Already covered by original program URL
+StartupCreds,Qualcomm Scaler Startup Program,https://www.qualcomm.com/developer/qualcomm-scaler-startup-program,Already covered,Already covered by original program URL
+StartupCreds,Aiden for Startups,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Tracebit AWS Startup Offer,https://startups.aws.com/offers,Already covered,Duplicate candidate source URL
+StartupCreds,Weaviate Startup Deal,https://weaviate.io/startup-deal,Already covered,Already covered by original program URL
+StartupCreds,Z.ai Startups Program,https://startup.z.ai,Already covered,Duplicate candidate source URL
+Targeted official-source research,Z Fellows,https://www.zfellows.com/,Added,ADD01; Official provider page
+Targeted official-source research,Conviction Embed,https://embed.conviction.com/,Added,ADD02; Official provider page
+Targeted official-source research,Thiel Fellowship,https://thielfellowship.org/,Added,ADD03; Official provider page
+Targeted official-source research,Emergent Ventures,https://mercatus.tfaforms.net/5099527,Added,ADD04; Official provider page
+Targeted official-source research,ATDC Accelerate,https://atdc.org/accelerate-program/,Added,ADD05; Official provider page
+Targeted official-source research,Georgia FAST Phase 0,https://research.uga.edu/gateway/startups/uga-fast-grant/,Added,ADD06; Official provider page
+Targeted official-source research,The Pitch by Deel,https://www.deel.com/the-pitch-by-deel/,Added,ADD07; Official provider page
+Targeted official-source research,MIT Solve,https://solve.mit.edu/challenges,Added,ADD08; Official provider page
+Targeted official-source research,GSV Cup,https://asugsvsummit.com/gsv-cup,Added,ADD09; Official provider page
+Targeted official-source research,Innovation Portal pitch competitions,https://www.innovation-portal.com/event/10th-anniversary-celebration/,Added,ADD10; Official provider page
+Targeted official-source research,Shophand Small Business Boost Grant,https://www.shophand.com/small-business-boost-grant,Added,ADD11; Official provider page
+Targeted official-source research,ECMC Education Innovation Ventures,https://www.ecmcfoundation.org/what-we-do/,Added,ADD12; Official provider page
+Targeted official-source research,AI for Good Innovation Factory,https://aiforgood.itu.int/about-us/innovation-factory/,Added,ADD13; Official provider page
+Targeted official-source research,JFFVentures,https://www.jffventures.vc/,Added,ADD14; Official provider page
+Targeted official-source research,Entrepreneurship World Cup,https://entrepreneurshipworldcup.com/,Added,ADD15; Official provider page
+Targeted official-source research,Stand Together Ventures Lab,https://stventureslab.com/about-us,Added,ADD16; Official page rendered in isolated browser
+Targeted official-source research,Kapor Capital,https://www.kaporcapital.com/pitch/,Added,ADD17; Official provider page
+Targeted official-source research,Business Freedom Grant,https://businessfreedomgrant.com/,Added,ADD18; Official provider page
+Targeted official-source research,Blue Ridge Labs Catalyst,https://robinhood.org/our-work/blue-ridge-labs/catalyst/,Added,ADD19; Official provider page
+Targeted official-source research,Digital Promise K-12 AI Infrastructure Program,https://digitalpromise.org/articles/apply-now-for-the-k-12-ai-infrastructure-programs-first-grant-cycle/,Added,ADD20; Official provider page
+Targeted official-source research,Betaworks Camp,https://www.betaworks.com/camp,Added,ADD21; Official provider page
+Targeted official-source research,Coach K Legacy Grant,https://thelegacygrant.com/,Added,ADD22; Official provider page
+Targeted official-source research,EDSAFE AI Industry Council,https://www.edsafeai.org/industry-council,Added,ADD23; Official provider page
+Targeted official-source research,Skip grants,https://helloskip.com/grants,Added,ADD24; Official provider page
+Targeted official-source research,Outta Excuses Grant,https://www.outtaexcuses.com/faq,Added,ADD25; Official provider page
+Targeted official-source research,Hustler’s MicroGrant,https://www.hersuitespot.com/hustlersgrant/,Added,ADD26; Official provider page
+Targeted official-source research,Create Birmingham CO.STARTERS,https://createbirmingham.org/programs/co-starters/,Added,ADD27; Official provider page
+Targeted official-source research,Founder Institute,https://fi.co/admissions,Added,ADD28; Official provider page
+Targeted official-source research,Berkeley SkyDeck,https://skydeck.berkeley.edu/apply/,Added,ADD29; Official provider page
+Targeted official-source research,TinySeed,https://tinyseed.com/,Added,ADD30; Official provider page
+Targeted official-source research,Emory Hatchery Sandbox and Accelerator,https://hatchery.emory.edu/engage-with-hatchery.html,Added,ADD31; Official provider page
+Targeted official-source research,Mercer Innovation Fellowship,https://mic.mercer.edu/fellows-program/,Added,ADD32; Official provider page
+Targeted official-source research,Melton Business Accelerator,https://www.southalabama.edu/colleges/mcob/mcei/mba.html,Added,ADD33; Official provider page
+Targeted official-source research,WISE Edtech Accelerator,https://www.wise-qatar.org/innovation/edtech-accelerator,Added,ADD34; Official provider page
+Targeted official-source research,SXSW EDU Launch,https://sxswedu.com/competitions/,Added,ADD35; Official provider page
+Targeted official-source research,Learning Engineering Tools Competition,https://tools-competition.org/,Added,ADD36; Official provider page
+Targeted official-source research,Google for Startups Accelerator,https://developers.google.com/community/accelerators/programs,Added,ADD37; Official provider page
+Targeted official-source research,AI Grant,https://aigrant.com/,Added,ADD38; Official provider page
+Targeted official-source research,CAMB.AI Startup Grants,https://www.camb.ai/startup-grants,Added,ADD39; Official provider page
+Targeted official-source research,AWS Education Equity Initiative,https://aws.amazon.com/about-aws/our-impact/education-equity-initiative/,Added,ADD40; Official provider page
+Targeted official-source research,HF0,https://www.hf0.com/,Added,ADD41; Official provider page
+Targeted official-source research,Neo Residency,https://neo.com/residency,Added,ADD42; Official provider page
+Targeted official-source research,Entrepreneurs First,https://apply.joinef.com/,Added,ADD43; Official provider page
+Targeted official-source research,ODF,https://admissions.joinodf.com/,Added,ADD44; Official provider page
+Targeted official-source research,PearX,https://pear.vc/pearx/,Added,ADD45; Official provider page
+Targeted official-source research,500 Global Flagship Accelerator / 500 Fellowship,https://500.co/founders/flagship,Added,ADD46; Official provider page
+Targeted official-source research,MassChallenge,https://masschallenge.org/programs-all/,Added,ADD47; Official provider page
+Targeted official-source research,gener8tor accelerators,https://www.gener8tor.com/apply,Added,ADD48; Official provider page
+Targeted official-source research,Halcyon fellowships,https://halcyonaccelerator.org/applicants/,Added,ADD49; Official provider page
+Targeted official-source research,Breakthrough Energy Fellows,https://apply.breakthroughenergy.org/,Added,ADD50; Official provider page
+Targeted official-source research,Startmate Accelerator,https://www.startmate.com/accelerator,Added,ADD51; Official provider page
+Targeted official-source research,Accelerate Cambridge,https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/,Added,ADD52; Official provider page
+Targeted official-source research,Entrepreneurs Roundtable Accelerator,https://www.eranyc.com/,Added,ADD53; Official provider page
+Targeted official-source research,HAX,https://hax.co/,Added,ADD54; Official provider page
+Targeted official-source research,Plug and Play startup programs,https://www.plugandplaytechcenter.com/innovation-services/startups,Added,ADD55; Official page rendered in isolated browser
+Targeted official-source research,STARTUP AUTOBAHN,https://startup-autobahn.com/,Added,ADD56; Official provider page
+Targeted official-source research,Peak XV Surge,https://surge.peakxv.com/,Added,ADD57; Official provider page
+Targeted official-source research,Third Derivative,https://www.third-derivative.org/,Added,ADD58; Official provider page
+Targeted official-source research,Accel Atoms,https://atoms.accel.com/faqs,Added,ADD59; Official provider page
+Targeted official-source research,Creative Destruction Lab,https://creativedestructionlab.com/program/,Added,ADD60; Official provider page
+Targeted official-source research,Flat6Labs,https://flat6labs.com/apply-now/,Added,ADD61; Official provider page
+Targeted official-source research,Founders Factory,https://foundersfactory.com/accelerator/,Added,ADD62; Official provider page
+Targeted official-source research,Kickstart Innovation,https://www.kickstart-innovation.com/,Added,ADD63; Official provider page
+Targeted official-source research,MiraclePlus,https://www.miracleplus.com/apply,Added,ADD64; Official provider page
+Targeted official-source research,NEXT 36,https://www.nextcanada.com/next-36/,Added,ADD65; Official provider page
+Targeted official-source research,parallel18,https://parallel18.com/p18/,Added,ADD66; Official provider page
+Targeted official-source research,Platanus Ventures,https://platan.us/programa,Added,ADD67; Official provider page
+Targeted official-source research,Start-Up Chile Build,https://startupchile.org/en/apply/build/,Added,ADD68; Official provider page
+Targeted official-source research,Startupbootcamp,https://startupbootcamp.org/,Added,ADD69; Official provider page
+Targeted official-source research,Echoing Green Fellowship,https://echoinggreen.org/fellowship/,Added,ADD70; Official provider page
+Targeted official-source research,Acumen Fellowship,https://acumen.org/fellowships/,Added,ADD71; Official provider page
+Targeted official-source research,Fintech Sandbox Data Access Residency,https://www.fintechsandbox.org/,Added,ADD72; Official provider page
+Targeted official-source research,Sprinto Blueprint,https://blueprint.sprinto.com/,Added,ADD73; Official provider page
+Targeted official-source research,Navy NAWCTSD research opportunities,https://www.navair.navy.mil/organization/NAWCTSD,Added,ADD74; Official provider page
+Targeted official-source research,ONR long-range research announcements,https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements,Added,ADD75; Official provider page
+Targeted official-source research,OpenAI for Startups,https://openai.com/startups,Added,ADD76; Indexed official source; direct retrieval restricted
+Targeted official-source research,Replit for Startups,https://replit.com/usecases/founders,Added,ADD77; Official provider page
+Targeted official-source research,Browserbase ElevenLabs Founder Pack,https://www.browserbase.com/11labs-founder-pack,Added,ADD78; Official provider page
+Targeted official-source research,DevRev Startup Program,https://devrev.ai/startups/apply,Added,ADD79; Official page rendered in isolated browser
+Targeted official-source research,PayU Startup Program,https://lp.payu.in/matrix,Added,ADD80; Official provider page
+Targeted official-source research,Z.ai Startup Program,https://startup.z.ai/,Added,ADD81; Official page rendered in isolated browser
+Targeted official-source research,Gcore for Startups,https://startups.gcore.com/,Added,ADD82; Official page rendered in isolated browser
+Targeted official-source research,The Catalyst Fund,https://www.thecatalystfund.com/,Added,ADD83; Official provider page
+Targeted official-source research,Postman for AI-native startups,https://www.postman.com/postman-for-ai-native-startups/,Added,ADD84; Official provider page
+Targeted official-source research,Zuddl Webinars for Startups,https://support.zuddl.com/articles/7531895068-how-to-choose-a-zuddl-webinar-plan,Added,ADD85; Official provider page
+Targeted official-source research,Carta Launch,https://carta.com/plans/equity-management/,Added,ADD86; Official provider page
+Targeted official-source research,GitGuardian,https://www.gitguardian.com/pricing,Added,ADD87; Official provider page
+Targeted official-source research,Socket,https://socket.dev/pricing,Added,ADD88; Official provider page
+Targeted official-source research,Zapier,https://zapier.com/,Added,ADD89; Official provider page
+Targeted official-source research,Heap,https://www.heap.io/pricing,Added,ADD90; Official provider page
+Targeted official-source research,CockroachDB Cloud trial,https://www.cockroachlabs.com/docs/cockroachcloud/free-trial,Added,ADD91; Official provider page
+Targeted official-source research,Tiger Data / Timescale,https://www.tigerdata.com/pricing,Added,ADD92; Official provider page
+Targeted official-source research,Clever Library and app partner overview,https://support.clever.com/hc/s/articles/218727678,Added,ADD93; Official provider page
+Targeted official-source research,Qloo Agentic Hackathon,https://qloo.devpost.com/,Added,ADD94; Indexed official source; direct retrieval restricted
+Targeted official-source research,Qloo LLM Hackathon,https://qloo-hackathon.devpost.com/,Added,ADD95; Indexed official source; direct retrieval restricted
+Targeted official-source research,PayPal AI Hackathon,https://developer.paypal.com/community/blog/PayPal_AI_Hackathon/,Added,ADD96; Official provider page
+Targeted official-source research,OpenCV AI Competition,https://opencv.org/opencv-launches-ai-competition-powered-by-amazon-web-services/,Added,ADD97; Official provider page
+Targeted official-source research,NIH Kidney AI Discovery Challenge,https://www.nih.gov/challenges/kidney-artificial-intelligence-discovery-challenge-nebulae-nephrons,Added,ADD98; Official provider page
+Targeted official-source research,DOE GEMS Prize Challenge,https://www.energy.gov/hgeo/geothermal/articles/office-geothermal-announces-geologic-enhanced-mapping-system-gems-prize,Added,ADD99; Official provider page
+Targeted official-source research,Allianz MoveNow Social Innovation Challenge,https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/,Added,ADD100; Official provider page
+Targeted official-source research,Blaise xTech Competition,https://www.herox.com/xTechIdeaCompetition,Added,ADD101; Official provider page
+Targeted official-source research,Meta Llama Impact Grants,https://ai.meta.com/llama/llama-impact-grants,Added,ADD102; Official provider page
+Targeted official-source research,Airwallex Agentic Banking Hackathon announcement,https://www.linkedin.com/posts/airwallex_introducing-the-agentic-banking-hackathon-activity-7512919322550333440-BHPh,Added,ADD103; Official provider page
+AWS Activate official offer catalog,Vanta Inc. AWS Activate offer,https://startups.aws.com/offers/vanta,Added,ADD443; distinct AWS partner offer
+AWS Activate official offer catalog,Qodo AWS Activate offer,https://startups.aws.com/offers/qodo,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,LangChain AWS Activate offer,https://startups.aws.com/offers/langchain,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Laravel Cloud startup credits,https://startups.aws.com/offers/laravel-300,Added,ADD444; distinct AWS partner offer
+AWS Activate official offer catalog,Pulumi Corporation AWS Activate offer,https://startups.aws.com/offers/pulumi,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,"JumpCloud, Inc. AWS Activate offer",https://startups.aws.com/offers/jumpcloud,Added,ADD445; distinct AWS partner offer
+AWS Activate official offer catalog,Descope Agentic Identity Hub startup offer,https://startups.aws.com/offers/descope-agentic,Added,ADD446; distinct AWS partner offer
+AWS Activate official offer catalog,Arpio AWS Activate offer,https://startups.aws.com/offers/arpio-inc,Added,ADD447; distinct AWS partner offer
+AWS Activate official offer catalog,Aikido Security AWS Activate offer,https://startups.aws.com/offers/aikido-security,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Deepgram AWS Activate offer,https://startups.aws.com/offers/deepgram,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Tailscale AWS Activate offer,https://startups.aws.com/offers/tailscale-inc,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Scrut Automation AWS Activate offer,https://startups.aws.com/offers/scrut-automation,Added,ADD448; distinct AWS partner offer
+AWS Activate official offer catalog,Stripe AWS Activate offer,https://startups.aws.com/offers/stripe,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Circle CI AWS Activate offer,https://startups.aws.com/offers/circleci,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Supabase AWS Activate offer,https://startups.aws.com/offers/supabse-updated,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Boomi AWS Activate offer,https://startups.aws.com/offers/boomi,Added,ADD449; distinct AWS partner offer
+AWS Activate official offer catalog,Elastic Cloud self-funded startup offer,https://startups.aws.com/offers/elastic-1k,Added,ADD450; distinct AWS partner offer
+AWS Activate official offer catalog,Automat-it AWS Activate offer,https://startups.aws.com/offers/automat-it-llm-selection-optimizer,Added,ADD451; distinct AWS partner offer
+AWS Activate official offer catalog,Elastic Cloud AWS Activate member offer,https://startups.aws.com/offers/elastic-5k,Added,ADD452; distinct AWS partner offer
+AWS Activate official offer catalog,4MindsAI AWS Activate offer,https://startups.aws.com/offers/4mindsai,Added,ADD453; distinct AWS partner offer
+AWS Activate official offer catalog,GitLab AWS Activate offer,https://startups.aws.com/offers/gitlab,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Antithesis AWS Activate offer,https://startups.aws.com/offers/antithesis,Added,ADD454; distinct AWS partner offer
+AWS Activate official offer catalog,Launchpad.io (Pega) AWS Activate matching program,https://startups.aws.com/offers/pega-100k,Added,ADD455; distinct AWS partner offer
+AWS Activate official offer catalog,Laravel Private Cloud migration offer,https://startups.aws.com/offers/laravel-10k,Added,ADD456; distinct AWS partner offer
+AWS Activate official offer catalog,Pega AWS Activate offer,https://startups.aws.com/offers/pega-25k,Already covered,Credit tier of Launchpad.io matching program; consolidated into one entry.
+AWS Activate official offer catalog,Pega AWS Activate offer,https://startups.aws.com/offers/pega-10k,Already covered,Credit tier of Launchpad.io matching program; consolidated into one entry.
+AWS Activate official offer catalog,Pega AWS Activate offer,https://startups.aws.com/offers/pega-5k,Already covered,Credit tier of Launchpad.io matching program; consolidated into one entry.
+AWS Activate official offer catalog,Temporal AWS Activate offer,https://startups.aws.com/offers/temporal,Added,ADD457; distinct AWS partner offer
+AWS Activate official offer catalog,Atlassian AWS Activate offer,https://startups.aws.com/offers/atlassian,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Descope AWS Activate offer,https://startups.aws.com/offers/descope-customer,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Felt AWS Activate offer,https://startups.aws.com/offers/felt-maps-inc,Added,ADD458; distinct AWS partner offer
+AWS Activate official offer catalog,DataMasque AWS Activate offer,https://startups.aws.com/offers/datamasque,Added,ADD459; distinct AWS partner offer
+AWS Activate official offer catalog,CloudGov AWS Activate offer,https://startups.aws.com/offers/cloudgov-inc,Added,ADD460; distinct AWS partner offer
+AWS Activate official offer catalog,Secure Code Warrior AWS Activate offer,https://startups.aws.com/offers/secure-code-warrior,Added,ADD461; distinct AWS partner offer
+AWS Activate official offer catalog,Depot Technologies AWS Activate offer,https://startups.aws.com/offers/depot,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Tavily AWS Activate offer,https://startups.aws.com/offers/tavily,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,CrowdStrike endpoint protection startup offer,https://startups.aws.com/offers/crowdstrike-epp,Added,ADD462; distinct AWS partner offer
+AWS Activate official offer catalog,CrowdStrike cloud security startup offer,https://startups.aws.com/offers/crowdstrike-cs,Added,ADD463; distinct AWS partner offer
+AWS Activate official offer catalog,Porter AWS Activate offer,https://startups.aws.com/offers/porter,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,mercury AWS Activate offer,https://startups.aws.com/offers/mercury,Already covered,Mercury is already the banking resource; conditional deposit promotion is not a separate startup program.
+AWS Activate official offer catalog,Coda AWS Activate offer,https://startups.aws.com/offers/coda,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Qdrant AWS Activate offer,https://startups.aws.com/offers/qdrant,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,PingCAP AWS Activate offer,https://startups.aws.com/offers/pingcap,Added,ADD464; distinct AWS partner offer
+AWS Activate official offer catalog,CloudZero AWS Activate offer,https://startups.aws.com/offers/cloudzero,Added,ADD465; distinct AWS partner offer
+AWS Activate official offer catalog,Echo AWS Activate offer,https://startups.aws.com/offers/echo,Added,ADD466; distinct AWS partner offer
+AWS Activate official offer catalog,Superblocks AWS Activate offer,https://startups.aws.com/offers/superblocks,Added,ADD467; distinct AWS partner offer
+AWS Activate official offer catalog,MazeHQ AI security startup offer,https://startups.aws.com/offers/maze-ai,Added,ADD468; distinct AWS partner offer
+AWS Activate official offer catalog,Tracebit AWS Activate offer,https://startups.aws.com/offers/tracebit,Added,ADD469; distinct AWS partner offer
+AWS Activate official offer catalog,Apono AWS Activate offer,https://startups.aws.com/offers/apono,Added,ADD470; distinct AWS partner offer
+AWS Activate official offer catalog,Groundcover AWS Activate offer,https://startups.aws.com/offers/groundcover-inc,Added,ADD471; distinct AWS partner offer
+AWS Activate official offer catalog,Merge AWS Activate offer,https://startups.aws.com/offers/merge,Added,ADD472; distinct AWS partner offer
+AWS Activate official offer catalog,Amnic AWS Activate offer,https://startups.aws.com/offers/amnic,Added,ADD473; distinct AWS partner offer
+AWS Activate official offer catalog,StackGen AWS Activate offer,https://startups.aws.com/offers/stackgen,Added,ADD474; distinct AWS partner offer
+AWS Activate official offer catalog,FireTail AWS Activate offer,https://startups.aws.com/offers/firetail,Added,ADD475; distinct AWS partner offer
+AWS Activate official offer catalog,Bolt AWS Activate offer,https://startups.aws.com/offers/boltnew,Added,ADD476; distinct AWS partner offer
+AWS Activate official offer catalog,Alchemy AWS Activate offer,https://startups.aws.com/offers/alchemy,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Harmony AWS Activate offer,https://startups.aws.com/offers/harmony,Added,ADD477; distinct AWS partner offer
+AWS Activate official offer catalog,Framer AWS Activate offer,https://startups.aws.com/offers/framer,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Sonatype AWS Activate offer,https://startups.aws.com/offers/sonatype,Not added,"Catalog states purchase by June 30, 2026; deadline is past on review date."
+AWS Activate official offer catalog,Fireworks AWS Activate offer,https://startups.aws.com/offers/fireworks,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Deel AWS Activate offer,https://startups.aws.com/offers/deel,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Platformr AWS Activate offer,https://startups.aws.com/offers/platformr,Added,ADD478; distinct AWS partner offer
+AWS Activate official offer catalog,Databricks AWS Activate offer,https://startups.aws.com/offers/databricks,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Bright Data AWS Activate offer,https://startups.aws.com/offers/bright-data,Added,ADD479; distinct AWS partner offer
+AWS Activate official offer catalog,Amazon Device AWS Activate offer,https://startups.aws.com/offers/amazon-device-,Added,ADD480; distinct AWS partner offer
+AWS Activate official offer catalog,Cyber Security Cloud AWS Activate offer,https://startups.aws.com/offers/cyber-security-cloud,Added,ADD481; distinct AWS partner offer
+AWS Activate official offer catalog,PTC AWS Activate offer,https://startups.aws.com/offers/ptc,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Upwind AWS Activate offer,https://startups.aws.com/offers/upwind,Added,ADD482; distinct AWS partner offer
+AWS Activate official offer catalog,Multiverse Computing AWS Activate offer,https://startups.aws.com/offers/multiverse-computing2,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Scytale AWS Activate offer,https://startups.aws.com/offers/scytale,Added,ADD483; distinct AWS partner offer
+AWS Activate official offer catalog,Asana AWS Activate offer,https://startups.aws.com/offers/asana,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,DevRev AWS Activate offer,https://startups.aws.com/offers/devrev,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Orca AWS Activate offer,https://startups.aws.com/offers/orca,Added,ADD484; distinct AWS partner offer
+AWS Activate official offer catalog,Hubspot AWS Activate offer,https://startups.aws.com/offers/hubspot,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Notion AWS Activate offer,https://startups.aws.com/offers/notion,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Corent AWS Activate offer,https://startups.aws.com/offers/corent-aeo,Added,ADD485; distinct AWS partner offer
+AWS Activate official offer catalog,Ada AWS Activate offer,https://startups.aws.com/offers/ada-aeo,Added,ADD486; distinct AWS partner offer
+AWS Activate official offer catalog,Clickhouse AWS Activate offer,https://startups.aws.com/offers/clickhouse,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Stripe Atlas AWS Activate offer,https://startups.aws.com/offers/atlas,Added,ADD487; distinct AWS partner offer
+AWS Activate official offer catalog,zendesk AWS Activate offer,https://startups.aws.com/offers/zendesk,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Confluent AWS Activate offer,https://startups.aws.com/offers/confluent,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Slack AWS Activate offer,https://startups.aws.com/offers/slack,Added,ADD488; distinct AWS partner offer
+AWS Activate official offer catalog,Amplitude AWS Activate offer,https://startups.aws.com/offers/amplitude,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Bubble AWS Activate offer,https://startups.aws.com/offers/bubble,Added,ADD489; distinct AWS partner offer
+AWS Activate official offer catalog,Intercom AWS Activate offer,https://startups.aws.com/offers/intercom,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,amazon business AWS Activate offer,https://startups.aws.com/offers/amazonbusiness,Added,ADD490; distinct AWS partner offer
+AWS Activate official offer catalog,auth0 AWS Activate offer,https://startups.aws.com/offers/auth0,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Miro AWS Activate offer,https://startups.aws.com/offers/miro,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+AWS Activate official offer catalog,Datadog AWS Activate offer,https://startups.aws.com/offers/datadog-for-startups,Already covered,Same provider/program in the original or supplemental list; separate pricing/partner route retained in this audit.
+Onward Scout discovery catalog,startmate accelerator,https://www.startmate.com/accelerator,Already covered,Related program represented by ADD51
+Onward Scout discovery catalog,y combinator batch,https://apply.ycombinator.com/home,Already covered,"Related program represented by VC01, ADD106, ADD128"
+Onward Scout discovery catalog,techstars anywhere,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,techstars boston,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,techstars london,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,techstars nyc,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,accelerate cambridge,https://www.jbs.cam.ac.uk/entrepreneurship/forms/accelerate-apply/,Already covered,Related program represented by ADD52
+Onward Scout discovery catalog,alchemist accelerator,https://www.alchemistaccelerator.com/apply,Already covered,Related program represented by VC06
+Onward Scout discovery catalog,antler india residency,https://www.antler.co/apply,Unverified,Specific regional track not separately verified; broad provider coverage does not establish this track.
+Onward Scout discovery catalog,aws activate,https://aws.amazon.com/startups/credits,Already covered,"Related program represented by Q07, ADD40"
+Onward Scout discovery catalog,eic accelerator,https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en,Already covered,"Related program represented by EU01, EU02, EU03, EU04"
+Onward Scout discovery catalog,entrepreneurs first founder program,https://apply.joinef.com,Already covered,Related program represented by ADD43
+Onward Scout discovery catalog,era nyc accelerator,https://www.eranyc.com/apply/,Already covered,Related program represented by ADD53
+Onward Scout discovery catalog,founder institute program,https://fi.co/,Already covered,Related program represented by ADD28
+Onward Scout discovery catalog,gener8tor accelerator,https://www.gener8tor.com/apply,Already covered,"Related program represented by AL06, AL08, ADD48"
+Onward Scout discovery catalog,google for startups cloud program,https://cloud.google.com/startup,Already covered,Related program represented by B03
+Onward Scout discovery catalog,sosv hax accelerator,https://sosv.com/apply/hax/,Already covered,Related program represented by ADD54
+Onward Scout discovery catalog,microsoft for startups,https://www.microsoft.com/en-us/startups,Already covered,Related program represented by B01
+Onward Scout discovery catalog,nvidia inception,https://programs.nvidia.com/phoenix/application,Already covered,Related program represented by B17
+Onward Scout discovery catalog,pearx,https://pear.vc/pearx-application/,Already covered,Related program represented by ADD45
+Onward Scout discovery catalog,plug and play startup acceleration,https://www.plugandplaytechcenter.com/innovation-services/startups,Already covered,Related program represented by ADD55
+Onward Scout discovery catalog,startup autobahn,https://startup-autobahn.com/,Already covered,Related program represented by ADD56
+Onward Scout discovery catalog,peak xv surge,https://surge.peakxv.com/apply,Already covered,Related program represented by ADD57
+Onward Scout discovery catalog,third derivative,https://www.third-derivative.org/,Already covered,Related program represented by ADD58
+Onward Scout discovery catalog,500 global fellowship,https://500.co/founders/flagship,Already covered,Related program represented by ADD46
+Onward Scout discovery catalog,500 global latam,https://500.co/latam,Already covered,Related program represented by ADD46
+Onward Scout discovery catalog,a16z speedrun,https://speedrun.a16z.com/apply,Already covered,Related program represented by VC02
+Onward Scout discovery catalog,accel atoms,https://apply.accel-atoms.com/,Already covered,Related program represented by ADD59
+Onward Scout discovery catalog,berkeley skydeck accelerator,https://skydeck.berkeley.edu/apply/,Already covered,Related program represented by ADD29
+Onward Scout discovery catalog,betaworks camp,https://www.betaworks.com/camp/application,Already covered,Related program represented by ADD21
+Onward Scout discovery catalog,catalyst fund,https://www.thecatalystfund.com/,Already covered,Related program represented by ADD83
+Onward Scout discovery catalog,conviction embed,https://embed.conviction.com/apply,Already covered,Related program represented by ADD02
+Onward Scout discovery catalog,creative destruction lab,https://creativedestructionlab.com/application-triage/,Already covered,Related program represented by ADD60
+Onward Scout discovery catalog,flat6labs programs,https://flat6labs.com/apply-now/,Already covered,Related program represented by ADD61
+Onward Scout discovery catalog,founders factory accelerator,https://foundersfactory.com/accelerator/,Already covered,Related program represented by ADD62
+Onward Scout discovery catalog,google for startups accelerator,https://startup.google.com/programs/accelerator/,Already covered,Related program represented by ADD37
+Onward Scout discovery catalog,kickstart innovation,https://www.kickstart-innovation.com/,Already covered,Related program represented by ADD63
+Onward Scout discovery catalog,masschallenge accelerators,https://masschallenge.org/our-accelerators/,Already covered,Related program represented by ADD47
+Onward Scout discovery catalog,miracleplus accelerator,https://www.miracleplus.com/apply,Already covered,Related program represented by ADD64
+Onward Scout discovery catalog,neo residency,https://neo.com/residency,Already covered,Related program represented by ADD42
+Onward Scout discovery catalog,next 36,https://www.nextcanada.com/next-36/,Already covered,Related program represented by ADD65
+Onward Scout discovery catalog,parallel18 p18,https://parallel18.com/p18/,Already covered,Related program represented by ADD66
+Onward Scout discovery catalog,platanus ventures,https://platan.us/apply,Already covered,Related program represented by ADD67
+Onward Scout discovery catalog,sequoia arc,https://www.sequoiacap.com/arc/,Already covered,Related program represented by business O12
+Onward Scout discovery catalog,start up chile build,https://startupchile.org/en/apply/build/,Already covered,"Related program represented by GL07, GL08, ADD68"
+Onward Scout discovery catalog,start up chile ignite,https://startupchile.org/en/apply/ignite/,Already covered,"Related program represented by GL07, GL08, ADD68"
+Onward Scout discovery catalog,startupbootcamp accelerators,https://startupbootcamp.org/,Already covered,Related program represented by ADD69
+Onward Scout discovery catalog,techstars accelerators,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,techstars tokyo,https://apply.techstars.com/,Already covered,Related program represented by VC03
+Onward Scout discovery catalog,tony elumelu foundation entrepreneurship programme,https://www.tefconnect.com/,Already covered,Related program represented by GL12
+Onward Scout discovery catalog,tinyseed accelerator,https://tinyseed.com/,Already covered,Related program represented by ADD30
+Onward Scout discovery catalog,paul daisy soros fellowships,https://pdsoros.org/apply,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,hertz fellowship,https://www.hertzfoundation.org/the-fellowship/apply/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,nvidia graduate fellowship,https://research.nvidia.com/graduate-fellowships,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,stanford wallace stegner fellowship,https://creativewriting.stanford.edu/stegner-fellowship/wallace-stegner-fellowship,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,sundance merata mita fellowship,https://apply.sundance.org,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,asian cultural council fellowships,https://www.asianculturalcouncil.org/grant-opportunities,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,croucher study awards 2027,https://apply.croucher.org.hk/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,sundance graton fellowship,https://apply.sundance.org,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,hong kong phd fellowship scheme,https://cerg1.ugc.edu.hk/hkpfs/apply.html,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,nieman fellowship harvard,https://nieman.harvard.edu/fellowships/how-to-apply/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,yale world fellows,https://worldfellows.yale.edu/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,branco weiss fellowship,https://brancoweissfellowship.org/application,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,boren fellowships,https://www.borenawards.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,sundance development track,https://apply.sundance.org,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,mercatus emergent ventures,https://www.mercatus.org/emergent-ventures,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,thiel fellowship,https://thielfellowship.my.site.com/apply/s/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,z fellows,https://docs.google.com/forms/d/1z5HG9Pj0hIxS2oZL_wcJS5QqDZlcVbkhYGHp5Kp_IGM/viewform,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,aaas science technology policy fellowships,https://www.aaas.org/programs/science-technology-policy-fellowships/become-st-policy-fellow,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,acumen regional fellowships,https://acumen.org/fellowships/,Already covered,Related program represented by ADD71
+Onward Scout discovery catalog,apple scholars aiml,https://machinelearning.apple.com/updates/apple-scholars-aiml-2026,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,berlinale talents,https://www.berlinale-talents.de/bt/page/c/apply,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,cohere labs scholars program,https://cohere.com/research/scholars-program,Already covered,Related program represented by ADD338
+Onward Scout discovery catalog,doe computational science graduate fellowship,https://csgf.krellinst.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,echoing green fellowship,https://echoinggreen.org/fellowship/apply/,Already covered,Related program represented by ADD70
+Onward Scout discovery catalog,fulbright us student program,https://apply.iie.org/fulbrightusstudent,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,gandhi fellowship piramal,https://www.gandhifellowship.org/faqs,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,google phd fellowship,https://research.google/programs-and-events/phd-fellowship/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,guggenheim fellowship,https://www.gf.org/program/how-to-apply,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,humphrey fellowship program,https://www.humphreyfellowship.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,mo ibrahim foundation leadership fellowship,https://mo.ibrahim.foundation/fellowships,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,kauffman fellows program,https://www.kauffmanfellows.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,knight science journalism fellowship mit,https://ksj.mit.edu/fellowships/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,kleiner perkins kp fellows,https://jobs.ashbyhq.com/kleinerperkinsfellows,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,luce scholars program,https://lucescholars.org/selection/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,mandela washington fellowship,https://www.mandelawashingtonfellowship.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,mats ml alignment theory scholars,https://www.matsprogram.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,msra startrack scholars program,https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-startrack-program/process/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,nrf fellowship singapore,https://researchgrant.gov.sg/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,obama foundation leaders program,https://www.obama.org/programs/leaders/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,prince claus fellows award,https://princeclausfund.nl/awards-and-programmes/fellows-award,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,princeton in asia fellowship,https://www.princetoninasia.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,reuters institute journalist fellowship,https://reutersinstitute.politics.ox.ac.uk/journalist-fellowship-programme,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,royal society university research fellowships,https://royalsociety.org/grants/university-research/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,sloan research fellowships,https://sloan.org/fellowships/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,akademie schloss solitude fellowship,https://application.akademie-solitude.de,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,south park commons founder fellowship,https://www.southparkcommons.com/apply,Already covered,Related program represented by VC05
+Onward Scout discovery catalog,sundance ignite adobe fellowship,https://apply.sundance.org,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,sundance producers track,https://apply.sundance.org,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,swiss government excellence scholarships,https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,teach for india fellowship,https://apply.teachforindia.org/,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
+Onward Scout discovery catalog,thomas j watson fellowship,https://watson.foundation/fellowships/tj,Outside startup scope,"Academic, arts, public-service or general leadership fellowship; not added as startup funding."
