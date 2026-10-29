@@ -12,7 +12,7 @@ A public, browsable collection of startup programs, launch channels, social plat
 | Federal, public-sector and GovRAMP | **36 resources** | [Browse](guides/federal-and-govramp.md) · [CSV](data/federal-and-govramp.csv) |
 | Business operations, Delaware and Sequoia | **29 resources** | [Browse](guides/business-operations.md) · [CSV](data/business-operations.csv) |
 | MotionSites and web-building skills | **2 links** | [Browse](guides/web-building.md) |
-| News and press | **42 requested; source recovery pending** | [Status and sources](guides/news-and-press.md) |
+| News and press | **42 original entries** | [Browse](guides/news-and-press.md) · [CSV](data/news-and-press.csv) · [JSON](data/news-and-press.json) |
 
 ## Quick links
 

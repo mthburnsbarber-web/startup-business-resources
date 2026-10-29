@@ -7,7 +7,7 @@
 | Social platforms | Original 100-platform resource catalog; official service URLs | 100/100 retained; no private account ledger |
 | Web building | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) and [motionsites.ai](https://motionsites.ai/) | Exact upstream links; upstream license applies |
 | Federal and business resources | Named official agencies, program operators and business services linked in each record | Public resource directory, no private filing evidence |
-| News and press | Separately requested 42-outlet list | See the news page for source-recovery status |
+| News and press | Original numbered list supplied in screenshots on October 28, 2026; public provider URLs | 42/42 original names and order, including 17 press-release services; no private execution status |
 
 Original row IDs are retained in the 150-program list. Some are program variants, geographic tracks or different resources from the same provider. In particular, the original B75 title does not establish separate Apple Private Cloud Compute access; its note identifies that limitation. US16 is a private Verizon program, not a federal grant.
 

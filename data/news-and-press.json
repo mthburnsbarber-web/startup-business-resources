@@ -1,0 +1,338 @@
+[
+  {
+    "id": "N01",
+    "name": "Peerlist Launchpad",
+    "category": "Product launches and software listings",
+    "url": "https://peerlist.io/launchpad",
+    "notes": "Product launch community. Check current launch eligibility, schedule and submission rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N02",
+    "name": "AlternativeTo",
+    "category": "Product launches and software listings",
+    "url": "https://alternativeto.net/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N03",
+    "name": "SaaSHub",
+    "category": "Product launches and software listings",
+    "url": "https://www.saashub.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N04",
+    "name": "DevHunt",
+    "category": "Product launches and software listings",
+    "url": "https://devhunt.org/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N05",
+    "name": "Fazier",
+    "category": "Product launches and software listings",
+    "url": "https://fazier.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N06",
+    "name": "Launching Next",
+    "category": "Product launches and software listings",
+    "url": "https://www.launchingnext.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N07",
+    "name": "G2",
+    "category": "Product launches and software listings",
+    "url": "https://www.g2.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N08",
+    "name": "Capterra",
+    "category": "Product launches and software listings",
+    "url": "https://www.capterra.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N09",
+    "name": "Product Hunt",
+    "category": "Product launches and software listings",
+    "url": "https://www.producthunt.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N10",
+    "name": "Hacker News",
+    "category": "Product launches and software listings",
+    "url": "https://news.ycombinator.com/",
+    "notes": "Product discovery or software listing platform. Check current listing rules and review requirements.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N11",
+    "name": "Hugging Face Community Articles",
+    "category": "Articles and company updates",
+    "url": "https://huggingface.co/blog/community",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N12",
+    "name": "DEV Community",
+    "category": "Articles and company updates",
+    "url": "https://dev.to/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N13",
+    "name": "Hashnode",
+    "category": "Articles and company updates",
+    "url": "https://hashnode.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N14",
+    "name": "HackerNoon",
+    "category": "Articles and company updates",
+    "url": "https://hackernoon.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N15",
+    "name": "Indie Hackers",
+    "category": "Articles and company updates",
+    "url": "https://www.indiehackers.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N16",
+    "name": "Substack",
+    "category": "Articles and company updates",
+    "url": "https://substack.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N17",
+    "name": "Medium",
+    "category": "Articles and company updates",
+    "url": "https://medium.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N18",
+    "name": "LinkedIn",
+    "category": "Articles and company updates",
+    "url": "https://www.linkedin.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N19",
+    "name": "WordPress.com",
+    "category": "Articles and company updates",
+    "url": "https://wordpress.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N20",
+    "name": "Blogger",
+    "category": "Articles and company updates",
+    "url": "https://www.blogger.com/",
+    "notes": "Publish articles or company updates under the platform’s current rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N21",
+    "name": "Insider Press Wire",
+    "category": "Press-release publishing",
+    "url": "https://insiderpresswire.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N22",
+    "name": "TrustNewswire",
+    "category": "Press-release publishing",
+    "url": "https://www.trustnewswire.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N23",
+    "name": "FreePressReleases.co.uk",
+    "category": "Press-release publishing",
+    "url": "https://www.freepressreleases.co.uk/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N24",
+    "name": "SEOPressRelease.io",
+    "category": "Press-release publishing",
+    "url": "https://seopressrelease.io/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N25",
+    "name": "PRLog",
+    "category": "Press-release publishing",
+    "url": "https://www.prlog.org/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N26",
+    "name": "openPR",
+    "category": "Press-release publishing",
+    "url": "https://www.openpr.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N27",
+    "name": "PR.com",
+    "category": "Press-release publishing",
+    "url": "https://www.pr.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N28",
+    "name": "1888PressRelease",
+    "category": "Press-release publishing",
+    "url": "https://www.1888pressrelease.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N29",
+    "name": "PRFree",
+    "category": "Press-release publishing",
+    "url": "https://www.prfree.org/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N30",
+    "name": "PressReleasePoint",
+    "category": "Press-release publishing",
+    "url": "https://www.pressreleasepoint.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N31",
+    "name": "Pressbox",
+    "category": "Press-release publishing",
+    "url": "https://pressbox.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N32",
+    "name": "FreePRNow",
+    "category": "Press-release publishing",
+    "url": "https://www.freeprnow.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N33",
+    "name": "Express Press Release",
+    "category": "Press-release publishing",
+    "url": "https://express-press-release.net/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N34",
+    "name": "Press Release Power",
+    "category": "Press-release publishing",
+    "url": "https://www.pressreleasepower.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N35",
+    "name": "SubmitPR",
+    "category": "Press-release publishing",
+    "url": "https://submitpr.org/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N36",
+    "name": "EIN Presswire",
+    "category": "Press-release publishing",
+    "url": "https://www.einpresswire.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N37",
+    "name": "IssueWire",
+    "category": "Press-release publishing",
+    "url": "https://www.issuewire.com/",
+    "notes": "Press-release publishing or distribution service. Check current prices, editorial review and distribution terms; no free offer is guaranteed here.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N38",
+    "name": "Reddit",
+    "category": "Community and local exposure",
+    "url": "https://www.reddit.com/",
+    "notes": "Community or local publishing platform. Participation, geography and promotion rules vary.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N39",
+    "name": "Bluesky",
+    "category": "Community and local exposure",
+    "url": "https://bsky.app/",
+    "notes": "Community or local publishing platform. Participation, geography and promotion rules vary.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N40",
+    "name": "Mastodon",
+    "category": "Community and local exposure",
+    "url": "https://joinmastodon.org/",
+    "notes": "Community or local publishing platform. Participation, geography and promotion rules vary. Choose a server and review its own rules.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N41",
+    "name": "Patch",
+    "category": "Community and local exposure",
+    "url": "https://patch.com/",
+    "notes": "Community or local publishing platform. Participation, geography and promotion rules vary.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  },
+  {
+    "id": "N42",
+    "name": "Nextdoor",
+    "category": "Community and local exposure",
+    "url": "https://nextdoor.com/",
+    "notes": "Community or local publishing platform. Participation, geography and promotion rules vary.",
+    "source": "Original 42-place list supplied in screenshots, 2026-10-28"
+  }
+]
