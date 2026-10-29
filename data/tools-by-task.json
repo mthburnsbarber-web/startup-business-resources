@@ -22,5 +22,13 @@
     "url": "https://chatgpt.com/",
     "notes": "The directory owner's choice for debugging.",
     "source": "Owner task assignments, 2026-10-29"
+  },
+  {
+    "id": "T04",
+    "name": "Mercury",
+    "category": "Banking",
+    "url": "https://mercury.com/",
+    "notes": "The directory owner's choice for business banking.",
+    "source": "Owner task assignments, 2026-10-29"
   }
 ]

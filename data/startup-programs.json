@@ -1198,5 +1198,13 @@
     "category": "Grants and open technology",
     "notes": "Original 150-program resource list; check current eligibility and intake dates.",
     "source": "Original program tracker, 2026-10-15"
+  },
+  {
+    "id": "ADD01",
+    "name": "Z Fellows",
+    "category": "Additional startup programs",
+    "url": "https://www.zfellows.com/",
+    "notes": "Founder fellowship and mentorship for early-stage technical builders; check current application terms on the official site.",
+    "source": "https://www.zfellows.com/"
   }
 ]

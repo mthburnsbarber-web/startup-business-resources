@@ -1,8 +1,14 @@
-# 150 startup programs
+# 151 startup programs
 
-The complete original 150-entry resource list. Original IDs are retained, including separately listed tracks within the same organization. A place on this list does not mean that an application was submitted or accepted. Program windows, location requirements, prices and benefits can change.
+The original 150-entry resource list plus verified additions. Original IDs are retained, including separately listed tracks within the same organization. A place on this list does not mean that an application was submitted or accepted. Program windows, location requirements, prices and benefits can change.
 
 [CSV](../data/startup-programs.csv) · [JSON](../data/startup-programs.json) · [Directory home](../README.md)
+
+## Additional startup programs
+
+| ID | Resource | Notes | Link check |
+| --- | --- | --- | --- |
+| ADD01 | [Z Fellows](https://www.zfellows.com/) | Founder fellowship and mentorship for early-stage technical builders; check current application terms on the official site. | 200 — reachable |
 
 ## Startup benefits and developer programs
 

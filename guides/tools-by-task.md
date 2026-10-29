@@ -1,6 +1,6 @@
 # Tools by task
 
-The directory owner's chosen tools for each task: Project Utah for security, Claude for building, and ChatGPT for debugging.
+The directory owner's chosen tools for each task: Project Utah for security, Claude for building, ChatGPT for debugging, and Mercury for banking.
 
 [CSV](../data/tools-by-task.csv) · [JSON](../data/tools-by-task.json) · [Directory home](../README.md)
 
@@ -21,4 +21,10 @@ The directory owner's chosen tools for each task: Project Utah for security, Cla
 | ID | Resource | Notes | Link check |
 | --- | --- | --- | --- |
 | T03 | [ChatGPT](https://chatgpt.com/) | The directory owner's choice for debugging. | 403 — access restricted or rate limited; unverified |
+
+## Banking
+
+| ID | Resource | Notes | Link check |
+| --- | --- | --- | --- |
+| T04 | [Mercury](https://mercury.com/) | The directory owner's choice for business banking. | 200 — reachable |
 

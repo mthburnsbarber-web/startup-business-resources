@@ -230,5 +230,13 @@
     "url": "https://www.sba.gov/local-assistance",
     "notes": "Find regional small-business assistance.",
     "source": "https://www.sba.gov/local-assistance"
+  },
+  {
+    "id": "O30",
+    "name": "Mercury",
+    "category": "Banking",
+    "url": "https://mercury.com/",
+    "notes": "The directory owner's choice for business banking. Mercury is a financial technology company; banking services are provided by partner banks.",
+    "source": "https://mercury.com/"
   }
 ]

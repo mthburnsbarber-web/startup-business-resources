@@ -98,3 +98,9 @@ Public links used for company setup and related work. Delaware formation and Seq
 | O28 | [SCORE](https://www.score.org/) | Small-business mentoring and education. | 403 — access restricted or rate limited; unverified |
 | O29 | [SBA local assistance](https://www.sba.gov/local-assistance) | Find regional small-business assistance. | 200 — reachable |
 
+## Banking
+
+| ID | Resource | Notes | Link check |
+| --- | --- | --- | --- |
+| O30 | [Mercury](https://mercury.com/) | The directory owner's choice for business banking. Mercury is a financial technology company; banking services are provided by partner banks. | 200 — reachable |
+

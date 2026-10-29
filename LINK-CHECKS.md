@@ -8,7 +8,7 @@ Unauthenticated HTTP retrieval on October 29, 2026. Redirect destination query s
 | TLS verification failed; unverified | 4 |
 | access restricted or rate limited; unverified | 32 |
 | network lookup or timeout; unverified | 8 |
-| reachable | 369 |
+| reachable | 371 |
 | redirected to personal site; directory purpose unverified | 1 |
 | redirected to survey-moved notice; submission route unverified | 1 |
 
